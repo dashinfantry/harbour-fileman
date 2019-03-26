@@ -43,7 +43,7 @@ Page {
 
                         PageHeader {
                             id: pageHeader
-                            title: "File information"
+                            title: qsTr("File information")
                         }
 
                         ProgressBar {
@@ -167,47 +167,6 @@ Page {
                     height: Theme.itemSizeExtraSmall
                 }
             }
-
-            /*Column {
-                id: column
-                spacing: Theme.paddingLarge
-                width: parent.width
-                PageHeader {
-                    title: "File information"
-                }
-
-                Column {
-                    width: parent.width
-
-                    Label {
-                        width: parent.width
-
-                        anchors.left: parent.left
-                        anchors.right: parent.right
-                        anchors.leftMargin: Theme.paddingLarge
-                        anchors.rightMargin: Theme.paddingLarge
-
-                        horizontalAlignment: Text.AlignHCenter
-
-                        text: fileEntry.fileName
-                    }
-
-                    Label {
-                        width: parent.width
-
-                        anchors.left: parent.left
-                        anchors.right: parent.right
-                        anchors.leftMargin: Theme.paddingLarge
-                        anchors.rightMargin: Theme.paddingLarge
-
-                        horizontalAlignment: Text.AlignHCenter
-
-                        color: Theme.secondaryColor
-
-                        text: "File type here bitch"
-                    }
-                }
-            }*/
 
             delegate: Item {
                 width: parent.width

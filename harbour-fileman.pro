@@ -31,7 +31,6 @@ OTHER_FILES += \
     harbour-fileman.desktop \
     qml/pages/SettingsPage.qml \
     qml/pages/ImageView.qml \
-    qml/pages/dirView/DirectoryGridView.qml \
     qml/js/directoryViewModel.js \
     qml/pages/dirView/DirectoryPullDownMenu.qml \
     qml/pages/dirView/DirectoryPushUpMenu.qml \

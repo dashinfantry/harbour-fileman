@@ -121,6 +121,47 @@
     </message>
 </context>
 <context>
+    <name>FileDisplay</name>
+    <message>
+        <source>File display</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File display look</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse through all files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileInfo</name>
+    <message>
+        <source>File information</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PermissionEdit</name>
+    <message>
+        <source>Read</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Execute</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SettingsPage</name>
     <message>
         <source>Settings</source>
@@ -207,6 +248,21 @@
     </message>
     <message>
         <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TextEdit</name>
+    <message>
+        <source>Go back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

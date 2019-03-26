@@ -20,15 +20,15 @@ Page  {
 
         PullDownMenu {
             MenuItem {
-                text: "Go back"
+                text: qsTr("Go back")
                 onClicked: pageStack.pop()
             }
             MenuItem {
-                text: "Clear"
+                text: qsTr("Clear")
                 onClicked: remorsePopup.execute("Clearing text area", function() { textArea.text = "" })
             }
             MenuItem {
-                text: "Save"
+                text: qsTr("Save")
                 onClicked: remorsePopup.execute("Saving file", function() { fileInfo.setFileContent(fileEntry.fullPath, textArea.text) })
             }
         }

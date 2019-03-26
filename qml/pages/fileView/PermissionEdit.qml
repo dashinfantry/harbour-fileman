@@ -87,31 +87,31 @@ Item {
         listModel.clear()
 
         listModel.append({ "section": "User permissions",
-                           "text": "Read",
+                           "text": qsTr("Read"),
                            "stringPos": 0 })
         listModel.append({ "section": "User permissions",
-                           "text": "Write",
+                           "text": qsTr("Write"),
                            "stringPos": 1 })
         listModel.append({ "section": "User permissions",
-                           "text": "Execute",
+                           "text": qsTr("Execute"),
                            "stringPos": 2 })
         listModel.append({ "section": "Group permissions",
-                           "text": "Read",
+                           "text": qsTr("Read"),
                            "stringPos": 3 })
         listModel.append({ "section": "Group permissions",
-                           "text": "Write",
+                           "text": qsTr("Write"),
                            "stringPos": 4 })
         listModel.append({ "section": "Group permissions",
-                           "text": "Execute",
+                           "text": qsTr("Execute"),
                            "stringPos": 5 })
         listModel.append({ "section": "Owner permissions",
-                           "text": "Read",
+                           "text": qsTr("Read"),
                            "stringPos": 6 })
         listModel.append({ "section": "Owner permissions",
-                           "text": "Write",
+                           "text": qsTr("Write"),
                            "stringPos": 7 })
         listModel.append({ "section": "Owner permissions",
-                           "text": "Execute",
+                           "text": qsTr("Execute"),
                            "stringPos": 8 })
     }
 }

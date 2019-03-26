@@ -16,17 +16,17 @@ Page {
             spacing: Theme.paddingLarge
             width: parent.width
             PageHeader {
-                title: "File display"
+                title: qsTr("File display")
             }
 
             SectionHeader {
                 id: directoryLookHeader
-                text: "File display look"
+                text: qsTr("File display look")
             }
 
             TextSwitch {
-                text: "Browse through all files"
-                description: "When viewing a file, browse through all viewable files instead of files with the same file type"
+                text: qsTr("Browse through all files")
+                description: qsTr("When viewing a file, browse through all viewable files instead of files with the same file type")
 
                 checked: settings.browseAllFileTypes
 
