@@ -21,23 +21,13 @@ Page {
 
             SectionHeader {
                 id: directoryLookHeader
-                text: "Directory look"
+                text: "Thumbnails"
             }
+
             Column {
                 width: parent.width
             }
-            TextSwitch {
-                text: "Show hidden files"
-                description: "Show hidden files and folders"
 
-                checked: settings.showHiddenFiles
-
-                onCheckedChanged: settings.showHiddenFiles = checked
-            }
-
-            SectionHeader {
-                text: "Thumbnails"
-            }
             Column {
                 // No spacing in this column
                 width: parent.width
