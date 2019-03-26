@@ -14,6 +14,15 @@ Page
 
         VerticalScrollDecorator { flickable: parent }
 
+        PullDownMenu
+        {
+            MenuItem
+            {
+                text: qsTr("Translation Platform")
+                onClicked: Qt.openUrlExternally("https://translate.zanata.org/iteration/view/harbour-fileman/1.0?dswid=-4593")
+            }
+        }
+
         Column
         {
             id: content
