@@ -84,6 +84,8 @@ CONFIG += sailfishapp_i18n
 TRANSLATIONS += \
     translations/harbour-fileman-de.ts \
     translations/harbour-fileman-nl.ts \
+    translations/harbour-fileman-sv.ts \
+    translations/harbour-fileman-zh-CN.ts \
     translations/harbour-fileman-fi.ts
 
 RESOURCES += \

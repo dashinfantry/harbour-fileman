@@ -1,280 +1,284 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="sv">
 <context>
     <name>AboutPage</name>
     <message>
         <source>What&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation>Vad</translation>
     </message>
     <message>
         <source>Licensing</source>
-        <translation type="unfinished"></translation>
+        <translation>Licensiering</translation>
     </message>
     <message>
         <source>is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished"></translation>
+        <translation>är fri mjukvara släppt under GNU General Public License (GPL), version 3 eller senare.</translation>
     </message>
     <message>
         <source>Rudi Timmermans</source>
-        <translation type="unfinished"></translation>
+        <translation>Rudi Timmermans</translation>
     </message>
     <message>
         <source>Donate with Paypal</source>
-        <translation type="unfinished"></translation>
+        <translation>Donera via Paypal</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman är en filhanterare för Sailfish OS.</translation>
     </message>
     <message>
         <source>Fileman developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman-utvecklare</translation>
     </message>
     <message>
         <source>About Fileman</source>
-        <translation type="unfinished"></translation>
+        <translation>Om Fileman</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikoner</translation>
     </message>
     <message>
         <source>Fileman icons made by Molan.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman-ikoner gjorda av Molan.</translation>
     </message>
 </context>
 <context>
     <name>DirectoryFileOperations</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Byt namn</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipp ut</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Klistra in</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"></translation>
+        <translation>Komprimera</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt...</translation>
     </message>
     <message>
         <source>Show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa dolda filer</translation>
     </message>
     <message>
         <source>Don&apos;t show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa inte dolda filer</translation>
     </message>
     <message>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Platser</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPushUpMenu</name>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till i bokmärken</translation>
     </message>
     <message>
         <source>Remove from bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort från bokmärken</translation>
     </message>
     <message>
         <source>Directory properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappegenskaper</translation>
     </message>
 </context>
 <context>
     <name>DirectoryViewSettings</name>
     <message>
         <source>Directory view</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappvy</translation>
     </message>
 </context>
 <context>
     <name>FileDisplay</name>
     <message>
         <source>File display</source>
-        <translation type="unfinished"></translation>
+        <translation>Filvisning</translation>
     </message>
     <message>
         <source>File display look</source>
-        <translation type="unfinished"></translation>
+        <translation>Filvisningsutseende</translation>
     </message>
     <message>
         <source>Browse through all files</source>
-        <translation type="unfinished"></translation>
+        <translation>Bläddra genom alla filer</translation>
     </message>
     <message>
         <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation type="unfinished"></translation>
+        <translation>Bläddra bland alla visningsbara filer istället för enbart filer av samma filtyp</translation>
     </message>
 </context>
 <context>
     <name>FileInfo</name>
     <message>
         <source>File information</source>
-        <translation type="unfinished"></translation>
+        <translation>Filinformation</translation>
     </message>
 </context>
 <context>
     <name>PermissionEdit</name>
     <message>
         <source>Read</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>Directory view</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappvy</translation>
     </message>
     <message>
         <source>File ordering</source>
-        <translation type="unfinished"></translation>
+        <translation>Filsortering</translation>
     </message>
     <message>
         <source>File display</source>
-        <translation type="unfinished"></translation>
+        <translation>Filvisning</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmänt</translation>
     </message>
     <message>
         <source>Fileman</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Om</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Översättningar</translation>
     </message>
 </context>
 <context>
     <name>ShortcutsView</name>
     <message>
         <source>Last location</source>
-        <translation type="unfinished"></translation>
+        <translation>Senaste plats</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedladdningar</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Musik</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Foton</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Videor</translation>
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Platser</translation>
     </message>
     <message>
         <source>Android storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Android-lagring</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Bokmärken</translation>
     </message>
     <message>
         <source>Storage devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagringsenheter</translation>
     </message>
     <message>
         <source>SD card</source>
-        <translation type="unfinished"></translation>
+        <translation>SD-kort</translation>
     </message>
     <message>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Platser</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Hem</translation>
     </message>
 </context>
 <context>
     <name>TextEdit</name>
     <message>
         <source>Go back</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå tillbaka</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
 </context>
 <context>
     <name>TranslationsPage</name>
     <message>
+        <source>English</source>
+        <translation>Engelska</translation>
+    </message>
+    <message>
         <source>Fileman translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman-översättare</translation>
     </message>
     <message>
         <source>Translation Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Översättningsplattform</translation>
     </message>
 </context>
 </TS>

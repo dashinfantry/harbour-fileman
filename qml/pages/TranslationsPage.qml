@@ -36,8 +36,16 @@ Page
             }
 
             CollaboratorsLabel {
-                title: qsTr("English");
+                title: "English"
                 labelData: [ "Rudi Timmermans" ]
+            }
+            CollaboratorsLabel {
+                title: "German"
+                labelData: [ "Rudi Timmermans" ]
+            }
+            CollaboratorsLabel {
+                title: "Swedish"
+                labelData: [ "eson" ]
             }
         }
     }
