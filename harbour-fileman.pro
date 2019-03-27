@@ -62,6 +62,7 @@ OTHER_FILES += \
     qml/pages/fileView/PermissionEdit.qml \
     qml/pages/dirView/ShortcutsView.qml \
     qml/pages/fileView/TextEdit.qml \
+    qml/pages/dirView/SharePage.qml \
     translations/*.ts
 
 HEADERS += \
@@ -84,7 +85,9 @@ CONFIG += sailfishapp_i18n
 TRANSLATIONS += \
     translations/harbour-fileman-de.ts \
     translations/harbour-fileman-nl.ts \
+    translations/harbour-fileman-fr.ts \
     translations/harbour-fileman-sv.ts \
+    translations/harbour-fileman-pl.ts \
     translations/harbour-fileman-zh-CN.ts \
     translations/harbour-fileman-fi.ts
 

@@ -74,6 +74,10 @@
         <source>Compress</source>
         <translation>Komprimieren</translation>
     </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPullDownMenu</name>

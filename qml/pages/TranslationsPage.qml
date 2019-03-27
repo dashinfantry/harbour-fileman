@@ -36,16 +36,20 @@ Page
             }
 
             CollaboratorsLabel {
-                title: "English"
-                labelData: [ "Rudi Timmermans" ]
+                title: "Chinese"
+                labelData: [ "Historyscholar" ]
             }
             CollaboratorsLabel {
                 title: "German"
-                labelData: [ "Rudi Timmermans" ]
+                labelData: [ "inta" ]
             }
             CollaboratorsLabel {
                 title: "Swedish"
                 labelData: [ "eson" ]
+            }
+            CollaboratorsLabel {
+                title: "Polish"
+                labelData: [ "atlochowski" ]
             }
         }
     }

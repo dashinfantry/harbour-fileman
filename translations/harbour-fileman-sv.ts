@@ -74,6 +74,10 @@
         <source>Compress</source>
         <translation>Komprimera</translation>
     </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPullDownMenu</name>
@@ -268,10 +272,6 @@
 </context>
 <context>
     <name>TranslationsPage</name>
-    <message>
-        <source>English</source>
-        <translation>Engelska</translation>
-    </message>
     <message>
         <source>Fileman translators</source>
         <translation>Fileman-översättare</translation>
