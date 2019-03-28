@@ -19,7 +19,7 @@ Page
             MenuItem
             {
                 text: qsTr("Translation Platform")
-                onClicked: Qt.openUrlExternally("https://translate.zanata.org/iteration/view/harbour-fileman/1.0?dswid=-4593")
+                onClicked: Qt.openUrlExternally("https://www.transifex.com/sailbook/fileman-1")
             }
         }
 

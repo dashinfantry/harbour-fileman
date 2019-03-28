@@ -125,23 +125,23 @@
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturen</translation>
     </message>
     <message>
         <source>Display thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturen weergeven</translation>
     </message>
     <message>
         <source>Display thumbnails for image files</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturen weergeven voor afbeeldingsbestanden</translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Cache miniaturen</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewaar gegenereerde miniaturen voor sneller laden</translation>
     </message>
 </context>
 <context>
@@ -174,59 +174,59 @@
     <name>FileOrderSettings</name>
     <message>
         <source>File ordering</source>
-        <translation type="unfinished">Bestandsvolgorde</translation>
+        <translation>Bestanden volgorde</translation>
     </message>
     <message>
         <source>File arrangement order </source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandsrangschikking</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteer op</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Grootte</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Sort order</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteervolgorde</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplopend</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflopend</translation>
     </message>
     <message>
         <source>Directory order</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapvolgorde</translation>
     </message>
     <message>
         <source>Display directories first</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon eerst mappen</translation>
     </message>
     <message>
         <source>Display directories last</source>
-        <translation type="unfinished"></translation>
+        <translation>Laat mappen als laatste zien</translation>
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen mappen</translation>
     </message>
 </context>
 <context>
@@ -343,6 +343,10 @@
     <message>
         <source>Home</source>
         <translation>Thuis</translation>
+    </message>
+    <message>
+        <source>Android locations</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

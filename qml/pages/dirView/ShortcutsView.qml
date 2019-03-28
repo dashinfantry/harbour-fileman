@@ -171,7 +171,7 @@ SilicaListView {
                            "name": qsTr("Videos"),
                            "thumbnail": "qrc:/icons/video",
                            "location": StandardPaths.videos })
-        listModel.append({ "section": qsTr("Locations"),
+        listModel.append({ "section": qsTr("Android locations"),
                            "name": qsTr("Android storage"),
                            "thumbnail": "qrc:/icons/directory",
                            "location": StandardPaths.home + "/android_storage" })

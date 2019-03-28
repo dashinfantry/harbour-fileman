@@ -344,6 +344,10 @@
         <source>Home</source>
         <translation>Carpeta de usuario</translation>
     </message>
+    <message>
+        <source>Android locations</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TextEdit</name>
