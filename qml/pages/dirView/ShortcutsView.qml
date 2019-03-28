@@ -16,7 +16,6 @@ SilicaListView {
     VerticalScrollDecorator { }
 
     DirectoryPullDownMenu { }
-//    DirectoryPushUpMenu { }
 
     model: listModel
 
@@ -144,31 +143,31 @@ SilicaListView {
         listModel.clear()
 
         // Add locations
-        listModel.append({ "section": "Locations",
+        listModel.append({ "section": qsTr("Locations"),
                            "name": qsTr("Last location"),
                            "thumbnail": "qrc:/icons/up",
                            "location": settings.dirPath })
-        listModel.append({ "section": "Locations",
+        listModel.append({ "section": qsTr("Locations"),
                            "name": qsTr("Home"),
                            "thumbnail": "qrc:/icons/home",
                            "location": StandardPaths.home })
-        listModel.append({ "section": "Locations",
+        listModel.append({ "section": qsTr("Locations"),
                            "name": qsTr("Documents"),
                            "thumbnail": "qrc:/icons/text",
                            "location": StandardPaths.documents })
-        listModel.append({ "section": "Locations",
+        listModel.append({ "section": qsTr("Locations"),
                            "name": qsTr("Downloads"),
                            "thumbnail": "qrc:/icons/downloads",
                            "location": StandardPaths.download })
-        listModel.append({ "section": "Locations",
+        listModel.append({ "section": qsTr("Locations"),
                            "name": qsTr("Music"),
                            "thumbnail": "qrc:/icons/audio",
                            "location": StandardPaths.music })
-        listModel.append({ "section": "Locations",
+        listModel.append({ "section": qsTr("Locations"),
                            "name": qsTr("Pictures"),
                            "thumbnail": "qrc:/icons/image",
                            "location": StandardPaths.pictures })
-        listModel.append({ "section": "Locations",
+        listModel.append({ "section": qsTr("Locations"),
                            "name": qsTr("Videos"),
                            "thumbnail": "qrc:/icons/video",
                            "location": StandardPaths.videos })
