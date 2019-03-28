@@ -20,7 +20,7 @@ Page {
 
     PageHeader {
         id: pageHeader
-        title: "Copying files"
+        title: qsTr("Copying files")
     }
 
     Label {

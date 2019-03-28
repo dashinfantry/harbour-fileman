@@ -25,11 +25,11 @@ Page  {
             }
             MenuItem {
                 text: qsTr("Clear")
-                onClicked: remorsePopup.execute("Clearing text area", function() { textArea.text = "" })
+                onClicked: remorsePopup.execute(qsTr("Clearing text area"), function() { textArea.text = "" })
             }
             MenuItem {
                 text: qsTr("Save")
-                onClicked: remorsePopup.execute("Saving file", function() { fileInfo.setFileContent(fileEntry.fullPath, textArea.text) })
+                onClicked: remorsePopup.execute(qsTr("Saving file"), function() { fileInfo.setFileContent(fileEntry.fullPath, textArea.text) })
             }
         }
 

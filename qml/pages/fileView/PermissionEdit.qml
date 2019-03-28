@@ -86,31 +86,31 @@ Item {
 
         listModel.clear()
 
-        listModel.append({ "section": "User permissions",
+        listModel.append({ "section": qsTr("User permissions"),
                            "text": qsTr("Read"),
                            "stringPos": 0 })
-        listModel.append({ "section": "User permissions",
+        listModel.append({ "section": qsTr("User permissions"),
                            "text": qsTr("Write"),
                            "stringPos": 1 })
-        listModel.append({ "section": "User permissions",
+        listModel.append({ "section": qsTr("User permissions"),
                            "text": qsTr("Execute"),
                            "stringPos": 2 })
-        listModel.append({ "section": "Group permissions",
+        listModel.append({ "section": qsTr("Group permissions"),
                            "text": qsTr("Read"),
                            "stringPos": 3 })
-        listModel.append({ "section": "Group permissions",
+        listModel.append({ "section": qsTr("Group permissions"),
                            "text": qsTr("Write"),
                            "stringPos": 4 })
-        listModel.append({ "section": "Group permissions",
+        listModel.append({ "section": qsTr("Group permissions"),
                            "text": qsTr("Execute"),
                            "stringPos": 5 })
-        listModel.append({ "section": "Owner permissions",
+        listModel.append({ "section": qsTr("Owner permissions"),
                            "text": qsTr("Read"),
                            "stringPos": 6 })
-        listModel.append({ "section": "Owner permissions",
+        listModel.append({ "section": qsTr("Owner permissions"),
                            "text": qsTr("Write"),
                            "stringPos": 7 })
-        listModel.append({ "section": "Owner permissions",
+        listModel.append({ "section": qsTr("Owner permissions"),
                            "text": qsTr("Execute"),
                            "stringPos": 8 })
     }

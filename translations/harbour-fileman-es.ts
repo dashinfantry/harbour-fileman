@@ -171,6 +171,13 @@
     </message>
 </context>
 <context>
+    <name>FileOperationPage</name>
+    <message>
+        <source>Copying files</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileOrderSettings</name>
     <message>
         <source>File ordering</source>
@@ -242,6 +249,18 @@
     <message>
         <source>Execute</source>
         <translation>Ejecución</translation>
+    </message>
+    <message>
+        <source>User permissions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group permissions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Owner permissions</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -362,6 +381,14 @@
     <message>
         <source>Save</source>
         <translation>Guardar</translation>
+    </message>
+    <message>
+        <source>Clearing text area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
