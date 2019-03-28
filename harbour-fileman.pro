@@ -62,6 +62,7 @@ OTHER_FILES += \
     qml/pages/fileView/PermissionEdit.qml \
     qml/pages/dirView/ShortcutsView.qml \
     qml/pages/fileView/TextEdit.qml \
+    qml/pages/ShareFilesPage.qml \
     translations/*.ts
 
 HEADERS += \

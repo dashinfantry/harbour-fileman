@@ -201,6 +201,17 @@
     </message>
 </context>
 <context>
+    <name>ShareFilesPage</name>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No sharing accounts available!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ShortcutsView</name>
     <message>
         <source>Last location</source>

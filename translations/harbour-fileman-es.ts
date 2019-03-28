@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TS []>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
 <TS version="2.1">
 <context>
     <name>AboutPage</name>
@@ -198,6 +198,17 @@
     <message>
         <source>Translations</source>
         <translation>Traducciones</translation>
+    </message>
+</context>
+<context>
+    <name>ShareFilesPage</name>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished">Compartir</translation>
+    </message>
+    <message>
+        <source>No sharing accounts available!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

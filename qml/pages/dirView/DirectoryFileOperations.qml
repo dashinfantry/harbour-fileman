@@ -190,7 +190,7 @@ Item {
                 text: qsTr("Share")
                 anchors.centerIn: parent
             }
-            onClicked: remorse.execute("Work in progress")
+            onClicked: pageStack.push(Qt.resolvedUrl("../ShareFilesPage.qml"))
          }
     }
 
