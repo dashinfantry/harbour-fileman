@@ -16,25 +16,25 @@ Page {
             spacing: Theme.paddingLarge
             width: parent.width
             PageHeader {
-                title: "File ordering"
+                title: qsTr("File ordering")
             }
 
             SectionHeader {
                 id: fileorderHeader
-                text: "File arrangement order "
+                text: qsTr("File arrangement order ")
             }
 
             Column {
                 width: parent.width
                 ComboBox {
                     width: parent.width
-                    label: "Sort by"
+                    label: qsTr("Sort by")
 
                     menu: ContextMenu {
-                        MenuItem { text: "Name" }
-                        MenuItem { text: "Time" }
-                        MenuItem { text: "Size" }
-                        MenuItem { text: "Type" }
+                        MenuItem { text: qsTr("Name") }
+                        MenuItem { text: qsTr("Time") }
+                        MenuItem { text: qsTr("Size") }
+                        MenuItem { text: qsTr("Type") }
                     }
 
                     onCurrentIndexChanged: {
@@ -81,11 +81,11 @@ Page {
                 }
                 ComboBox {
                     width: parent.width
-                    label: "Sort order"
+                    label: qsTr("Sort order")
 
                     menu: ContextMenu {
-                        MenuItem { text: "Ascending" }
-                        MenuItem { text: "Descending" }
+                        MenuItem { text: qsTr("Ascending") }
+                        MenuItem { text: qsTr("Descending") }
                     }
 
                     onCurrentIndexChanged: {
@@ -116,12 +116,12 @@ Page {
                 }
                 ComboBox {
                     width: parent.width
-                    label: "Directory order"
+                    label: qsTr("Directory order")
 
                     menu: ContextMenu {
-                        MenuItem { text: "Display directories first" }
-                        MenuItem { text: "Display directories last" }
-                        MenuItem { text: "Don't order directories" }
+                        MenuItem { text: qsTr("Display directories first") }
+                        MenuItem { text: qsTr("Display directories last") }
+                        MenuItem { text: qsTr("Don't order directories") }
                     }
 
                     onCurrentIndexChanged: {

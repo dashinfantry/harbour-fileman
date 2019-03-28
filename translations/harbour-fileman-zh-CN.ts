@@ -123,6 +123,26 @@
         <source>Directory view</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display thumbnails for image files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cache thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save generated thumbnails for faster loading</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileDisplay</name>
@@ -147,6 +167,65 @@
     <name>FileInfo</name>
     <message>
         <source>File information</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileOrderSettings</name>
+    <message>
+        <source>File ordering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File arrangement order </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Directory order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display directories first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display directories last</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t order directories</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

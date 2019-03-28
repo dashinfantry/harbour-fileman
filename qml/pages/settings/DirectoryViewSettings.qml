@@ -21,7 +21,7 @@ Page {
 
             SectionHeader {
                 id: directoryLookHeader
-                text: "Thumbnails"
+                text: qsTr("Thumbnails")
             }
 
             Column {
@@ -32,16 +32,16 @@ Page {
                 // No spacing in this column
                 width: parent.width
                 TextSwitch {
-                    text: "Display thumbnails"
-                    description: "Display thumbnails for image files"
+                    text: qsTr("Display thumbnails")
+                    description: qsTr("Display thumbnails for image files")
 
                     checked: settings.displayThumbnails
 
                     onCheckedChanged: settings.displayThumbnails = checked
                 }
                 TextSwitch {
-                    text: "Cache thumbnails"
-                    description: "Save generated thumbnails for faster loading"
+                    text: qsTr("Cache thumbnails")
+                    description: qsTr("Save generated thumbnails for faster loading")
 
                     checked: settings.cacheThumbnails
 
