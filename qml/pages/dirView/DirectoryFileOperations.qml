@@ -10,6 +10,8 @@ Item {
 
     onWidthChanged: updateView()
 
+    RemorsePopup { id: remorse }
+
     Label {
         id: clipboardLabel
 
@@ -179,6 +181,17 @@ Item {
                 getDirectoryPage().tarFiles()
             }
         }
+        ListItem {
+            id: shareFiles
+            width: visible == true ? grid.elementWidth : 0
+            height: visible == true ? grid.elementHeight : 0
+            visible: false
+            Label {
+                text: qsTr("Share")
+                anchors.centerIn: parent
+            }
+            onClicked: remorse.execute("Work in progress")
+         }
     }
 
     Connections {
@@ -197,6 +210,7 @@ Item {
         clipboardLabel.visible = false
         item.visible = false
         tarFiles.visible = false
+        shareFiles.visible = false
 
         // 'visible' value for objects returns false even if they are set to true
         // during this function. Because of this, use these bools instead
@@ -227,6 +241,7 @@ Item {
             deleteFiles.visible = true
             renameFiles.visible = true
             tarFiles.visible = true
+            shareFiles.visible = true
             selectedFilesLabelVisible = true
             if (clipboard.getSelectedFileCount() == 1)
                 selectedFilesLabel.text = "1 entry selected"

@@ -40,6 +40,10 @@ Page
                 labelData: [ "Historyscholar" ]
             }
             CollaboratorsLabel {
+                title: "Spanish"
+                labelData: [ "carmenfdezb" ]
+            }
+            CollaboratorsLabel {
                 title: "German"
                 labelData: [ "inta" ]
             }
