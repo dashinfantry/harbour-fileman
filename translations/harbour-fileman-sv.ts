@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="sv" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -45,7 +43,7 @@
     </message>
     <message>
         <source>Fileman icons made by Molan and levone1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filemans ikoner är gjorda av Molan och levone1.</translation>
     </message>
 </context>
 <context>
@@ -76,7 +74,7 @@
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela</translation>
     </message>
 </context>
 <context>
@@ -125,23 +123,23 @@
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatyrer</translation>
     </message>
     <message>
         <source>Display thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa miniatyrer</translation>
     </message>
     <message>
         <source>Display thumbnails for image files</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa miniatyrer för bildfiler</translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Cache-lagra miniatyrer</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara genererade miniatyrer för snabbare inläsning</translation>
     </message>
 </context>
 <context>
@@ -174,66 +172,66 @@
     <name>FileOperationPage</name>
     <message>
         <source>Copying files</source>
-        <translation type="unfinished"></translation>
+        <translation>Filkopiering</translation>
     </message>
 </context>
 <context>
     <name>FileOrderSettings</name>
     <message>
         <source>File ordering</source>
-        <translation type="unfinished">Filsortering</translation>
+        <translation>Filordning</translation>
     </message>
     <message>
         <source>File arrangement order </source>
-        <translation type="unfinished"></translation>
+        <translation>Filsortering</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortera efter</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsstämpel</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Sort order</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteringsordning</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Stigande</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallande</translation>
     </message>
     <message>
         <source>Directory order</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappordning</translation>
     </message>
     <message>
         <source>Display directories first</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa mappar överst</translation>
     </message>
     <message>
         <source>Display directories last</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa mappar sist</translation>
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordna inte mappar</translation>
     </message>
 </context>
 <context>
@@ -252,15 +250,15 @@
     </message>
     <message>
         <source>User permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Användarrättigheter</translation>
     </message>
     <message>
         <source>Group permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupprättigheter</translation>
     </message>
     <message>
         <source>Owner permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ägarrättigheter</translation>
     </message>
 </context>
 <context>
@@ -302,11 +300,11 @@
     <name>ShareFilesPage</name>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela</translation>
     </message>
     <message>
         <source>No sharing accounts available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga delningskonton tillgängliga!</translation>
     </message>
 </context>
 <context>
@@ -365,7 +363,7 @@
     </message>
     <message>
         <source>Android locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Android-mappar</translation>
     </message>
 </context>
 <context>
@@ -384,11 +382,11 @@
     </message>
     <message>
         <source>Clearing text area</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensar textfältet</translation>
     </message>
     <message>
         <source>Saving file</source>
-        <translation type="unfinished"></translation>
+        <translation>Sparar filen</translation>
     </message>
 </context>
 <context>
