@@ -52,27 +52,27 @@
     <name>DirectoryFileOperations</name>
     <message>
         <source>Rename</source>
-        <translation>Umbenennen</translation>
+        <translation type="unfinished">Umbenennen</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Ausschneiden</translation>
+        <translation type="unfinished">Ausschneiden</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Kopieren</translation>
+        <translation type="unfinished">Kopieren</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Einfügen</translation>
+        <translation type="unfinished">Einfügen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Löschen</translation>
+        <translation type="unfinished">Löschen</translation>
     </message>
     <message>
         <source>Compress</source>
-        <translation>Komprimieren</translation>
+        <translation type="unfinished">Komprimieren</translation>
     </message>
     <message>
         <source>Share</source>
@@ -83,45 +83,45 @@
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <translation type="unfinished">Einstellungen</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation>Neu …</translation>
+        <translation type="unfinished">Neu …</translation>
     </message>
     <message>
         <source>Show hidden files</source>
-        <translation>Versteckte Dateien anzeigen</translation>
+        <translation type="unfinished">Versteckte Dateien anzeigen</translation>
     </message>
     <message>
         <source>Don&apos;t show hidden files</source>
-        <translation>Keine versteckten Dateien anzeigen</translation>
+        <translation type="unfinished">Keine versteckten Dateien anzeigen</translation>
     </message>
     <message>
         <source>Places</source>
-        <translation>Orte</translation>
+        <translation type="unfinished">Orte</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPushUpMenu</name>
     <message>
         <source>Add to bookmarks</source>
-        <translation>Lesezeichen hinzufügen</translation>
+        <translation type="unfinished">Lesezeichen hinzufügen</translation>
     </message>
     <message>
         <source>Remove from bookmarks</source>
-        <translation>Lesezeichen entfernen</translation>
+        <translation type="unfinished">Lesezeichen entfernen</translation>
     </message>
     <message>
         <source>Directory properties</source>
-        <translation>Verzeichniseigenschaften</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DirectoryViewSettings</name>
     <message>
         <source>Directory view</source>
-        <translation>Verzeichnisansicht</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thumbnails</source>
@@ -270,10 +270,6 @@
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <source>Directory view</source>
-        <translation>Verzeichnisansicht</translation>
-    </message>
-    <message>
         <source>File ordering</source>
         <translation>Datei-Reihenfolge</translation>
     </message>
@@ -296,6 +292,10 @@
     <message>
         <source>Translations</source>
         <translation>Übersetzungen</translation>
+    </message>
+    <message>
+        <source>Directory view</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

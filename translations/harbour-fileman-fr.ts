@@ -270,10 +270,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Directory view</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>File ordering</source>
         <translation type="unfinished"></translation>
     </message>
@@ -295,6 +291,10 @@
     </message>
     <message>
         <source>Translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Directory view</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

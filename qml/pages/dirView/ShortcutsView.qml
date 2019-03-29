@@ -176,6 +176,15 @@ SilicaListView {
                            "thumbnail": "qrc:/icons/directory",
                            "location": StandardPaths.home + "/android_storage" })
 
+        // Add SD card if it's mounted
+        if (engine.getSdCardMountPath() != "")
+        {
+            listModel.append({ "section": qsTr("Storage devices"),
+                               "name": qsTr("SD card"),
+                               "thumbnail": "qrc:/icons/sdcard",
+                               "location": engine.getSdCardMountPath()})
+        }
+
         // Add bookmarks if there are any
         var bookmarks = settings.getBookmarks()
 
@@ -188,15 +197,6 @@ SilicaListView {
                                "thumbnail": "qrc:/icons/directory",
                                "location": key,
                                "bookmark": true })
-        }
-
-        // Add SD card if it's mounted
-        if (engine.getSdCardMountPath() != "")
-        {
-            listModel.append({ "section": qsTr("Storage devices"),
-                               "name": qsTr("SD card"),
-                               "thumbnail": "qrc:/icons/sdcard",
-                               "location": engine.getSdCardMountPath()})
         }
     }
 
