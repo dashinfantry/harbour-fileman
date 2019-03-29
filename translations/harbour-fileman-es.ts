@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="es" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -125,23 +123,23 @@
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturas</translation>
     </message>
     <message>
         <source>Display thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar miniaturas</translation>
     </message>
     <message>
         <source>Display thumbnails for image files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar miniaturas en archivos de imagen</translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturas en caché</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar miniaturas generadas para que se carguen más rápido</translation>
     </message>
 </context>
 <context>
@@ -174,66 +172,66 @@
     <name>FileOperationPage</name>
     <message>
         <source>Copying files</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando archivos</translation>
     </message>
 </context>
 <context>
     <name>FileOrderSettings</name>
     <message>
         <source>File ordering</source>
-        <translation type="unfinished">Orden de archivos</translation>
+        <translation>Orden de archivos</translation>
     </message>
     <message>
         <source>File arrangement order </source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenación de archivos </translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Sort order</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de orden</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Ascendente</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Descendente</translation>
     </message>
     <message>
         <source>Directory order</source>
-        <translation type="unfinished"></translation>
+        <translation>Orden de directorio</translation>
     </message>
     <message>
         <source>Display directories first</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar directorios primero</translation>
     </message>
     <message>
         <source>Display directories last</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar directorios al final</translation>
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-        <translation type="unfinished"></translation>
+        <translation>No ordenar directorios</translation>
     </message>
 </context>
 <context>
@@ -252,15 +250,15 @@
     </message>
     <message>
         <source>User permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisos de usuario</translation>
     </message>
     <message>
         <source>Group permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisos de grupo</translation>
     </message>
     <message>
         <source>Owner permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisos de propietario</translation>
     </message>
 </context>
 <context>
@@ -302,11 +300,11 @@
     <name>ShareFilesPage</name>
     <message>
         <source>Share</source>
-        <translation type="unfinished">Compartir</translation>
+        <translation>Compartir</translation>
     </message>
     <message>
         <source>No sharing accounts available!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Compartir cuentas no está disponible!</translation>
     </message>
 </context>
 <context>
@@ -365,7 +363,7 @@
     </message>
     <message>
         <source>Android locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubicaciones de Android</translation>
     </message>
 </context>
 <context>
@@ -384,11 +382,11 @@
     </message>
     <message>
         <source>Clearing text area</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiando área de texto</translation>
     </message>
     <message>
         <source>Saving file</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardando archivo</translation>
     </message>
 </context>
 <context>

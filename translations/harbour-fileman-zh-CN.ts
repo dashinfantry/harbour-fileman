@@ -1,405 +1,403 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_CN" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
         <source>What&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation>什么是</translation>
     </message>
     <message>
         <source>Licensing</source>
-        <translation type="unfinished"></translation>
+        <translation>许可协议</translation>
     </message>
     <message>
         <source>is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished"></translation>
+        <translation>是GNU通用公共许可证（GPL），版本3或更高版本下发布的免费软件。</translation>
     </message>
     <message>
         <source>Rudi Timmermans</source>
-        <translation type="unfinished"></translation>
+        <translation>Rudi Timmermans</translation>
     </message>
     <message>
         <source>Donate with Paypal</source>
-        <translation type="unfinished"></translation>
+        <translation>用Paypal捐赠</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>版本</translation>
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman是一个旗鱼系统文件管理器。</translation>
     </message>
     <message>
         <source>Fileman developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman开发者</translation>
     </message>
     <message>
         <source>About Fileman</source>
-        <translation type="unfinished"></translation>
+        <translation>关于Fileman</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>图标</translation>
     </message>
     <message>
         <source>Fileman icons made by Molan and levone1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman图标由 Molan及levone1制作。</translation>
     </message>
 </context>
 <context>
     <name>DirectoryFileOperations</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>复制</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"></translation>
+        <translation>压缩</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>分享</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation type="unfinished"></translation>
+        <translation>新建</translation>
     </message>
     <message>
         <source>Show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>显示隐藏文件</translation>
     </message>
     <message>
         <source>Don&apos;t show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>不显示隐藏文件</translation>
     </message>
     <message>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation>位置</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPushUpMenu</name>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>添加到收藏夹</translation>
     </message>
     <message>
         <source>Remove from bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>从收藏夹移除</translation>
     </message>
     <message>
         <source>Directory properties</source>
-        <translation type="unfinished"></translation>
+        <translation>目录属性</translation>
     </message>
 </context>
 <context>
     <name>DirectoryViewSettings</name>
     <message>
         <source>Directory view</source>
-        <translation type="unfinished"></translation>
+        <translation>目录查看</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>缩略图</translation>
     </message>
     <message>
         <source>Display thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>显示缩略图</translation>
     </message>
     <message>
         <source>Display thumbnails for image files</source>
-        <translation type="unfinished"></translation>
+        <translation>显示图像文件缩略图</translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>缓存缩略图</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished"></translation>
+        <translation>保存生成的缩略图以加快加载速度</translation>
     </message>
 </context>
 <context>
     <name>FileDisplay</name>
     <message>
         <source>File display</source>
-        <translation type="unfinished"></translation>
+        <translation>文件显示</translation>
     </message>
     <message>
         <source>File display look</source>
-        <translation type="unfinished"></translation>
+        <translation>文件显示外观</translation>
     </message>
     <message>
         <source>Browse through all files</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览所有文件</translation>
     </message>
     <message>
         <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation type="unfinished"></translation>
+        <translation>查看文件时，浏览所有可查看文件而不是相同类型的文件</translation>
     </message>
 </context>
 <context>
     <name>FileInfo</name>
     <message>
         <source>File information</source>
-        <translation type="unfinished"></translation>
+        <translation>文件信息</translation>
     </message>
 </context>
 <context>
     <name>FileOperationPage</name>
     <message>
         <source>Copying files</source>
-        <translation type="unfinished"></translation>
+        <translation>复制文件</translation>
     </message>
 </context>
 <context>
     <name>FileOrderSettings</name>
     <message>
         <source>File ordering</source>
-        <translation type="unfinished"></translation>
+        <translation>文件顺序</translation>
     </message>
     <message>
         <source>File arrangement order </source>
-        <translation type="unfinished"></translation>
+        <translation>文件排列顺序</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation type="unfinished"></translation>
+        <translation>分类方式</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>时间</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>大小</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Sort order</source>
-        <translation type="unfinished"></translation>
+        <translation>分类顺序</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>升序</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>降序</translation>
     </message>
     <message>
         <source>Directory order</source>
-        <translation type="unfinished"></translation>
+        <translation>目录顺序</translation>
     </message>
     <message>
         <source>Display directories first</source>
-        <translation type="unfinished"></translation>
+        <translation>显示较早的目录</translation>
     </message>
     <message>
         <source>Display directories last</source>
-        <translation type="unfinished"></translation>
+        <translation>显示较新的目录</translation>
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-        <translation type="unfinished"></translation>
+        <translation>请勿排列目录</translation>
     </message>
 </context>
 <context>
     <name>PermissionEdit</name>
     <message>
         <source>Read</source>
-        <translation type="unfinished"></translation>
+        <translation>可读</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>可写</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished"></translation>
+        <translation>可执行</translation>
     </message>
     <message>
         <source>User permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>用户权限</translation>
     </message>
     <message>
         <source>Group permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>群组权限</translation>
     </message>
     <message>
         <source>Owner permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>所属者权限</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Directory view</source>
-        <translation type="unfinished"></translation>
+        <translation>目录查看</translation>
     </message>
     <message>
         <source>File ordering</source>
-        <translation type="unfinished"></translation>
+        <translation>文件排序</translation>
     </message>
     <message>
         <source>File display</source>
-        <translation type="unfinished"></translation>
+        <translation>文件显示</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Fileman</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>关于</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>翻译</translation>
     </message>
 </context>
 <context>
     <name>ShareFilesPage</name>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>分享</translation>
     </message>
     <message>
         <source>No sharing accounts available!</source>
-        <translation type="unfinished"></translation>
+        <translation>没有可供分享的账户！</translation>
     </message>
 </context>
 <context>
     <name>ShortcutsView</name>
     <message>
         <source>Last location</source>
-        <translation type="unfinished"></translation>
+        <translation>上次位置</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>文档</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>下载</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>音乐</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation>视频</translation>
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"></translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Android storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Android储存</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>收藏夹</translation>
     </message>
     <message>
         <source>Storage devices</source>
-        <translation type="unfinished"></translation>
+        <translation>储存设备</translation>
     </message>
     <message>
         <source>SD card</source>
-        <translation type="unfinished"></translation>
+        <translation>SD卡</translation>
     </message>
     <message>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>主页</translation>
     </message>
     <message>
         <source>Android locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Android 位置</translation>
     </message>
 </context>
 <context>
     <name>TextEdit</name>
     <message>
         <source>Go back</source>
-        <translation type="unfinished"></translation>
+        <translation>返回</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Clearing text area</source>
-        <translation type="unfinished"></translation>
+        <translation>清除文本区域</translation>
     </message>
     <message>
         <source>Saving file</source>
-        <translation type="unfinished"></translation>
+        <translation>保存文件夹</translation>
     </message>
 </context>
 <context>
     <name>TranslationsPage</name>
     <message>
         <source>Fileman translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman翻译者</translation>
     </message>
     <message>
         <source>Translation Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>翻译平台</translation>
     </message>
 </context>
 </TS>
