@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="nl">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="nl" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -301,12 +299,12 @@
 <context>
     <name>ShareFilesPage</name>
     <message>
-        <source>Share</source>
-        <translation>Delen</translation>
-    </message>
-    <message>
         <source>No sharing accounts available!</source>
         <translation>Geen delen van accounts beschikbaar!</translation>
+    </message>
+    <message>
+        <source>Note: You can only share one file at a time. Not multiple ones.</source>
+        <translation>Opmerking: u kunt slechts één bestand per keer delen. Niet meerdere.</translation>
     </message>
 </context>
 <context>

@@ -301,12 +301,12 @@
 <context>
     <name>ShareFilesPage</name>
     <message>
-        <source>Share</source>
-        <translation>Dela</translation>
+        <source>No sharing accounts available!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No sharing accounts available!</source>
-        <translation>Inga delningskonton tillgängliga!</translation>
+        <source>Note: You can only share one file at a time. Not multiple ones.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

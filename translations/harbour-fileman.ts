@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="en" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="en">
 <context>
     <name>AboutPage</name>
     <message>
@@ -299,12 +301,12 @@
 <context>
     <name>ShareFilesPage</name>
     <message>
-        <source>Share</source>
-        <translation>Share</translation>
+        <source>No sharing accounts available!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No sharing accounts available!</source>
-        <translation>No sharing accounts available!</translation>
+        <source>Note: You can only share one file at a time. Not multiple ones.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -190,7 +190,8 @@ Item {
                 text: qsTr("Share")
                 anchors.centerIn: parent
             }
-            onClicked: pageStack.push(Qt.resolvedUrl("../ShareFilesPage.qml"))
+            onClicked:
+                pageStack.push(Qt.resolvedUrl("../ShareFilesPage.qml"))
          }
     }
 
