@@ -302,7 +302,7 @@
     <name>ShareFilesPage</name>
     <message>
         <source>No sharing accounts available!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Compartir cuentas no está disponible!</translation>
     </message>
     <message>
         <source>Note: You can only share one file at a time. Not multiple ones.</source>
