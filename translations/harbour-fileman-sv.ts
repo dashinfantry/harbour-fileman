@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="sv" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -302,11 +300,11 @@
     <name>ShareFilesPage</name>
     <message>
         <source>No sharing accounts available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga delningskonton tillgängliga!</translation>
     </message>
     <message>
         <source>Note: You can only share one file at a time. Not multiple ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notera att du bara kan dela en fil åt gången. Inte flera samtidigt.</translation>
     </message>
 </context>
 <context>

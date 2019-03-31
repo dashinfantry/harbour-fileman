@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="es">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="es" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -306,7 +304,7 @@
     </message>
     <message>
         <source>Note: You can only share one file at a time. Not multiple ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: sólo puedes compartir un archivo a la vez. No varios a la vez.</translation>
     </message>
 </context>
 <context>
