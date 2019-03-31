@@ -335,7 +335,7 @@ Page {
         // Disable back navigation if we are displaying an image or a video
         if (entry.fileType == "image" || entry.fileType == "video")
         {
-            showNavigationIndicator = flase
+            showNavigationIndicator = false
 
             if (settings.showBlackBackground)
                 blackBackground.visible = true
