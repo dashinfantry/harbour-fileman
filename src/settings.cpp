@@ -33,12 +33,12 @@ Settings::Settings(QObject *parent) :
     if (settings->contains("showDirHeader"))
         m_showDirHeader = settings->value("showDirHeader").toBool();
     else
-        m_showDirHeader = true;
+        m_showDirHeader = false;
 
     if (settings->contains("galleryMode"))
         m_galleryMode = settings->value("galleryMode").toBool();
     else
-        m_galleryMode = false;
+        m_galleryMode = true;
 
     if (settings->contains("displayThumbnails"))
         m_displayThumbnails = settings->value("displayThumbnails").toBool();

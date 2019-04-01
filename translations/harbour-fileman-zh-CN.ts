@@ -101,6 +101,14 @@
         <source>Places</source>
         <translation>位置</translation>
     </message>
+    <message>
+        <source>Show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPushUpMenu</name>
@@ -121,27 +129,27 @@
     <name>DirectoryViewSettings</name>
     <message>
         <source>Directory view</source>
-        <translation>目录查看</translation>
+        <translation type="unfinished">目录查看</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>缩略图</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Display thumbnails</source>
-        <translation>显示缩略图</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Display thumbnails for image files</source>
-        <translation>显示图像文件缩略图</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation>缓存缩略图</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation>保存生成的缩略图以加快加载速度</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

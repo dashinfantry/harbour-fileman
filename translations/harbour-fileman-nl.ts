@@ -101,6 +101,14 @@
         <source>Places</source>
         <translation>FoldersPanel</translation>
     </message>
+    <message>
+        <source>Show page header</source>
+        <translation>Toon paginakop</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show page header</source>
+        <translation>Geen paginakop weergeven</translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPushUpMenu</name>

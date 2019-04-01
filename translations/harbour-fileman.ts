@@ -101,6 +101,14 @@
         <source>Places</source>
         <translation>Places</translation>
     </message>
+    <message>
+        <source>Show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPushUpMenu</name>
@@ -121,27 +129,27 @@
     <name>DirectoryViewSettings</name>
     <message>
         <source>Directory view</source>
-        <translation>Directory view</translation>
+        <translation type="unfinished">Directory view</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Thumbnails</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Display thumbnails</source>
-        <translation>Display thumbnails</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Display thumbnails for image files</source>
-        <translation>Display thumbnails for image files</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation>Cache thumbnails</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation>Save generated thumbnails for faster loading</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

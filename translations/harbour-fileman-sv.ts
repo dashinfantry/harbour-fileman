@@ -101,6 +101,14 @@
         <source>Places</source>
         <translation>Platser</translation>
     </message>
+    <message>
+        <source>Show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPushUpMenu</name>
@@ -121,27 +129,27 @@
     <name>DirectoryViewSettings</name>
     <message>
         <source>Directory view</source>
-        <translation>Mappvy</translation>
+        <translation type="unfinished">Mappvy</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Miniatyrer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Display thumbnails</source>
-        <translation>Visa miniatyrer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Display thumbnails for image files</source>
-        <translation>Visa miniatyrer för bildfiler</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation>Cache-lagra miniatyrer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation>Spara genererade miniatyrer för snabbare inläsning</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
