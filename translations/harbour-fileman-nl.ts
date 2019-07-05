@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>Places</source>
-        <translation>FoldersPanel</translation>
+        <translation>FoldersPaneel</translation>
     </message>
     <message>
         <source>Show page header</source>
@@ -365,7 +365,7 @@
     </message>
     <message>
         <source>Places</source>
-        <translation>FoldersPanel</translation>
+        <translation>FoldersPaneel</translation>
     </message>
     <message>
         <source>Home</source>
