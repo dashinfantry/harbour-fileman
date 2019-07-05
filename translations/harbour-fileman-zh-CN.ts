@@ -103,11 +103,11 @@
     </message>
     <message>
         <source>Show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>显示页面标头</translation>
     </message>
     <message>
         <source>Don&apos;t show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏页面标头</translation>
     </message>
 </context>
 <context>
@@ -129,27 +129,27 @@
     <name>DirectoryViewSettings</name>
     <message>
         <source>Directory view</source>
-        <translation type="unfinished">目录查看</translation>
+        <translation>目录视图</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>缩略图</translation>
     </message>
     <message>
         <source>Display thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>显示缩略图</translation>
     </message>
     <message>
         <source>Display thumbnails for image files</source>
-        <translation type="unfinished"></translation>
+        <translation>显示图片文件缩略图</translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>缓存缩略图</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished"></translation>
+        <translation>保存生成的缩略图以快速加载</translation>
     </message>
 </context>
 <context>
@@ -310,11 +310,11 @@
     <name>ShareFilesPage</name>
     <message>
         <source>No sharing accounts available!</source>
-        <translation type="unfinished"></translation>
+        <translation>无可用的分享账户！</translation>
     </message>
     <message>
         <source>Note: You can only share one file at a time. Not multiple ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意：你仅科每次分享一个文件，不能一次分享多个文件。</translation>
     </message>
 </context>
 <context>
