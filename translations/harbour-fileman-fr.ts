@@ -406,7 +406,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Translation Platform</source>
+        <source>GitHub translations</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

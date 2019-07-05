@@ -406,8 +406,8 @@
         <translation>Fileman翻译者</translation>
     </message>
     <message>
-        <source>Translation Platform</source>
-        <translation>翻译平台</translation>
+        <source>GitHub translations</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

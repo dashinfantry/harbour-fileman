@@ -406,8 +406,8 @@
         <translation>Traductores de Fileman</translation>
     </message>
     <message>
-        <source>Translation Platform</source>
-        <translation>Plataforma de traducción</translation>
+        <source>GitHub translations</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

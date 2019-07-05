@@ -406,8 +406,8 @@
         <translation>Fileman vertalers</translation>
     </message>
     <message>
-        <source>Translation Platform</source>
-        <translation>Vertaalplatform</translation>
+        <source>GitHub translations</source>
+        <translation>GitHub vertalingen</translation>
     </message>
 </context>
 </TS>

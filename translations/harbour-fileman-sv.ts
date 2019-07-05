@@ -406,8 +406,8 @@
         <translation>Fileman-översättare</translation>
     </message>
     <message>
-        <source>Translation Platform</source>
-        <translation>Översättningsplattform</translation>
+        <source>GitHub translations</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

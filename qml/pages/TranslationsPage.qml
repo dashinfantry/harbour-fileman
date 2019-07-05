@@ -18,8 +18,8 @@ Page
         {
             MenuItem
             {
-                text: qsTr("Translation Platform")
-                onClicked: Qt.openUrlExternally("https://www.transifex.com/sailbook/fileman-1")
+                text: qsTr("GitHub translations")
+                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/tree/master/translations")
             }
         }
 
@@ -37,23 +37,23 @@ Page
 
             CollaboratorsLabel {
                 title: "Chinese"
-                labelData: [ "Historyscholar" ]
+                labelData: [ "Dashinfantry" ]
             }
             CollaboratorsLabel {
                 title: "Spanish"
-                labelData: [ "carmenfdezb" ]
+                labelData: [ "Carmenfdezb" ]
             }
             CollaboratorsLabel {
                 title: "German"
-                labelData: [ "inta" ]
+                labelData: [ "Inta" ]
             }
             CollaboratorsLabel {
                 title: "Swedish"
-                labelData: [ "eson" ]
+                labelData: [ "Eson" ]
             }
             CollaboratorsLabel {
                 title: "Polish"
-                labelData: [ "atlochowski" ]
+                labelData: [ "Atlochowski" ]
             }
         }
     }
