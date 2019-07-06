@@ -103,11 +103,11 @@
     </message>
     <message>
         <source>Show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa sidhuvud</translation>
     </message>
     <message>
         <source>Don&apos;t show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa inte sidhuvud</translation>
     </message>
 </context>
 <context>
@@ -129,27 +129,27 @@
     <name>DirectoryViewSettings</name>
     <message>
         <source>Directory view</source>
-        <translation type="unfinished">Mappvy</translation>
+        <translation>Mappvy</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatyrer</translation>
     </message>
     <message>
         <source>Display thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa miniatyrer</translation>
     </message>
     <message>
         <source>Display thumbnails for image files</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa miniatyrer för bildfiler</translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Cachelagra miniatyrer</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara genererade miniatyrer för snabbare inläsning</translation>
     </message>
 </context>
 <context>
@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>File arrangement order </source>
-        <translation>Filsortering</translation>
+        <translation>Filsortering </translation>
     </message>
     <message>
         <source>Sort by</source>
@@ -407,7 +407,7 @@
     </message>
     <message>
         <source>GitHub translations</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub- översättningar</translation>
     </message>
 </context>
 </TS>
