@@ -28,6 +28,7 @@ SOURCES += \
 OTHER_FILES += \
     qml/cover/CoverPage.qml \
     rpm/harbour-fileman.yaml \
+    rpm/harbour-fileman.spec \
     harbour-fileman.desktop \
     qml/pages/SettingsPage.qml \
     qml/pages/ImageView.qml \

@@ -1,0 +1,14 @@
+# Rename this file as harbour-fileman.changes to include changelog
+# entries in your RPM file.
+#
+# Add new changelog entries following the format below.
+# Add newest entries to the top of the list.
+# Separate entries from eachother with a blank line.
+
+# * date Author's Name <author's email> version-release
+# - Summary of changes
+
+* Thu Jul 6 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-4
+- [MINOR BUGFIX] Updated translation
+- [MINOR BUGFIX] Fixed small bug into the directory listing
+
