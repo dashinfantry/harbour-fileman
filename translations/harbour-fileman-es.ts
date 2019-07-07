@@ -375,6 +375,10 @@
         <source>Android locations</source>
         <translation>Ubicaciones de Android</translation>
     </message>
+    <message>
+        <source>Root</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TextEdit</name>

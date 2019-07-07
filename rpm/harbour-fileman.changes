@@ -8,7 +8,13 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Sun Jul 7 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-4
+v1.0-release 5
+- [MINOR BUGFIX] Updated translation
+- [NEW] Adding Root shortcut to the home Places overview
+
 * Thu Jul 6 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-4
+v1.0-release 4
 - [MINOR BUGFIX] Updated translation
 - [MINOR BUGFIX] Fixed small bug into the directory listing
 

@@ -152,6 +152,10 @@ SilicaListView {
                            "thumbnail": "qrc:/icons/home",
                            "location": StandardPaths.home })
         listModel.append({ "section": qsTr("Locations"),
+                           "name": qsTr("Root"),
+                           "thumbnail": "qrc:/icons/directory",
+                           "location": "/" })
+        listModel.append({ "section": qsTr("Locations"),
                            "name": qsTr("Documents"),
                            "thumbnail": "qrc:/icons/text",
                            "location": StandardPaths.documents })
