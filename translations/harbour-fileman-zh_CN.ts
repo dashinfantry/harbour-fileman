@@ -365,7 +365,7 @@
     </message>
     <message>
         <source>Places</source>
-        <translation>返回分类页</translation>
+        <translation>分类</translation>
     </message>
     <message>
         <source>Home</source>
