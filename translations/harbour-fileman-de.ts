@@ -151,6 +151,26 @@
         <source>Save generated thumbnails for faster loading</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Default view mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileDisplay</name>

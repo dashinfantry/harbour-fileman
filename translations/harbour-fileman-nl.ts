@@ -151,6 +151,26 @@
         <source>Save generated thumbnails for faster loading</source>
         <translation>Bewaar gegenereerde miniaturen voor sneller laden</translation>
     </message>
+    <message>
+        <source>Default view mode</source>
+        <translation>Standaard weergavemodus</translation>
+    </message>
+    <message>
+        <source>list</source>
+        <translation>lijst</translation>
+    </message>
+    <message>
+        <source>grid</source>
+        <translation>rooster</translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation>Lijst</translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation>Rooster</translation>
+    </message>
 </context>
 <context>
     <name>FileDisplay</name>

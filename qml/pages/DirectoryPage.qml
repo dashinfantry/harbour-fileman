@@ -116,8 +116,7 @@ Page {
     {
         collapseDirection = typeof collapseDirection !== 'undefined' ? collapseDirection : "left"
         skipAnimation = typeof skipAnimation !== 'undefined' ? skipAnimation : false
-        viewMode = typeof viewMode !== 'undefined' ? viewMode : "list"
-//        viewMode = typeof viewMode !== 'undefined' ? viewMode : settings.defaultViewMode
+        viewMode = typeof viewMode !== 'undefined' ? viewMode : settings.defaultViewMode
 
         // Clear the list of selected files
         clipboard.clearSelectedFiles()

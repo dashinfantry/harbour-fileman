@@ -21,6 +21,31 @@ Page {
 
             SectionHeader {
                 id: directoryLookHeader
+                text: "Directory look"
+            }
+
+            Column {
+                width: parent.width
+                ComboBox {
+                    width: parent.width
+                    label: qsTr("Default view mode")
+                    currentIndex: settings.defaultViewMode == "list" ? 1 : 0
+
+                    menu: ContextMenu {
+                        MenuItem { text: qsTr("Grid") }
+                        MenuItem { text: qsTr("List") }
+                    }
+
+                    onCurrentIndexChanged: {
+                        if (currentIndex === 0)
+                            settings.defaultViewMode = qsTr("grid")
+                        else if (currentIndex === 1)
+                            settings.defaultViewMode = qsTr("list")
+                    }
+                }
+             }
+
+            SectionHeader {
                 text: qsTr("Thumbnails")
             }
 
