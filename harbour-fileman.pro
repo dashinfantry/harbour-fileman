@@ -91,7 +91,7 @@ TRANSLATIONS += \
     translations/harbour-fileman-fr.ts \
     translations/harbour-fileman-sv.ts \
     translations/harbour-fileman-pl.ts \
-    translations/harbour-fileman-zh-CN.ts \
+    translations/harbour-fileman-zh_CN.ts \
     translations/harbour-fileman-fi.ts
 
 RESOURCES += \
