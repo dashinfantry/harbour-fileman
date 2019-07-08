@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>Donate with Paypal</source>
-        <translation>用Paypal捐赠</translation>
+        <translation>用 Paypal 捐赠</translation>
     </message>
     <message>
         <source>Version</source>
@@ -29,15 +29,15 @@
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation>Fileman是一个旗鱼系统文件管理器。</translation>
+        <translation>Fileman 是一个旗鱼系统文件管理器。</translation>
     </message>
     <message>
         <source>Fileman developer</source>
-        <translation>Fileman开发者</translation>
+        <translation>Fileman 开发者</translation>
     </message>
     <message>
         <source>About Fileman</source>
-        <translation>关于Fileman</translation>
+        <translation>关于 Fileman</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Fileman icons made by Molan and levone1.</source>
-        <translation>Fileman图标由 Molan及levone1制作。</translation>
+        <translation>Fileman 图标由 Molan 及 levone1 共同绘制。</translation>
     </message>
 </context>
 <context>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>File display look</source>
-        <translation>文件显示外观</translation>
+        <translation>文件显示查看</translation>
     </message>
     <message>
         <source>Browse through all files</source>
@@ -241,7 +241,7 @@
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-        <translation>请勿排列目录</translation>
+        <translation>不排列目录</translation>
     </message>
 </context>
 <context>
@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>Group permissions</source>
-        <translation>群组权限</translation>
+        <translation>组权限</translation>
     </message>
     <message>
         <source>Owner permissions</source>
@@ -279,7 +279,7 @@
     </message>
     <message>
         <source>Directory view</source>
-        <translation>目录查看</translation>
+        <translation>目录视图</translation>
     </message>
     <message>
         <source>File ordering</source>
@@ -310,18 +310,18 @@
     <name>ShareFilesPage</name>
     <message>
         <source>No sharing accounts available!</source>
-        <translation>无可用的分享账户！</translation>
+        <translation>暂无可用的分享账户！</translation>
     </message>
     <message>
         <source>Note: You can only share one file at a time. Not multiple ones.</source>
-        <translation>注意：你仅科每次分享一个文件，不能一次分享多个文件。</translation>
+        <translation>注意：你仅可每次分享一个文件，不能一次分享多个文件。</translation>
     </message>
 </context>
 <context>
     <name>ShortcutsView</name>
     <message>
         <source>Last location</source>
-        <translation>上次位置</translation>
+        <translation>上次的位置</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -349,7 +349,7 @@
     </message>
     <message>
         <source>Android storage</source>
-        <translation>Android储存</translation>
+        <translation>Android 储存</translation>
     </message>
     <message>
         <source>Bookmarks</source>
@@ -365,7 +365,7 @@
     </message>
     <message>
         <source>Places</source>
-        <translation>位置</translation>
+        <translation>返回分类页</translation>
     </message>
     <message>
         <source>Home</source>
@@ -377,7 +377,7 @@
     </message>
     <message>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Root</translation>
     </message>
 </context>
 <context>
@@ -400,18 +400,18 @@
     </message>
     <message>
         <source>Saving file</source>
-        <translation>保存文件夹</translation>
+        <translation>正在保存文件</translation>
     </message>
 </context>
 <context>
     <name>TranslationsPage</name>
     <message>
         <source>Fileman translators</source>
-        <translation>Fileman翻译者</translation>
+        <translation>Fileman 翻译者</translation>
     </message>
     <message>
         <source>GitHub translations</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub 翻译</translation>
     </message>
 </context>
 </TS>
