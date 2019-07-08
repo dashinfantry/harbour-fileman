@@ -171,6 +171,10 @@
         <source>Grid</source>
         <translation>Rooster</translation>
     </message>
+    <message>
+        <source>Directory view mode</source>
+        <translation>Directoryweergavemodus</translation>
+    </message>
 </context>
 <context>
     <name>FileDisplay</name>

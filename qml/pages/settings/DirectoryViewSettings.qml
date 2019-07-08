@@ -21,7 +21,7 @@ Page {
 
             SectionHeader {
                 id: directoryLookHeader
-                text: "Directory look"
+                text: qsTr("Directory view mode")
             }
 
             Column {
