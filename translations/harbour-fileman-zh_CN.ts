@@ -153,27 +153,27 @@
     </message>
     <message>
         <source>Default view mode</source>
-        <translation type="unfinished"></translation>
+        <translation>默认视图模式</translation>
     </message>
     <message>
         <source>list</source>
-        <translation type="unfinished"></translation>
+        <translation>列表</translation>
     </message>
     <message>
         <source>grid</source>
-        <translation type="unfinished"></translation>
+        <translation>网格</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>列表</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>网格</translation>
     </message>
     <message>
         <source>Directory view mode</source>
-        <translation type="unfinished"></translation>
+        <translation>目录视图模式</translation>
     </message>
 </context>
 <context>
