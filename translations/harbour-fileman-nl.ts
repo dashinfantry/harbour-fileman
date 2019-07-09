@@ -156,14 +156,6 @@
         <translation>Standaard weergavemodus</translation>
     </message>
     <message>
-        <source>list</source>
-        <translation>lijst</translation>
-    </message>
-    <message>
-        <source>grid</source>
-        <translation>rooster</translation>
-    </message>
-    <message>
         <source>List</source>
         <translation>Lijst</translation>
     </message>

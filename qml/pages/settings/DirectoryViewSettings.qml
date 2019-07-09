@@ -38,9 +38,9 @@ Page {
 
                     onCurrentIndexChanged: {
                         if (currentIndex === 0)
-                            settings.defaultViewMode = qsTr("grid")
+                            settings.defaultViewMode = "grid"
                         else if (currentIndex === 1)
-                            settings.defaultViewMode = qsTr("list")
+                            settings.defaultViewMode = "list"
                     }
                 }
              }

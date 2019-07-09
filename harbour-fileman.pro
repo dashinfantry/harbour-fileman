@@ -25,7 +25,7 @@ SOURCES += \
     src/util.cpp \
     src/directoryworker.cpp
 
-OTHER_FILES += \
+DISTFILES += \
     qml/cover/CoverPage.qml \
     rpm/harbour-fileman.yaml \
     rpm/harbour-fileman.spec \
@@ -82,6 +82,8 @@ HEADERS += \
     src/util.h \
     src/directoryworker.h
 
+SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172 256x256
+
 CONFIG += sailfishapp_i18n
 
 TRANSLATIONS += \
@@ -96,4 +98,5 @@ TRANSLATIONS += \
 
 RESOURCES += \
     resources.qrc
+
 

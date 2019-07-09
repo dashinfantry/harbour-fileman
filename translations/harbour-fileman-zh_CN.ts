@@ -156,14 +156,6 @@
         <translation>默认视图模式</translation>
     </message>
     <message>
-        <source>list</source>
-        <translation>列表</translation>
-    </message>
-    <message>
-        <source>grid</source>
-        <translation>网格</translation>
-    </message>
-    <message>
         <source>List</source>
         <translation>列表</translation>
     </message>

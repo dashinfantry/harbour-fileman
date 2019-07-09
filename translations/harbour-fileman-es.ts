@@ -156,14 +156,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>grid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>List</source>
         <translation type="unfinished"></translation>
     </message>
