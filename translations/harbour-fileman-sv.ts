@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Fileman icons made by Molan and Gregguh.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman-ikoner gjorda av Molan och Gregguh.</translation>
     </message>
 </context>
 <context>
@@ -153,19 +153,19 @@
     </message>
     <message>
         <source>Default view mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard visningsläge</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Rutmönster</translation>
     </message>
     <message>
         <source>Directory view mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappvisningsläge</translation>
     </message>
 </context>
 <context>
@@ -393,7 +393,7 @@
     </message>
     <message>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Root</translation>
     </message>
 </context>
 <context>
