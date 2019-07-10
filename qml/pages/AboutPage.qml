@@ -41,7 +41,7 @@ Page {
             }
 
             SectionHeader { text: qsTr("Icons") }
-            TextLabel { labelText: qsTr("Fileman icons made by Molan and levone1.") }
+            TextLabel { labelText: qsTr("Fileman icons made by Molan and Gregguh.") }
 
             SectionHeader { text: qsTr("Version") }
             TextLabel { labelText: mainWindow.appName + " v" + mainWindow.version }

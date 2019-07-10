@@ -44,8 +44,8 @@
         <translation>Pictogrammen</translation>
     </message>
     <message>
-        <source>Fileman icons made by Molan and levone1.</source>
-        <translation>Fileman pictogrammen gemaakt door Molan en levone1.</translation>
+        <source>Fileman icons made by Molan and Gregguh.</source>
+        <translation>Fileman pictogrammen gemaakt door Molan en Gregguh.</translation>
     </message>
 </context>
 <context>

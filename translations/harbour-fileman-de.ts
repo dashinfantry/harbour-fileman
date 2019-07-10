@@ -44,7 +44,7 @@
         <translation>Icons</translation>
     </message>
     <message>
-        <source>Fileman icons made by Molan and levone1.</source>
+        <source>Fileman icons made by Molan and Gregguh.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

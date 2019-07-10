@@ -44,8 +44,8 @@
         <translation>图标</translation>
     </message>
     <message>
-        <source>Fileman icons made by Molan and levone1.</source>
-        <translation>Fileman 图标由 Molan 及 levone1 共同绘制。</translation>
+        <source>Fileman icons made by Molan and Gregguh.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
