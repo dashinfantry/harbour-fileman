@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Fileman icons made by Gregguh.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman 图标由 Gregguh 绘制。</translation>
     </message>
 </context>
 <context>
@@ -180,11 +180,11 @@
     </message>
     <message>
         <source>Display black background</source>
-        <translation type="unfinished"></translation>
+        <translation>显示黑色背景</translation>
     </message>
     <message>
         <source>Display a black background when viewing image and video files</source>
-        <translation type="unfinished"></translation>
+        <translation>当查看图片及视频文件时显示黑色背景</translation>
     </message>
 </context>
 <context>
