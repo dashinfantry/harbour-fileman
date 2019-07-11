@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Fileman icons made by Gregguh.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman-ikoner av Gregguh.</translation>
     </message>
 </context>
 <context>
@@ -149,11 +149,11 @@
     </message>
     <message>
         <source>List</source>
-        <translation>Lista</translation>
+        <translation>Listvy</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation>Rutmönster</translation>
+        <translation>Ikonvy</translation>
     </message>
     <message>
         <source>Directory view mode</source>
@@ -329,7 +329,7 @@
     <name>ShortcutsView</name>
     <message>
         <source>Last location</source>
-        <translation>Senaste plats</translation>
+        <translation>Senast använda plats</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -419,7 +419,7 @@
     </message>
     <message>
         <source>GitHub translations</source>
-        <translation>GitHub- översättningar</translation>
+        <translation>GitHub-översättningar</translation>
     </message>
 </context>
 </TS>
