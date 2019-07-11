@@ -9,417 +9,417 @@
     </message>
     <message>
         <source>Licensing</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencja</translation>
     </message>
     <message>
         <source>is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished"></translation>
+        <translation>to darmowe oprogramowanie wydane na licencji GNU General Public License (GPL), wersja 3 lub nowsza.</translation>
     </message>
     <message>
         <source>Rudi Timmermans</source>
-        <translation type="unfinished"></translation>
+        <translation>Rudi Timmermans</translation>
     </message>
     <message>
         <source>Donate with Paypal</source>
-        <translation type="unfinished"></translation>
+        <translation>Wspomóż za pomocą Paypal</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Wersja</translation>
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman jest managerem plików dla SailfishOS</translation>
     </message>
     <message>
         <source>Fileman developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Developer Fileman</translation>
     </message>
     <message>
         <source>About Fileman</source>
-        <translation type="unfinished"></translation>
+        <translation>O Fileman</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikony</translation>
     </message>
     <message>
         <source>Fileman icons made by Gregguh.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikony Fileman stworzone zostały przez Gregguh.</translation>
     </message>
 </context>
 <context>
     <name>DirectoryFileOperations</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień nazwę</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Wytnij</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Skopiuj</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>Compress</source>
-        <translation type="unfinished"></translation>
+        <translation>Skompresuj</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Udostępnij</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy...</translation>
     </message>
     <message>
         <source>Show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż ukryte pliki</translation>
     </message>
     <message>
         <source>Don&apos;t show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie pokazuj ukrytych plików</translation>
     </message>
     <message>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Miejsca</translation>
     </message>
     <message>
         <source>Show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż nagłówek strony</translation>
     </message>
     <message>
         <source>Don&apos;t show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie pokazuj nagłówka strony</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPushUpMenu</name>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj do zakładek</translation>
     </message>
     <message>
         <source>Remove from bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń z zakładek</translation>
     </message>
     <message>
         <source>Directory properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Właściwości katalogu</translation>
     </message>
 </context>
 <context>
     <name>DirectoryViewSettings</name>
     <message>
         <source>Directory view</source>
-        <translation type="unfinished"></translation>
+        <translation>Widok katalogu</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatury</translation>
     </message>
     <message>
         <source>Display thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl miniatury</translation>
     </message>
     <message>
         <source>Display thumbnails for image files</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyswietl miniatury dla obrazków</translation>
     </message>
     <message>
         <source>Default view mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Domyślny tryb widoku</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Siatka</translation>
     </message>
     <message>
         <source>Directory view mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb widoku katalogu</translation>
     </message>
 </context>
 <context>
     <name>FileDisplay</name>
     <message>
         <source>File display</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetlanie plików</translation>
     </message>
     <message>
         <source>File display look</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyglad wyswietlania plików</translation>
     </message>
     <message>
         <source>Browse through all files</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukuj wśród wszystkich plików</translation>
     </message>
     <message>
         <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation type="unfinished"></translation>
+        <translation>Podczas przeglądania pliku przeglądaj wszystkie widoczne pliki zamiast plików o tym samym typie pliku</translation>
     </message>
 </context>
 <context>
     <name>FileInfo</name>
     <message>
         <source>File information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacje o pliku</translation>
     </message>
 </context>
 <context>
     <name>FileOperationPage</name>
     <message>
         <source>Copying files</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiawanie plików</translation>
     </message>
 </context>
 <context>
     <name>FileOrderSettings</name>
     <message>
         <source>File ordering</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolejność plików</translation>
     </message>
     <message>
         <source>File arrangement order </source>
-        <translation type="unfinished"></translation>
+        <translation>Kolejność wyświetlania plików</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortuj po</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Sort order</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolejność sortowania</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished"></translation>
+        <translation>Rosnąco</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished"></translation>
+        <translation>Malejąco</translation>
     </message>
     <message>
         <source>Directory order</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolejność katalogów</translation>
     </message>
     <message>
         <source>Display directories first</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl katalogi jako pierwsze</translation>
     </message>
     <message>
         <source>Display directories last</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl katalogi jako ostatnie</translation>
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie sortuj katalogów</translation>
     </message>
 </context>
 <context>
     <name>PermissionEdit</name>
     <message>
         <source>Read</source>
-        <translation type="unfinished"></translation>
+        <translation>Odczyt</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapis</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykonywanie</translation>
     </message>
     <message>
         <source>User permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Uprawnienia użytkownika</translation>
     </message>
     <message>
         <source>Group permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Uprawnienia grupy</translation>
     </message>
     <message>
         <source>Owner permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Uprawnienia włąsciciela</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>File ordering</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolejność plików</translation>
     </message>
     <message>
         <source>File display</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetlanie plików</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogólne</translation>
     </message>
     <message>
         <source>Fileman</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>O Fileman</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumaczenia</translation>
     </message>
     <message>
         <source>Directory view</source>
-        <translation type="unfinished"></translation>
+        <translation>Widok katalogu</translation>
     </message>
 </context>
 <context>
     <name>ShareFilesPage</name>
     <message>
         <source>No sharing accounts available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak dostępnych kont udostępniania!</translation>
     </message>
     <message>
         <source>Note: You can only share one file at a time. Not multiple ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga: Możesz udostępniać tylko jeden plik na raz. Nie wiele.</translation>
     </message>
 </context>
 <context>
     <name>ShortcutsView</name>
     <message>
         <source>Last location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnie położenie</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenty</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobrane</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Muzyka</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazy</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Wideo</translation>
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Połeżenia</translation>
     </message>
     <message>
         <source>Android storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Android storage</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakladki</translation>
     </message>
     <message>
         <source>Storage devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamięć urządzenia</translation>
     </message>
     <message>
         <source>SD card</source>
-        <translation type="unfinished"></translation>
+        <translation>Karta SD</translation>
     </message>
     <message>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Miejsca</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog domowy</translation>
     </message>
     <message>
         <source>Android locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Położenia Android</translation>
     </message>
     <message>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Root</translation>
     </message>
 </context>
 <context>
     <name>TextEdit</name>
     <message>
         <source>Go back</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstecz</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <source>Clearing text area</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczysć pole tekstowe</translation>
     </message>
     <message>
         <source>Saving file</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisywanie pliku</translation>
     </message>
 </context>
 <context>
     <name>TranslationsPage</name>
     <message>
         <source>Fileman translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumacze Fileman</translation>
     </message>
     <message>
         <source>GitHub translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Tlumacze GitHub</translation>
     </message>
 </context>
 </TS>
