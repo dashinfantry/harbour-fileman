@@ -12,7 +12,7 @@ DirectoryWorker::DirectoryWorker(QObject *parent) :
     videoFormats << "video" << "mpg" << "avi" << "mov" << "3gp" << "mp4" << "mkv" << "wmv";
 
     QStringList audioFormats;
-    audioFormats << "audio" << "mp3" << "ogg" << "wav";
+    audioFormats << "audio" << "mp3" << "ogg" << "wav" << "flac";
 
     QStringList packageFormats;
     packageFormats << "package" << "apk" << "rpm";

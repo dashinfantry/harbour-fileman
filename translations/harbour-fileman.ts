@@ -44,7 +44,7 @@
         <translation>Icons</translation>
     </message>
     <message>
-        <source>Fileman icons made by Molan and Gregguh.</source>
+        <source>Fileman icons made by Gregguh.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -141,14 +141,6 @@
     </message>
     <message>
         <source>Display thumbnails for image files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save generated thumbnails for faster loading</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

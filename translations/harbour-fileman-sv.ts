@@ -44,8 +44,8 @@
         <translation>Ikoner</translation>
     </message>
     <message>
-        <source>Fileman icons made by Molan and Gregguh.</source>
-        <translation>Fileman-ikoner gjorda av Molan och Gregguh.</translation>
+        <source>Fileman icons made by Gregguh.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -142,14 +142,6 @@
     <message>
         <source>Display thumbnails for image files</source>
         <translation>Visa miniatyrer för bildfiler</translation>
-    </message>
-    <message>
-        <source>Cache thumbnails</source>
-        <translation>Cachelagra miniatyrer</translation>
-    </message>
-    <message>
-        <source>Save generated thumbnails for faster loading</source>
-        <translation>Spara genererade miniatyrer för snabbare inläsning</translation>
     </message>
     <message>
         <source>Default view mode</source>

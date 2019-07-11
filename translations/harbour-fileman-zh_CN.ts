@@ -44,7 +44,7 @@
         <translation>图标</translation>
     </message>
     <message>
-        <source>Fileman icons made by Molan and Gregguh.</source>
+        <source>Fileman icons made by Gregguh.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -142,14 +142,6 @@
     <message>
         <source>Display thumbnails for image files</source>
         <translation>显示图片文件缩略图</translation>
-    </message>
-    <message>
-        <source>Cache thumbnails</source>
-        <translation>缓存缩略图</translation>
-    </message>
-    <message>
-        <source>Save generated thumbnails for faster loading</source>
-        <translation>保存生成的缩略图以快速加载</translation>
     </message>
     <message>
         <source>Default view mode</source>

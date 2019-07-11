@@ -121,6 +121,7 @@ QString FileInfo::getFileFormatName(QString suffix)
 
     formatNames.insert("mp3", "MP3 audio");
     formatNames.insert("ogg", "OGG audio");
+    formatNames.insert("flac", "FLAC audio");
 
     formatNames.insert("apk", "Android application package");
     formatNames.insert("rpm", "RPM package");

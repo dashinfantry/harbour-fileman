@@ -177,7 +177,7 @@ SilicaListView {
                            "location": StandardPaths.videos })
         listModel.append({ "section": qsTr("Android locations"),
                            "name": qsTr("Android storage"),
-                           "thumbnail": "qrc:/icons/directory",
+                           "thumbnail": "qrc:/icons/android",
                            "location": StandardPaths.home + "/android_storage" })
 
         // Add SD card if it's mounted

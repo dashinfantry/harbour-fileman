@@ -64,14 +64,6 @@ Page {
 
                     onCheckedChanged: settings.displayThumbnails = checked
                 }
-                TextSwitch {
-                    text: qsTr("Cache thumbnails")
-                    description: qsTr("Save generated thumbnails for faster loading")
-
-                    checked: settings.cacheThumbnails
-
-                    onCheckedChanged: settings.cacheThumbnails = checked
-                }
             }
         }
     }

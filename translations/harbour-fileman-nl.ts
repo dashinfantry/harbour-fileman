@@ -44,8 +44,8 @@
         <translation>Pictogrammen</translation>
     </message>
     <message>
-        <source>Fileman icons made by Molan and Gregguh.</source>
-        <translation>Fileman pictogrammen gemaakt door Molan en Gregguh.</translation>
+        <source>Fileman icons made by Gregguh.</source>
+        <translation>Fileman-iconen gemaakt door Gregguh.</translation>
     </message>
 </context>
 <context>
@@ -142,14 +142,6 @@
     <message>
         <source>Display thumbnails for image files</source>
         <translation>Miniaturen weergeven voor afbeeldingsbestanden</translation>
-    </message>
-    <message>
-        <source>Cache thumbnails</source>
-        <translation>Cache miniaturen</translation>
-    </message>
-    <message>
-        <source>Save generated thumbnails for faster loading</source>
-        <translation>Bewaar gegenereerde miniaturen voor sneller laden</translation>
     </message>
     <message>
         <source>Default view mode</source>
@@ -393,7 +385,7 @@
     </message>
     <message>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Root</translation>
     </message>
 </context>
 <context>

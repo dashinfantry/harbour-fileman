@@ -8,6 +8,12 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Wed Jul 10 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-7
+v1.0-release 7
+- [MINOR BUGFIX] Updated translation
+- [MINOR BUGFIX] Removed cache picture on load and rewrite loading for pictures faster loading
+- [NEW] Musicplayer now support flac sound files to play
+
 * Wed Jul 10 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-6
 v1.0-release 6
 - [MINOR BUGFIX] Updated translation
