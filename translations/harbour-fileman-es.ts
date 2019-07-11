@@ -178,6 +178,14 @@
         <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
         <translation>Al visualizar un archivo, explorar todos los archivos visibles en lugar de los archivos del mismo tipo</translation>
     </message>
+    <message>
+        <source>Display black background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display a black background when viewing image and video files</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileInfo</name>

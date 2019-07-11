@@ -178,6 +178,14 @@
         <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
         <translation>Blader tijdens het bekijken van een bestand door alle zichtbare bestanden in plaats van bestanden met hetzelfde bestandstype</translation>
     </message>
+    <message>
+        <source>Display black background</source>
+        <translation>Zwarte achtergrond weergeven</translation>
+    </message>
+    <message>
+        <source>Display a black background when viewing image and video files</source>
+        <translation>Geef een zwarte achtergrond weer bij het bekijken van beeld- en videobestanden</translation>
+    </message>
 </context>
 <context>
     <name>FileInfo</name>

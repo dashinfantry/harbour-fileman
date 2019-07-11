@@ -178,6 +178,14 @@
         <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
         <translation>查看文件时，浏览所有可查看文件而不是相同类型的文件</translation>
     </message>
+    <message>
+        <source>Display black background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display a black background when viewing image and video files</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileInfo</name>
