@@ -11,6 +11,7 @@
         <file alias="text">data/icons/text-x-generic.svg</file>
         <file alias="directory">data/icons/folder.svg</file>
         <file alias="android">data/icons/android-folder.svg</file>
+        <file alias="root">data/icons/root-folder.svg</file>
         <file alias="unknown">data/icons/generic.svg</file>
         <file alias="executable">data/icons/emblem-system.svg</file>
         <file alias="previous">data/icons/go-previous.svg</file>
