@@ -43,26 +43,42 @@ Page {
                             settings.defaultViewMode = "list"
                     }
                 }
-             }
 
-            SectionHeader {
-                text: qsTr("Thumbnails")
-            }
+                SectionHeader {
+                    text: qsTr("Gallery")
+                }
 
-            Column {
-                width: parent.width
-            }
+                Column {
+                    width: parent.width
+                }
 
-            Column {
-                // No spacing in this column
-                width: parent.width
+                Column {
+                    // No spacing in this column
+                    width: parent.width
                 TextSwitch {
-                    text: qsTr("Display thumbnails")
-                    description: qsTr("Display thumbnails for image files")
+                    text: qsTr("Gallery mode")
+                    description: qsTr("Use grid view when viewing a directory that contains images")
 
-                    checked: settings.displayThumbnails
+                    checked: settings.galleryMode
 
-                    onCheckedChanged: settings.displayThumbnails = checked
+                    onCheckedChanged: settings.galleryMode = checked
+                }
+              }
+
+                SectionHeader {
+                    text: qsTr("Thumbnails")
+                }
+                Column {
+                    // No spacing in this column
+                    width: parent.width
+                    TextSwitch {
+                        text: qsTr("Cache thumbnails")
+                        description: qsTr("Save generated thumbnails for faster loading")
+
+                        checked: settings.cacheThumbnails
+
+                        onCheckedChanged: settings.cacheThumbnails = checked
+                    }
                 }
             }
         }

@@ -1,8 +1,10 @@
-import QtQuick 2.2
+import QtQuick 2.0
 import Sailfish.Silica 1.0
 
 Page {
     id: fileDisplay
+
+    allowedOrientations: Orientation.All
 
     property var isFilePage: true
 

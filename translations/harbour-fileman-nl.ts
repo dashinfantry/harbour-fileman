@@ -132,32 +132,44 @@
         <translation>Directoryweergave</translation>
     </message>
     <message>
-        <source>Thumbnails</source>
-        <translation>Miniaturen</translation>
-    </message>
-    <message>
-        <source>Display thumbnails</source>
-        <translation>Miniaturen weergeven</translation>
-    </message>
-    <message>
-        <source>Display thumbnails for image files</source>
-        <translation>Miniaturen weergeven voor afbeeldingsbestanden</translation>
+        <source>Directory view mode</source>
+        <translation>Directoryweergavemodus</translation>
     </message>
     <message>
         <source>Default view mode</source>
         <translation>Standaard weergavemodus</translation>
     </message>
     <message>
-        <source>List</source>
-        <translation>Lijst</translation>
-    </message>
-    <message>
         <source>Grid</source>
         <translation>Rooster</translation>
     </message>
     <message>
-        <source>Directory view mode</source>
-        <translation>Directoryweergavemodus</translation>
+        <source>List</source>
+        <translation>Lijst</translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation>Galerij</translation>
+    </message>
+    <message>
+        <source>Gallery mode</source>
+        <translation>Galerijmodus</translation>
+    </message>
+    <message>
+        <source>Use grid view when viewing a directory that contains images</source>
+        <translation>Gebruik rasterweergave bij het bekijken van een map die afbeeldingen bevat</translation>
+    </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation>Miniaturen</translation>
+    </message>
+    <message>
+        <source>Cache thumbnails</source>
+        <translation>Cache-miniaturen</translation>
+    </message>
+    <message>
+        <source>Save generated thumbnails for faster loading</source>
+        <translation>Bewaar gegenereerde miniaturen voor sneller laden</translation>
     </message>
 </context>
 <context>

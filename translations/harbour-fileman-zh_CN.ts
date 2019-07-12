@@ -129,35 +129,47 @@
     <name>DirectoryViewSettings</name>
     <message>
         <source>Directory view</source>
-        <translation>目录视图</translation>
-    </message>
-    <message>
-        <source>Thumbnails</source>
-        <translation>缩略图</translation>
-    </message>
-    <message>
-        <source>Display thumbnails</source>
-        <translation>显示缩略图</translation>
-    </message>
-    <message>
-        <source>Display thumbnails for image files</source>
-        <translation>显示图片文件缩略图</translation>
-    </message>
-    <message>
-        <source>Default view mode</source>
-        <translation>默认视图模式</translation>
-    </message>
-    <message>
-        <source>List</source>
-        <translation>列表</translation>
-    </message>
-    <message>
-        <source>Grid</source>
-        <translation>网格</translation>
+        <translation type="unfinished">目录视图</translation>
     </message>
     <message>
         <source>Directory view mode</source>
-        <translation>目录视图模式</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default view mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gallery mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use grid view when viewing a directory that contains images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cache thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save generated thumbnails for faster loading</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

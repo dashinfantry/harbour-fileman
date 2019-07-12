@@ -132,15 +132,7 @@
         <translation type="unfinished">Apariencia de directorio</translation>
     </message>
     <message>
-        <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Display thumbnails</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Display thumbnails for image files</source>
+        <source>Directory view mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -148,15 +140,35 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Grid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Directory view mode</source>
+        <source>List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gallery mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use grid view when viewing a directory that contains images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cache thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save generated thumbnails for faster loading</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

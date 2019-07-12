@@ -129,35 +129,47 @@
     <name>DirectoryViewSettings</name>
     <message>
         <source>Directory view</source>
-        <translation>Widok katalogu</translation>
-    </message>
-    <message>
-        <source>Thumbnails</source>
-        <translation>Miniatury</translation>
-    </message>
-    <message>
-        <source>Display thumbnails</source>
-        <translation>Wyświetl miniatury</translation>
-    </message>
-    <message>
-        <source>Display thumbnails for image files</source>
-        <translation>Wyswietl miniatury dla obrazków</translation>
-    </message>
-    <message>
-        <source>Default view mode</source>
-        <translation>Domyślny tryb widoku</translation>
-    </message>
-    <message>
-        <source>List</source>
-        <translation>Lista</translation>
-    </message>
-    <message>
-        <source>Grid</source>
-        <translation>Siatka</translation>
+        <translation type="unfinished">Widok katalogu</translation>
     </message>
     <message>
         <source>Directory view mode</source>
-        <translation>Tryb widoku katalogu</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default view mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gallery mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use grid view when viewing a directory that contains images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cache thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save generated thumbnails for faster loading</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

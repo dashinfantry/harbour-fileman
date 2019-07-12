@@ -38,7 +38,7 @@ Settings::Settings(QObject *parent) :
     if (settings->contains("galleryMode"))
         m_galleryMode = settings->value("galleryMode").toBool();
     else
-        m_galleryMode = true;
+        m_galleryMode = false;
 
     if (settings->contains("displayThumbnails"))
         m_displayThumbnails = settings->value("displayThumbnails").toBool();
