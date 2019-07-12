@@ -20,52 +20,6 @@ Page {
             }
 
             SectionHeader {
-                id: directoryLookHeader
-                text: qsTr("Directory view mode")
-            }
-
-            Column {
-                width: parent.width
-                ComboBox {
-                    width: parent.width
-                    label: qsTr("Default view mode")
-                    currentIndex: settings.defaultViewMode == "list" ? 1 : 0
-
-                    menu: ContextMenu {
-                        MenuItem { text: qsTr("Grid") }
-                        MenuItem { text: qsTr("List") }
-                    }
-
-                    onCurrentIndexChanged: {
-                        if (currentIndex === 0)
-                            settings.defaultViewMode = "grid"
-                        else if (currentIndex === 1)
-                            settings.defaultViewMode = "list"
-                    }
-                }
-
-                SectionHeader {
-                    text: qsTr("Gallery")
-                }
-
-                Column {
-                    width: parent.width
-                }
-
-                Column {
-                    // No spacing in this column
-                    width: parent.width
-                TextSwitch {
-                    text: qsTr("Gallery mode")
-                    description: qsTr("Use grid view when viewing a directory that contains images")
-
-                    checked: settings.galleryMode
-
-                    onCheckedChanged: settings.galleryMode = checked
-                }
-              }
-
-                SectionHeader {
                     text: qsTr("Thumbnails")
                 }
                 Column {
@@ -83,4 +37,4 @@ Page {
             }
         }
     }
- }
+

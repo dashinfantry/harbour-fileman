@@ -128,38 +128,6 @@
 <context>
     <name>DirectoryViewSettings</name>
     <message>
-        <source>Directory view</source>
-        <translation>Directoryweergave</translation>
-    </message>
-    <message>
-        <source>Directory view mode</source>
-        <translation>Directoryweergavemodus</translation>
-    </message>
-    <message>
-        <source>Default view mode</source>
-        <translation>Standaard weergavemodus</translation>
-    </message>
-    <message>
-        <source>Grid</source>
-        <translation>Rooster</translation>
-    </message>
-    <message>
-        <source>List</source>
-        <translation>Lijst</translation>
-    </message>
-    <message>
-        <source>Gallery</source>
-        <translation>Galerij</translation>
-    </message>
-    <message>
-        <source>Gallery mode</source>
-        <translation>Galerijmodus</translation>
-    </message>
-    <message>
-        <source>Use grid view when viewing a directory that contains images</source>
-        <translation>Gebruik rasterweergave bij het bekijken van een map die afbeeldingen bevat</translation>
-    </message>
-    <message>
         <source>Thumbnails</source>
         <translation>Miniaturen</translation>
     </message>
@@ -170,6 +138,10 @@
     <message>
         <source>Save generated thumbnails for faster loading</source>
         <translation>Bewaar gegenereerde miniaturen voor sneller laden</translation>
+    </message>
+    <message>
+        <source>Directory view</source>
+        <translation type="unfinished">Directoryweergave</translation>
     </message>
 </context>
 <context>
