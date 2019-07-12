@@ -180,11 +180,11 @@
     </message>
     <message>
         <source>Display black background</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa svart bakgrund</translation>
     </message>
     <message>
         <source>Display a black background when viewing image and video files</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd svart bakgrund vid visning av bild- och videofiler</translation>
     </message>
 </context>
 <context>
