@@ -15,9 +15,9 @@ Page {
             id: content
             width: parent.width
 
-            PageHeader { title: qsTr("Fileman") }
+            PageHeader { title: qsTr("Settings") }
 
-            SectionHeader { text: qsTr("Settings") }
+            SectionHeader { text: qsTr("Fileman settings") }
 
             ClickableLabel
             {
@@ -46,7 +46,7 @@ Page {
                 onActionRequested: pageStack.push(Qt.resolvedUrl("settings/FileDisplay.qml"))
             }
 
-            SectionHeader { text: qsTr("General") }
+            SectionHeader { text: qsTr("Fileman information") }
 
             ClickableLabel
             {
@@ -56,6 +56,8 @@ Page {
                 text: qsTr("About")
                 onActionRequested: pageStack.push(Qt.resolvedUrl("AboutPage.qml"))
             }
+
+            SectionHeader { text: qsTr("Fileman translations") }
 
             ClickableLabel
             {

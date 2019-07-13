@@ -316,24 +316,12 @@
 <context>
     <name>SettingsPage</name>
     <message>
-        <source>Settings</source>
-        <translation>设置</translation>
-    </message>
-    <message>
         <source>File ordering</source>
         <translation>文件排序</translation>
     </message>
     <message>
         <source>File display</source>
         <translation>文件显示</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>常规</translation>
-    </message>
-    <message>
-        <source>Fileman</source>
-        <translation>Fileman</translation>
     </message>
     <message>
         <source>About</source>
@@ -345,6 +333,22 @@
     </message>
     <message>
         <source>Cache thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fileman translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">设置</translation>
+    </message>
+    <message>
+        <source>Fileman settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fileman information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

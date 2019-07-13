@@ -316,24 +316,12 @@
 <context>
     <name>SettingsPage</name>
     <message>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
         <source>File ordering</source>
         <translation>Datei-Reihenfolge</translation>
     </message>
     <message>
         <source>File display</source>
         <translation>Dateianzeige</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>Allgemeines</translation>
-    </message>
-    <message>
-        <source>Fileman</source>
-        <translation>Fileman</translation>
     </message>
     <message>
         <source>About</source>
@@ -345,6 +333,22 @@
     </message>
     <message>
         <source>Cache thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fileman translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Einstellungen</translation>
+    </message>
+    <message>
+        <source>Fileman settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fileman information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -316,24 +316,12 @@
 <context>
     <name>SettingsPage</name>
     <message>
-        <source>Settings</source>
-        <translation>Instellingen</translation>
-    </message>
-    <message>
         <source>File ordering</source>
         <translation>Bestandsvolgorde</translation>
     </message>
     <message>
         <source>File display</source>
         <translation>Bestandsweergave</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>Algemeen</translation>
-    </message>
-    <message>
-        <source>Fileman</source>
-        <translation>Fileman</translation>
     </message>
     <message>
         <source>About</source>
@@ -346,6 +334,22 @@
     <message>
         <source>Cache thumbnails</source>
         <translation>Cache miniaturen</translation>
+    </message>
+    <message>
+        <source>Fileman translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Instellingen</translation>
+    </message>
+    <message>
+        <source>Fileman settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fileman information</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
