@@ -91,11 +91,11 @@
     </message>
     <message>
         <source> entry</source>
-        <translation type="unfinished"></translation>
+        <translation> bestand</translation>
     </message>
     <message>
         <source> entries</source>
-        <translation type="unfinished"></translation>
+        <translation> bestanden</translation>
     </message>
 </context>
 <context>
@@ -337,19 +337,19 @@
     </message>
     <message>
         <source>Fileman translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman vertalingen</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Instellingen</translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <source>Fileman settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman instellingen</translation>
     </message>
     <message>
         <source>Fileman information</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman informatie</translation>
     </message>
 </context>
 <context>
