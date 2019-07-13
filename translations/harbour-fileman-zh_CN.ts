@@ -318,7 +318,7 @@
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>格式未知</translation>
     </message>
 </context>
 <context>
