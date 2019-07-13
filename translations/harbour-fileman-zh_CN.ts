@@ -80,11 +80,11 @@
     </message>
     <message>
         <source>1 entry selected</source>
-        <translation>已选择1个项目</translation>
+        <translation>已选中1个项目</translation>
     </message>
     <message>
         <source> entries selected</source>
-        <translation> 个已选择项目</translation>
+        <translation> 个项目已选中</translation>
     </message>
 </context>
 <context>
@@ -103,7 +103,7 @@
     </message>
     <message>
         <source> entries</source>
-        <translation> 项目</translation>
+        <translation> 个项目</translation>
     </message>
 </context>
 <context>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>GIF image</source>
-        <translation>GIF图片</translation>
+        <translation>GIF 图片</translation>
     </message>
     <message>
         <source>SVG vector image</source>
@@ -620,7 +620,7 @@
     </message>
     <message>
         <source>Clearing text area</source>
-        <translation>清除文本区域</translation>
+        <translation>清空文本区域</translation>
     </message>
     <message>
         <source>Saving file</source>
