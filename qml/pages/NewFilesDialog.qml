@@ -31,7 +31,7 @@ Dialog {
 
         header: DialogHeader {
             id: dialogHeader
-            acceptText: "Add"
+            acceptText: qsTr("Add")
         }
 
         ListModel {
@@ -127,7 +127,7 @@ Dialog {
                     verticalAlignment: Text.AlignVCenter
 
                     // TODO: Allow user to create files
-                    text: "Add new "
+                    text: qsTr("Add new ")
                 }
                 Label {
                     width: paintedWidth
@@ -158,11 +158,11 @@ Dialog {
                 id: contextMenu
 
                 MenuItem {
-                    text: "directory"
+                    text: qsTr("directory")
                     onClicked: currentFileType = "directory"
                 }
                 MenuItem {
-                    text: "file"
+                    text: qsTr("file")
                     onClicked: currentFileType = "file"
                 }
             }

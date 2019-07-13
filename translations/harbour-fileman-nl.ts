@@ -216,6 +216,106 @@
         <source>Execute</source>
         <translation>Uitvoeren</translation>
     </message>
+    <message>
+        <source>MPG video</source>
+        <translation>MPG video</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>Breedte</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation>Hoogte</translation>
+    </message>
+    <message>
+        <source>Image details</source>
+        <translation>Beelddetails</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Grootte</translation>
+    </message>
+    <message>
+        <source>Last modified</source>
+        <translation>Laatst gewijzigd</translation>
+    </message>
+    <message>
+        <source>Created</source>
+        <translation>Gemaakt</translation>
+    </message>
+    <message>
+        <source>File details</source>
+        <translation>Bestandsgegevens</translation>
+    </message>
+    <message>
+        <source>Directory details</source>
+        <translation>Directory details</translation>
+    </message>
+    <message>
+        <source>PNG image</source>
+        <translation>PNG afbeelding</translation>
+    </message>
+    <message>
+        <source>JPEG image</source>
+        <translation>JPEG afbeelding</translation>
+    </message>
+    <message>
+        <source>GIF image</source>
+        <translation>GIF afbeelding</translation>
+    </message>
+    <message>
+        <source>SVG vector image</source>
+        <translation>SVG vector afbeelding</translation>
+    </message>
+    <message>
+        <source>AVI video</source>
+        <translation>AVI video</translation>
+    </message>
+    <message>
+        <source>MOV video</source>
+        <translation>MOV video</translation>
+    </message>
+    <message>
+        <source>3GP video</source>
+        <translation>3GP video</translation>
+    </message>
+    <message>
+        <source>MP4 video</source>
+        <translation>MP4 video</translation>
+    </message>
+    <message>
+        <source>MKV video</source>
+        <translation>MKV video</translation>
+    </message>
+    <message>
+        <source>WMV video</source>
+        <translation>WMV video</translation>
+    </message>
+    <message>
+        <source>MP3 audio</source>
+        <translation>MP3 audio</translation>
+    </message>
+    <message>
+        <source>OGG audio</source>
+        <translation>OGG audio</translation>
+    </message>
+    <message>
+        <source>FLAC audio</source>
+        <translation>FLAC audio</translation>
+    </message>
+    <message>
+        <source>Android application package</source>
+        <translation>Android applicatiepakket</translation>
+    </message>
+    <message>
+        <source>RPM package</source>
+        <translation>RPM-pakket</translation>
+    </message>
+    <message>
+        <source>Text file</source>
+        <translation>Tekstbestand</translation>
+    </message>
 </context>
 <context>
     <name>FileOperationPage</name>
@@ -288,10 +388,36 @@
     </message>
 </context>
 <context>
+    <name>FileProcess</name>
+    <message>
+        <source>Opening file...</source>
+        <translation>Bestand openen...</translation>
+    </message>
+</context>
+<context>
     <name>FileRenameDialog</name>
     <message>
         <source>Rename</source>
         <translation>Hernoem</translation>
+    </message>
+</context>
+<context>
+    <name>NewFilesDialog</name>
+    <message>
+        <source>Add</source>
+        <translation>Toevoegen</translation>
+    </message>
+    <message>
+        <source>Add new </source>
+        <translation>Nieuwe </translation>
+    </message>
+    <message>
+        <source>directory</source>
+        <translation>directory</translation>
+    </message>
+    <message>
+        <source>file</source>
+        <translation>bestand</translation>
     </message>
 </context>
 <context>

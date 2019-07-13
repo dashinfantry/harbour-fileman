@@ -216,6 +216,106 @@
         <source>Execute</source>
         <translation type="unfinished">Kör</translation>
     </message>
+    <message>
+        <source>MPG video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Storlek</translation>
+    </message>
+    <message>
+        <source>Last modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Directory details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PNG image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GIF image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SVG vector image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AVI video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MOV video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3GP video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MP4 video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MKV video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WMV video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MP3 audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OGG audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FLAC audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Android application package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RPM package</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text file</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileOperationPage</name>
@@ -288,10 +388,36 @@
     </message>
 </context>
 <context>
+    <name>FileProcess</name>
+    <message>
+        <source>Opening file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileRenameDialog</name>
     <message>
         <source>Rename</source>
         <translation type="unfinished">Byt namn</translation>
+    </message>
+</context>
+<context>
+    <name>NewFilesDialog</name>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add new </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -74,7 +74,7 @@ bool FileProcess::performFileAction(const QString &fullPath, const QString &acti
         if (action == "installApk" || action == "installRpm")
             setProgressText("Installing...");
         else if (action == "openSystem")
-            setProgressText("Opening file...");
+            setProgressText(tr("Opening file..."));
 
         process->start(program, parameters);
     }

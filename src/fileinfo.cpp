@@ -30,28 +30,28 @@ QVariant FileInfo::getFileInfo(const QString &fullPath)
         QVariantMap imageDetails;
 
         // Add details about the image
-        imageDetails.insert("Width", image.width());
-        imageDetails.insert("Height", image.height());
+        imageDetails.insert(tr("Width"), image.width());
+        imageDetails.insert(tr("Height"), image.height());
 
-        detailEntries.insert("Image details", imageDetails);
+        detailEntries.insert(tr("Image details"), imageDetails);
     }
 
     if (!isDir)
     {
         // Add normal file details
-        fileDetails.insert("Size", bytesToString(fileInfo.size()));
-        fileDetails.insert("Last modified", fileInfo.lastModified().toString());
-        fileDetails.insert("Created", fileInfo.created().toString());
+        fileDetails.insert(tr("Size"), bytesToString(fileInfo.size()));
+        fileDetails.insert(tr("Last modified"), fileInfo.lastModified().toString());
+        fileDetails.insert(tr("Created"), fileInfo.created().toString());
 
-        detailEntries.insert("File details", fileDetails);
+        detailEntries.insert(tr("File details"), fileDetails);
     }
     else
     {
         // Add directory details
-        fileDetails.insert("Last modified", fileInfo.lastModified().toString());
-        fileDetails.insert("Created", fileInfo.created().toString());
+        fileDetails.insert(tr("Last modified"), fileInfo.lastModified().toString());
+        fileDetails.insert(tr("Created"), fileInfo.created().toString());
 
-        detailEntries.insert("Directory details", fileDetails);
+        detailEntries.insert(tr("Directory details"), fileDetails);
     }
 
     // Get file format name
@@ -105,28 +105,28 @@ void FileInfo::setFileContent(const QString &fullPath, const QString &content)
 QString FileInfo::getFileFormatName(QString suffix)
 {
     QMap<QString, QString> formatNames;
-    formatNames.insert("png", "PNG image");
-    formatNames.insert("jpg", "JPEG image");
-    formatNames.insert("jpeg", "JPEG image");
-    formatNames.insert("gif", "GIF image");
-    formatNames.insert("svg", "SVG vector image");
+    formatNames.insert("png", tr("PNG image"));
+    formatNames.insert("jpg", tr("JPEG image"));
+    formatNames.insert("jpeg", tr("JPEG image"));
+    formatNames.insert("gif", tr("GIF image"));
+    formatNames.insert("svg", tr("SVG vector image"));
 
-    formatNames.insert("mpg", "MPG video");
-    formatNames.insert("avi", "AVI video");
-    formatNames.insert("mov", "MOV video");
-    formatNames.insert("3gp", "3GP video");
-    formatNames.insert("mp4", "MP4 video");
-    formatNames.insert("mkv", "MKV video");
-    formatNames.insert("wmv", "WMV video");
+    formatNames.insert("mpg", tr("MPG video"));
+    formatNames.insert("avi", tr("AVI video"));
+    formatNames.insert("mov", tr("MOV video"));
+    formatNames.insert("3gp", tr("3GP video"));
+    formatNames.insert("mp4", tr("MP4 video"));
+    formatNames.insert("mkv", tr("MKV video"));
+    formatNames.insert("wmv", tr("WMV video"));
 
-    formatNames.insert("mp3", "MP3 audio");
-    formatNames.insert("ogg", "OGG audio");
-    formatNames.insert("flac", "FLAC audio");
+    formatNames.insert("mp3", tr("MP3 audio"));
+    formatNames.insert("ogg", tr("OGG audio"));
+    formatNames.insert("flac", tr("FLAC audio"));
 
-    formatNames.insert("apk", "Android application package");
-    formatNames.insert("rpm", "RPM package");
+    formatNames.insert("apk", tr("Android application package"));
+    formatNames.insert("rpm", tr("RPM package"));
 
-    formatNames.insert("txt", "Text file");
+    formatNames.insert("txt", tr("Text file"));
 
     if (formatNames.contains(suffix))
         return formatNames.value(suffix);
