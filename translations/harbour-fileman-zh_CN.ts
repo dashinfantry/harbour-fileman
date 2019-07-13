@@ -80,30 +80,30 @@
     </message>
     <message>
         <source>1 entry selected</source>
-        <translation type="unfinished"></translation>
+        <translation>已选择1个项目</translation>
     </message>
     <message>
         <source> entries selected</source>
-        <translation type="unfinished"></translation>
+        <translation> 已选择项目</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPage</name>
     <message>
         <source>Deleting </source>
-        <translation type="unfinished"></translation>
+        <translation>删除中</translation>
     </message>
     <message>
         <source>Copying </source>
-        <translation type="unfinished"></translation>
+        <translation>复制中</translation>
     </message>
     <message>
         <source> entry</source>
-        <translation type="unfinished"></translation>
+        <translation>项目</translation>
     </message>
     <message>
         <source> entries</source>
-        <translation type="unfinished"></translation>
+        <translation> 项目</translation>
     </message>
 </context>
 <context>
@@ -156,15 +156,15 @@
     <name>DirectoryViewSettings</name>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>缩略图</translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>缓存缩略图</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished"></translation>
+        <translation>保存生成的缩略图以快速加载</translation>
     </message>
 </context>
 <context>
@@ -202,19 +202,19 @@
     </message>
     <message>
         <source>Show as text</source>
-        <translation type="unfinished"></translation>
+        <translation>以文本显示</translation>
     </message>
     <message>
         <source>Edit as text</source>
-        <translation type="unfinished"></translation>
+        <translation>作为文本编辑</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>打开</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished">可执行</translation>
+        <translation>可执行</translation>
     </message>
 </context>
 <context>
@@ -225,7 +225,7 @@
     </message>
     <message>
         <source>Deleting files</source>
-        <translation type="unfinished"></translation>
+        <translation>正在删除文件</translation>
     </message>
 </context>
 <context>
@@ -291,7 +291,7 @@
     <name>FileRenameDialog</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">重命名</translation>
+        <translation>重命名</translation>
     </message>
 </context>
 <context>
@@ -337,27 +337,27 @@
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>缓存缩略图</translation>
     </message>
     <message>
         <source>Fileman translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman 翻译</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Fileman settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman 设置</translation>
     </message>
     <message>
         <source>Fileman information</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman 信息</translation>
     </message>
     <message>
         <source>About Fileman</source>
-        <translation type="unfinished">关于 Fileman</translation>
+        <translation>关于 Fileman</translation>
     </message>
 </context>
 <context>
@@ -472,67 +472,67 @@
     <name>Worker</name>
     <message>
         <source>Deleting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在删除文件……</translation>
     </message>
     <message>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在复制文件……</translation>
     </message>
     <message>
         <source>Creating directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在创建目录……</translation>
     </message>
     <message>
         <source>Directories couldn&apos;t be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建目录。</translation>
     </message>
     <message>
         <source>Copying files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在复制文件（%1 of %2）……</translation>
     </message>
     <message>
         <source>All files were copied successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>已成功复制所有文件。</translation>
     </message>
     <message>
         <source>All files couldn&apos;t be copied successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法复制所有文件。</translation>
     </message>
     <message>
         <source>Deleting old files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在删除旧文件(%1 of %2)</translation>
     </message>
     <message>
         <source>Deleting old directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在删除旧目录……</translation>
     </message>
     <message>
         <source>All of the files couldn&apos;t be cut and pasted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法成功剪切并粘贴所有文件。</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting copied files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>无法复制全部文件，正在删除复制的文件(%1 of %2)</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting created directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>无法复制全部文件，正在删除创建的目录……</translation>
     </message>
     <message>
         <source>Deleting files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在删除所有文件(%1 of %2) ……</translation>
     </message>
     <message>
         <source>Deleting directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在删除目录……</translation>
     </message>
     <message>
         <source>All files were deleted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>已成功删除所有文件。</translation>
     </message>
     <message>
         <source>All files couldn&apos;t be deleted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法成功删除所有文件……</translation>
     </message>
 </context>
 </TS>
