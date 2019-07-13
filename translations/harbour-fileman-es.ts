@@ -196,6 +196,26 @@
         <source>File information</source>
         <translation>Información de archivo</translation>
     </message>
+    <message>
+        <source>Show as text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>showAsText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit as text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Execute</source>
+        <translation type="unfinished">Ejecución</translation>
+    </message>
 </context>
 <context>
     <name>FileOperationPage</name>

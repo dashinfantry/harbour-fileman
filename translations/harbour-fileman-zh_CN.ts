@@ -196,6 +196,26 @@
         <source>File information</source>
         <translation>文件信息</translation>
     </message>
+    <message>
+        <source>Show as text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>showAsText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit as text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Execute</source>
+        <translation type="unfinished">可执行</translation>
+    </message>
 </context>
 <context>
     <name>FileOperationPage</name>

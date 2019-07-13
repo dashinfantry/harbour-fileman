@@ -207,19 +207,19 @@ QVariantMap FileInfo::getFileActions(QString fullPath)
     if (!fileInfo.isDir())
     {
         QVariantMap textAction;
-        textAction.insert("label", "Show as text");
-        textAction.insert("action", "showAsText");
+        textAction.insert("label", tr("Show as text"));
+        textAction.insert("action", tr("showAsText"));
         textAction.insert("process", false);
         actionMap.insert("Show as text", textAction);
 
         QVariantMap editAsTextAction;
-        editAsTextAction.insert("label", "Edit as text");
+        editAsTextAction.insert("label", tr("Edit as text"));
         editAsTextAction.insert("action", "editAsText");
         editAsTextAction.insert("process", false);
         actionMap.insert("Edit as text", editAsTextAction);
 
         QVariantMap openSystemAction;
-        openSystemAction.insert("label", "Open");
+        openSystemAction.insert("label", tr("Open"));
         openSystemAction.insert("action", "openSystem");
         openSystemAction.insert("process", true);
         actionMap.insert("Open", openSystemAction);
@@ -228,7 +228,7 @@ QVariantMap FileInfo::getFileActions(QString fullPath)
     if (fileInfo.isExecutable() && !fileInfo.isDir())
     {
         QVariantMap executeAction;
-        executeAction.insert("label", "Execute");
+        executeAction.insert("label", tr("Execute"));
         executeAction.insert("action", "execute");
         actionMap.insert("Execute", executeAction);
     }
