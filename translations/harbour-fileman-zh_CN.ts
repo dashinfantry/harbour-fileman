@@ -218,107 +218,103 @@
     </message>
     <message>
         <source>MPG video</source>
-        <translation type="unfinished"></translation>
+        <translation>MPG 视频</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>宽度</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>高度</translation>
     </message>
     <message>
         <source>Image details</source>
-        <translation type="unfinished"></translation>
+        <translation>图片详情</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">大小</translation>
+        <translation>大小</translation>
     </message>
     <message>
         <source>Last modified</source>
-        <translation type="unfinished"></translation>
+        <translation>最近修改</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>创建</translation>
     </message>
     <message>
         <source>File details</source>
-        <translation type="unfinished"></translation>
+        <translation>文件详情</translation>
     </message>
     <message>
         <source>Directory details</source>
-        <translation type="unfinished"></translation>
+        <translation>目录详情</translation>
     </message>
     <message>
         <source>PNG image</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG 图片</translation>
     </message>
     <message>
         <source>JPEG image</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG 图片</translation>
     </message>
     <message>
         <source>GIF image</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF图片</translation>
     </message>
     <message>
         <source>SVG vector image</source>
-        <translation type="unfinished"></translation>
+        <translation>SVG 矢量图片</translation>
     </message>
     <message>
         <source>AVI video</source>
-        <translation type="unfinished"></translation>
+        <translation>AVI 视频</translation>
     </message>
     <message>
         <source>MOV video</source>
-        <translation type="unfinished"></translation>
+        <translation>MOV 视频</translation>
     </message>
     <message>
         <source>3GP video</source>
-        <translation type="unfinished"></translation>
+        <translation>3GP 视频</translation>
     </message>
     <message>
         <source>MP4 video</source>
-        <translation type="unfinished"></translation>
+        <translation>MP4 视频</translation>
     </message>
     <message>
         <source>MKV video</source>
-        <translation type="unfinished"></translation>
+        <translation>MKV 视频</translation>
     </message>
     <message>
         <source>WMV video</source>
-        <translation type="unfinished"></translation>
+        <translation>WMV 视频</translation>
     </message>
     <message>
         <source>MP3 audio</source>
-        <translation type="unfinished"></translation>
+        <translation>MP3 音频</translation>
     </message>
     <message>
         <source>OGG audio</source>
-        <translation type="unfinished"></translation>
+        <translation>OGG 音频</translation>
     </message>
     <message>
         <source>FLAC audio</source>
-        <translation type="unfinished"></translation>
+        <translation>FLAC 音频</translation>
     </message>
     <message>
         <source>Android application package</source>
-        <translation type="unfinished"></translation>
+        <translation>Android 软件安装包</translation>
     </message>
     <message>
         <source>RPM package</source>
-        <translation type="unfinished"></translation>
+        <translation>RPM 软件安装包</translation>
     </message>
     <message>
         <source>Text file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>文本文件</translation>
     </message>
 </context>
 <context>
@@ -395,51 +391,51 @@
     <name>FileProcess</name>
     <message>
         <source>Opening file...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在打开文件……</translation>
     </message>
     <message>
         <source>Installing...</source>
-        <translation type="unfinished"></translation>
+        <translation>安装中……</translation>
     </message>
     <message>
         <source>Installing packages</source>
-        <translation type="unfinished"></translation>
+        <translation>安装软件安装包</translation>
     </message>
     <message>
         <source>Downloading packages</source>
-        <translation type="unfinished"></translation>
+        <translation>下载的软件安装包</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>已安装</translation>
     </message>
     <message>
         <source>Nothing was done</source>
-        <translation type="unfinished"></translation>
+        <translation>什么也没有完成</translation>
     </message>
     <message>
         <source>Installation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>安装失败</translation>
     </message>
     <message>
         <source>Installation was started</source>
-        <translation type="unfinished"></translation>
+        <translation>已开始安装</translation>
     </message>
     <message>
         <source>Installation couldn&apos;t be started</source>
-        <translation type="unfinished"></translation>
+        <translation>无法开始安装</translation>
     </message>
     <message>
         <source>File opened</source>
-        <translation type="unfinished"></translation>
+        <translation>文件已打开</translation>
     </message>
     <message>
         <source>Suitable application was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>没有找到适合打开的软件</translation>
     </message>
     <message>
         <source>File couldn&apos;t be opened</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开文件</translation>
     </message>
 </context>
 <context>
@@ -453,19 +449,19 @@
     <name>NewFilesDialog</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Add new </source>
-        <translation type="unfinished"></translation>
+        <translation>添加新的</translation>
     </message>
     <message>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>目录</translation>
     </message>
     <message>
         <source>file</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
 </context>
 <context>
