@@ -80,6 +80,17 @@
     </message>
 </context>
 <context>
+    <name>DirectoryPage</name>
+    <message>
+        <source>Deleting </source>
+        <translation>Verwijderen </translation>
+    </message>
+    <message>
+        <source>Copying </source>
+        <translation>Kopiëren </translation>
+    </message>
+</context>
+<context>
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
@@ -141,7 +152,7 @@
     </message>
     <message>
         <source>Directory view</source>
-        <translation type="unfinished">Directoryweergave</translation>
+        <translation>Directoryweergave</translation>
     </message>
 </context>
 <context>
@@ -183,6 +194,10 @@
     <message>
         <source>Copying files</source>
         <translation>Bestanden kopiëren</translation>
+    </message>
+    <message>
+        <source>Deleting files</source>
+        <translation>Verwijderen bestanden</translation>
     </message>
 </context>
 <context>
@@ -242,6 +257,13 @@
     <message>
         <source>Don&apos;t order directories</source>
         <translation>Geen mappen</translation>
+    </message>
+</context>
+<context>
+    <name>FileRenameDialog</name>
+    <message>
+        <source>Rename</source>
+        <translation>Hernoem</translation>
     </message>
 </context>
 <context>
@@ -412,6 +434,73 @@
     <message>
         <source>GitHub translations</source>
         <translation>GitHub vertalingen</translation>
+    </message>
+</context>
+<context>
+    <name>Worker</name>
+    <message>
+        <source>Deleting files...</source>
+        <translation>Verwijderen bestanden...</translation>
+    </message>
+    <message>
+        <source>Copying files...</source>
+        <translation>Bestanden kopiëren...</translation>
+    </message>
+    <message>
+        <source>Creating directories...</source>
+        <translation>Mappen maken...</translation>
+    </message>
+    <message>
+        <source>Directories couldn&apos;t be created.</source>
+        <translation>Mappen kunnen niet worden aangemaakt.</translation>
+    </message>
+    <message>
+        <source>Copying files (%1 of %2)...</source>
+        <translation>Bestanden kopiëren (%1 van %2)...</translation>
+    </message>
+    <message>
+        <source>All files were copied successfully.</source>
+        <translation>Alle bestanden zijn succesvol gekopieerd.</translation>
+    </message>
+    <message>
+        <source>All files couldn&apos;t be copied successfully.</source>
+        <translation>Alle bestanden konden niet met succes worden gekopieerd.</translation>
+    </message>
+    <message>
+        <source>Deleting old files (%1 of %2)...</source>
+        <translation>Oude bestanden verwijderen (%1 van %2)...</translation>
+    </message>
+    <message>
+        <source>Deleting old directories...</source>
+        <translation>Oude mappen verwijderen ..</translation>
+    </message>
+    <message>
+        <source>All of the files couldn&apos;t be cut and pasted successfully.</source>
+        <translation>Alle bestanden konden niet succesvol worden geknipt en geplakt.</translation>
+    </message>
+    <message>
+        <source>Failed to copy all files, deleting copied files (%1 of %2)...</source>
+        <translation>Kon niet alle bestanden kopiëren, gekopieerde bestanden verwijderen (%1 van %2) ...</translation>
+    </message>
+    <message>
+        <source>Failed to copy all files, deleting created directories...</source>
+        <translation>Kon niet alle bestanden kopiëren, gecreëerde mappen verwijderen...</translation>
+    </message>
+    <message>
+        <source>Deleting files (%1 of %2)...</source>
+        <translation>Bestanden verwijderen (%1 van %2)...</translation>
+    </message>
+    <message>
+        <source>Deleting directories...</source>
+        <translation>Mappen verwijderen...</translation>
+    </message>
+    <message>
+        <source>All files were deleted successfully.</source>
+        <translation>Alle bestanden zijn succesvol verwijderd.</translation>
+    </message>
+    <message>
+        <source>All files couldn&apos;t be deleted successfully.</source>
+        <translation>Alle bestanden konden niet succesvol worden verwijderd.</translation>
     </message>
 </context>
 </TS>

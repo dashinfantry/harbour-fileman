@@ -237,12 +237,12 @@ Page {
         switch (fileOperation)
         {
             case "delete":
-                popupMessage += "Deleting "
+                popupMessage += qsTr("Deleting ")
                 entryCount = clipboard.getSelectedFileCount()
                 break;
 
             case "paste":
-                popupMessage += "Copying "
+                popupMessage += qsTr("Copying ")
                 entryCount = clipboard.getClipboardFileCount()
                 break;
         }

@@ -80,6 +80,17 @@
     </message>
 </context>
 <context>
+    <name>DirectoryPage</name>
+    <message>
+        <source>Deleting </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copying </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
@@ -184,6 +195,10 @@
         <source>Copying files</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Deleting files</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileOrderSettings</name>
@@ -241,6 +256,13 @@
     </message>
     <message>
         <source>Don&apos;t order directories</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileRenameDialog</name>
+    <message>
+        <source>Rename</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -411,6 +433,73 @@
     </message>
     <message>
         <source>GitHub translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Worker</name>
+    <message>
+        <source>Deleting files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copying files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creating directories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Directories couldn&apos;t be created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copying files (%1 of %2)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files were copied successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files couldn&apos;t be copied successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleting old files (%1 of %2)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleting old directories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All of the files couldn&apos;t be cut and pasted successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy all files, deleting copied files (%1 of %2)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy all files, deleting created directories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleting files (%1 of %2)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleting directories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files were deleted successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files couldn&apos;t be deleted successfully.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

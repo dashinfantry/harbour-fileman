@@ -22,19 +22,21 @@ Page {
             SectionHeader {
                     text: qsTr("Thumbnails")
                 }
-                Column {
-                    // No spacing in this column
-                    width: parent.width
-                    TextSwitch {
-                        text: qsTr("Cache thumbnails")
-                        description: qsTr("Save generated thumbnails for faster loading")
 
-                        checked: settings.cacheThumbnails
+            Column {
+                // No spacing in this column
+                width: parent.width
+                TextSwitch {
+                    text: qsTr("Cache thumbnails")
+                    description: qsTr("Save generated thumbnails for faster loading")
 
-                        onCheckedChanged: settings.cacheThumbnails = checked
+                    checked: settings.cacheThumbnails
+
+                    onCheckedChanged: settings.cacheThumbnails = checked
                     }
                 }
             }
         }
     }
+
 
