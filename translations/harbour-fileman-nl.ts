@@ -316,6 +316,10 @@
         <source>Text file</source>
         <translation>Tekstbestand</translation>
     </message>
+    <message>
+        <source>unknown</source>
+        <translation>onbekend</translation>
+    </message>
 </context>
 <context>
     <name>FileOperationPage</name>

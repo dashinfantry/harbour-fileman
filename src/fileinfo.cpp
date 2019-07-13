@@ -131,7 +131,7 @@ QString FileInfo::getFileFormatName(QString suffix)
     if (formatNames.contains(suffix))
         return formatNames.value(suffix);
     else
-        return "unknown";
+        return tr("unknown");
 }
 
 QString FileInfo::bytesToString(qint64 bytes)
