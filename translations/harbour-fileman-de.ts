@@ -393,6 +393,50 @@
         <source>Opening file...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Installing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installing packages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading packages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nothing was done</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installation failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installation was started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installation couldn&apos;t be started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File opened</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suitable application was not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File couldn&apos;t be opened</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileRenameDialog</name>
