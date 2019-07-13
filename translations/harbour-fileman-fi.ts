@@ -158,10 +158,6 @@
         <source>Save generated thumbnails for faster loading</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Directory view</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>FileDisplay</name>
@@ -348,7 +344,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Directory view</source>
+        <source>Cache thumbnails</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

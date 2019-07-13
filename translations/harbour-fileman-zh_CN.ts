@@ -158,10 +158,6 @@
         <source>Save generated thumbnails for faster loading</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Directory view</source>
-        <translation type="unfinished">目录视图</translation>
-    </message>
 </context>
 <context>
     <name>FileDisplay</name>
@@ -324,10 +320,6 @@
         <translation>设置</translation>
     </message>
     <message>
-        <source>Directory view</source>
-        <translation>目录视图</translation>
-    </message>
-    <message>
         <source>File ordering</source>
         <translation>文件排序</translation>
     </message>
@@ -350,6 +342,10 @@
     <message>
         <source>Translations</source>
         <translation>翻译</translation>
+    </message>
+    <message>
+        <source>Cache thumbnails</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

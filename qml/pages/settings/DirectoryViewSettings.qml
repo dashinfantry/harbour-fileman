@@ -16,7 +16,7 @@ Page {
             spacing: Theme.paddingLarge
             width: parent.width
             PageHeader {
-                title: qsTr("Directory view")
+                title: qsTr("Cache thumbnails")
             }
 
             SectionHeader {

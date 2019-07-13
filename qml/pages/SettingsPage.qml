@@ -23,8 +23,8 @@ Page {
             {
                 width: parent.width
                 height: Theme.itemSizeSmall
-                icon: "image://theme/icon-m-file-folder"
-                text: qsTr("Directory view")
+                icon: "image://theme/icon-m-file-image"
+                text: qsTr("Cache thumbnails")
                 onActionRequested: pageStack.push(Qt.resolvedUrl("settings/DirectoryViewSettings.qml"))
             }
 

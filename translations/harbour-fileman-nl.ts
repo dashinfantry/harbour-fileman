@@ -152,15 +152,11 @@
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation>Cache-miniaturen</translation>
+        <translation>Cache miniaturen</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
         <translation>Bewaar gegenereerde miniaturen voor sneller laden</translation>
-    </message>
-    <message>
-        <source>Directory view</source>
-        <translation>Directoryweergave</translation>
     </message>
 </context>
 <context>
@@ -202,15 +198,15 @@
     </message>
     <message>
         <source>Edit as text</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerken als tekst</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Openen</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished">Uitvoeren</translation>
+        <translation>Uitvoeren</translation>
     </message>
 </context>
 <context>
@@ -324,10 +320,6 @@
         <translation>Instellingen</translation>
     </message>
     <message>
-        <source>Directory view</source>
-        <translation>Directoryweergave</translation>
-    </message>
-    <message>
         <source>File ordering</source>
         <translation>Bestandsvolgorde</translation>
     </message>
@@ -350,6 +342,10 @@
     <message>
         <source>Translations</source>
         <translation>Vertalingen</translation>
+    </message>
+    <message>
+        <source>Cache thumbnails</source>
+        <translation>Cache miniaturen</translation>
     </message>
 </context>
 <context>

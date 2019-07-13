@@ -158,10 +158,6 @@
         <source>Save generated thumbnails for faster loading</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Directory view</source>
-        <translation type="unfinished">Apariencia de directorio</translation>
-    </message>
 </context>
 <context>
     <name>FileDisplay</name>
@@ -324,10 +320,6 @@
         <translation>Ajustes</translation>
     </message>
     <message>
-        <source>Directory view</source>
-        <translation>Apariencia de directorio</translation>
-    </message>
-    <message>
         <source>File ordering</source>
         <translation>Orden de archivos</translation>
     </message>
@@ -350,6 +342,10 @@
     <message>
         <source>Translations</source>
         <translation>Traducciones</translation>
+    </message>
+    <message>
+        <source>Cache thumbnails</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
