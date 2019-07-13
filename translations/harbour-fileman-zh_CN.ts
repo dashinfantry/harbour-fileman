@@ -316,6 +316,10 @@
         <source>Text file</source>
         <translation>文本文件</translation>
     </message>
+    <message>
+        <source>unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileOperationPage</name>

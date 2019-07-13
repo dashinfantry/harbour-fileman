@@ -616,7 +616,7 @@
     </message>
     <message>
         <source>Clear</source>
-        <translation>Duidelijk</translation>
+        <translation>Tekstgebied vrijmaken</translation>
     </message>
     <message>
         <source>Save</source>
