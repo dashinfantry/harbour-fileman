@@ -248,9 +248,9 @@ Page {
         }
 
         if (entryCount == 1)
-            popupMessage += entryCount + " entry"
+            popupMessage += entryCount + qsTr(" entry")
         else
-            popupMessage += entryCount + " entries"
+            popupMessage += entryCount + qsTr(" entries")
 
         remorsePopup.execute(popupMessage, function() { pageStack.push(Qt.resolvedUrl("FileOperationPage.qml"), { "fileOperation": fileOperation,
                                                                                                                   "clipboard": clipboard.getClipboard(),

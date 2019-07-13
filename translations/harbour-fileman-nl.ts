@@ -89,6 +89,14 @@
         <source>Copying </source>
         <translation>Kopiëren </translation>
     </message>
+    <message>
+        <source> entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> entries</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPullDownMenu</name>
