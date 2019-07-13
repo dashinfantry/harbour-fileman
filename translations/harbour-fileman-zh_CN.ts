@@ -78,6 +78,10 @@
         <source>Share</source>
         <translation>分享</translation>
     </message>
+    <message>
+        <source>1 entry selected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPage</name>

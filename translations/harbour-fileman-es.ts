@@ -78,6 +78,10 @@
         <source>Share</source>
         <translation>Compartir</translation>
     </message>
+    <message>
+        <source>1 entry selected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPage</name>

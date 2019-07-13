@@ -245,7 +245,7 @@ Item {
             shareFiles.visible = true
             selectedFilesLabelVisible = true
             if (clipboard.getSelectedFileCount() == 1)
-                selectedFilesLabel.text = "1 entry selected"
+                selectedFilesLabel.text = qsTr("1 entry selected")
             else
                 selectedFilesLabel.text = clipboard.getSelectedFileCount() + " entries selected"
         }

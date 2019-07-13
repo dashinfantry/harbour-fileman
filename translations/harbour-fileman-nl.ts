@@ -78,6 +78,10 @@
         <source>Share</source>
         <translation>Delen</translation>
     </message>
+    <message>
+        <source>1 entry selected</source>
+        <translation>1 bestand geselecteerd</translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPage</name>
