@@ -13,8 +13,8 @@ v1.0-release 8
 - [MINOR BUGFIX] Updated translation
 - [NEW] Fileman icons updated inside the app
 - [NEW] Display a black background when viewing image and video files
-- [NEW] Adding cache for pictures to settings
-- [NEW] Display pictures into galery mode or into list mode
+- [NEW] Adding cache for pictures to settings, first load take some time
+- [REMOVED] Removed grid view and make list view more complete to show pictures correctly
 
 * Thu Jul 11 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-7
 v1.0-release 7
