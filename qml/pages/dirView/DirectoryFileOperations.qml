@@ -247,7 +247,7 @@ Item {
             if (clipboard.getSelectedFileCount() == 1)
                 selectedFilesLabel.text = qsTr("1 entry selected")
             else
-                selectedFilesLabel.text = clipboard.getSelectedFileCount() + " entries selected"
+                selectedFilesLabel.text = clipboard.getSelectedFileCount() + qsTr(" entries selected")
         }
         else
         {

@@ -82,6 +82,10 @@
         <source>1 entry selected</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source> entries selected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPage</name>

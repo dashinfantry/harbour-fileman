@@ -82,6 +82,10 @@
         <source>1 entry selected</source>
         <translation>1 bestand geselecteerd</translation>
     </message>
+    <message>
+        <source> entries selected</source>
+        <translation> bestanden geselecteerd</translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPage</name>
