@@ -208,7 +208,7 @@ QVariantMap FileInfo::getFileActions(QString fullPath)
     {
         QVariantMap textAction;
         textAction.insert("label", tr("Show as text"));
-        textAction.insert("action", tr("showAsText"));
+        textAction.insert("action", "showAsText");
         textAction.insert("process", false);
         actionMap.insert("Show as text", textAction);
 

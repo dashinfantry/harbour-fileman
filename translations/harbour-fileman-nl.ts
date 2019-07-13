@@ -198,11 +198,7 @@
     </message>
     <message>
         <source>Show as text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>showAsText</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon als tekst</translation>
     </message>
     <message>
         <source>Edit as text</source>
