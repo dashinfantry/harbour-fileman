@@ -53,7 +53,7 @@ Page {
                 width: parent.width
                 height: Theme.itemSizeSmall
                 icon: "image://theme/icon-m-about"
-                text: qsTr("About")
+                text: qsTr("About Fileman")
                 onActionRequested: pageStack.push(Qt.resolvedUrl("AboutPage.qml"))
             }
 

@@ -324,10 +324,6 @@
         <translation>文件显示</translation>
     </message>
     <message>
-        <source>About</source>
-        <translation>关于</translation>
-    </message>
-    <message>
         <source>Translations</source>
         <translation>翻译</translation>
     </message>
@@ -350,6 +346,10 @@
     <message>
         <source>Fileman information</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About Fileman</source>
+        <translation type="unfinished">关于 Fileman</translation>
     </message>
 </context>
 <context>

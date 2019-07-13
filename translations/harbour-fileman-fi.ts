@@ -324,10 +324,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>About</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Translations</source>
         <translation type="unfinished"></translation>
     </message>
@@ -349,6 +345,10 @@
     </message>
     <message>
         <source>Fileman information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About Fileman</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

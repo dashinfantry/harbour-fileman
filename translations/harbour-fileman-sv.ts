@@ -324,10 +324,6 @@
         <translation>Filvisning</translation>
     </message>
     <message>
-        <source>About</source>
-        <translation>Om</translation>
-    </message>
-    <message>
         <source>Translations</source>
         <translation>Översättningar</translation>
     </message>
@@ -350,6 +346,10 @@
     <message>
         <source>Fileman information</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About Fileman</source>
+        <translation type="unfinished">Om Fileman</translation>
     </message>
 </context>
 <context>

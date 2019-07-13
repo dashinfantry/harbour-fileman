@@ -324,10 +324,6 @@
         <translation>Dateianzeige</translation>
     </message>
     <message>
-        <source>About</source>
-        <translation>Über</translation>
-    </message>
-    <message>
         <source>Translations</source>
         <translation>Übersetzungen</translation>
     </message>
@@ -350,6 +346,10 @@
     <message>
         <source>Fileman information</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About Fileman</source>
+        <translation type="unfinished">Über Fileman</translation>
     </message>
 </context>
 <context>

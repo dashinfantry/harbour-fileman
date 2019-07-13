@@ -324,10 +324,6 @@
         <translation>Bestandsweergave</translation>
     </message>
     <message>
-        <source>About</source>
-        <translation>Over</translation>
-    </message>
-    <message>
         <source>Translations</source>
         <translation>Vertalingen</translation>
     </message>
@@ -350,6 +346,10 @@
     <message>
         <source>Fileman information</source>
         <translation>Fileman informatie</translation>
+    </message>
+    <message>
+        <source>About Fileman</source>
+        <translation>Over Fileman</translation>
     </message>
 </context>
 <context>
