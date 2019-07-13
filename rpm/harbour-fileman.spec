@@ -48,6 +48,11 @@ A feature filled file manager application for SailfishOS
 # >> build post
 # << build post
 
+%posttrans
+# >> posttrans
+rm -r /home/nemo/.config/Fileman/Fileman.conf
+# << posttrans
+
 %install
 rm -rf %{buildroot}
 # >> install pre
