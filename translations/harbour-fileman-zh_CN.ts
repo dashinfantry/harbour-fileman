@@ -84,7 +84,7 @@
     </message>
     <message>
         <source> entries selected</source>
-        <translation> 已选择项目</translation>
+        <translation> 个已选择项目</translation>
     </message>
 </context>
 <context>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>Copying </source>
-        <translation>复制中</translation>
+        <translation>正在复制</translation>
     </message>
     <message>
         <source> entry</source>
@@ -225,7 +225,7 @@
     </message>
     <message>
         <source>Deleting files</source>
-        <translation>正在删除文件</translation>
+        <translation>删除文件</translation>
     </message>
 </context>
 <context>
@@ -454,7 +454,7 @@
     </message>
     <message>
         <source>Saving file</source>
-        <translation>正在保存文件</translation>
+        <translation>保存文件</translation>
     </message>
 </context>
 <context>
