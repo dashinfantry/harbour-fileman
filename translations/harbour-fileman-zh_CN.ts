@@ -91,7 +91,7 @@
     <name>DirectoryPage</name>
     <message>
         <source>Deleting </source>
-        <translation>删除中</translation>
+        <translation>正在删除</translation>
     </message>
     <message>
         <source>Copying </source>
