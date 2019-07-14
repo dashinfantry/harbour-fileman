@@ -54,7 +54,7 @@ Page {
         height: parent.width < parent.height ? (parent.width / 5) : (parent.height / 5)
         width: parent.width < parent.height ? (parent.width / 5) : (parent.height / 5)
 
-        source: "qrc:/icons/home"
+        source: "qrc:/icons/close"
 
         opacity: overlayUiVisible == true ? 0.5 : 0
 

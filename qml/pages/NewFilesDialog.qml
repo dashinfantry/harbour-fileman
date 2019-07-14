@@ -7,7 +7,7 @@ Dialog {
     property string operation: ""
     property string path: ""
 
-    property string currentFileType: "directory"
+    property string currentFileType: qsTr("directory")
 
     property var files: [ ]
 

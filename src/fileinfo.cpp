@@ -189,7 +189,7 @@ QVariantMap FileInfo::getFileActions(QString fullPath)
     if (fileInfo.suffix() == "apk")
     {
         QVariantMap apkAction;
-        apkAction.insert("label", "Install");
+        apkAction.insert("label", tr("Install"));
         apkAction.insert("action", "installApk");
         apkAction.insert("track", true);
         actionMap.insert("Install", apkAction);
@@ -197,7 +197,7 @@ QVariantMap FileInfo::getFileActions(QString fullPath)
     if (fileInfo.suffix() == "rpm")
     {
         QVariantMap rpmAction;
-        rpmAction.insert("label", "Install");
+        rpmAction.insert("label", tr("Install"));
         rpmAction.insert("action", "installRpm");
         rpmAction.insert("track", true);
         actionMap.insert("Install", rpmAction);

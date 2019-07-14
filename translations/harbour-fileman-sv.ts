@@ -320,6 +320,10 @@
         <source>unknown</source>
         <translation>Okänt</translation>
     </message>
+    <message>
+        <source>Install</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileOperationPage</name>

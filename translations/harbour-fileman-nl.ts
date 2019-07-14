@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Fileman icons made by Gregguh.</source>
-        <translation>Fileman-iconen gemaakt door Gregguh.</translation>
+        <translation>Fileman pictogrammen gemaakt door Gregguh.</translation>
     </message>
 </context>
 <context>
@@ -149,7 +149,7 @@
     </message>
     <message>
         <source>Directory properties</source>
-        <translation>Directory eigenschappen</translation>
+        <translation>Map eigenschappen</translation>
     </message>
 </context>
 <context>
@@ -250,7 +250,7 @@
     </message>
     <message>
         <source>Directory details</source>
-        <translation>Directory details</translation>
+        <translation>Map details</translation>
     </message>
     <message>
         <source>PNG image</source>
@@ -319,6 +319,10 @@
     <message>
         <source>unknown</source>
         <translation>onbekend</translation>
+    </message>
+    <message>
+        <source>Install</source>
+        <translation>Installeren</translation>
     </message>
 </context>
 <context>
@@ -461,7 +465,7 @@
     </message>
     <message>
         <source>directory</source>
-        <translation>directory</translation>
+        <translation>map</translation>
     </message>
     <message>
         <source>file</source>
