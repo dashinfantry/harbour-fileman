@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera</translation>
     </message>
 </context>
 <context>
