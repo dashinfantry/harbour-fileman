@@ -80,30 +80,30 @@
     </message>
     <message>
         <source>1 entry selected</source>
-        <translation type="unfinished"></translation>
+        <translation>1 post markerad</translation>
     </message>
     <message>
         <source> entries selected</source>
-        <translation type="unfinished"></translation>
+        <translation> poster markerade</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPage</name>
     <message>
         <source>Deleting </source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort </translation>
     </message>
     <message>
         <source>Copying </source>
-        <translation type="unfinished"></translation>
+        <translation>Kopierar </translation>
     </message>
     <message>
         <source> entry</source>
-        <translation type="unfinished"></translation>
+        <translation> post</translation>
     </message>
     <message>
         <source> entries</source>
-        <translation type="unfinished"></translation>
+        <translation> poster</translation>
     </message>
 </context>
 <context>
@@ -156,15 +156,15 @@
     <name>DirectoryViewSettings</name>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatyrer</translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Cachelagra miniatyrer</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara skapade miniatyrer för snabbare inläsning</translation>
     </message>
 </context>
 <context>
@@ -202,123 +202,123 @@
     </message>
     <message>
         <source>Show as text</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa som text</translation>
     </message>
     <message>
         <source>Edit as text</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera som text</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished">Kör</translation>
+        <translation>Kör</translation>
     </message>
     <message>
         <source>MPG video</source>
-        <translation type="unfinished"></translation>
+        <translation>MPG-video</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Bredd</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Höjd</translation>
     </message>
     <message>
         <source>Image details</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildegenskaper</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Storlek</translation>
+        <translation>Storlek</translation>
     </message>
     <message>
         <source>Last modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Senast ändrad</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapad</translation>
     </message>
     <message>
         <source>File details</source>
-        <translation type="unfinished"></translation>
+        <translation>Filegenskaper</translation>
     </message>
     <message>
         <source>Directory details</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappegenskaper</translation>
     </message>
     <message>
         <source>PNG image</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG-bild</translation>
     </message>
     <message>
         <source>JPEG image</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG-bild</translation>
     </message>
     <message>
         <source>GIF image</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF-bild</translation>
     </message>
     <message>
         <source>SVG vector image</source>
-        <translation type="unfinished"></translation>
+        <translation>SVG vektorbild</translation>
     </message>
     <message>
         <source>AVI video</source>
-        <translation type="unfinished"></translation>
+        <translation>AVI-video</translation>
     </message>
     <message>
         <source>MOV video</source>
-        <translation type="unfinished"></translation>
+        <translation>MOV-video</translation>
     </message>
     <message>
         <source>3GP video</source>
-        <translation type="unfinished"></translation>
+        <translation>3GP-video</translation>
     </message>
     <message>
         <source>MP4 video</source>
-        <translation type="unfinished"></translation>
+        <translation>MP4-video</translation>
     </message>
     <message>
         <source>MKV video</source>
-        <translation type="unfinished"></translation>
+        <translation>MKV-video</translation>
     </message>
     <message>
         <source>WMV video</source>
-        <translation type="unfinished"></translation>
+        <translation>WMV-video</translation>
     </message>
     <message>
         <source>MP3 audio</source>
-        <translation type="unfinished"></translation>
+        <translation>MP3-ljud</translation>
     </message>
     <message>
         <source>OGG audio</source>
-        <translation type="unfinished"></translation>
+        <translation>OGG-ljud</translation>
     </message>
     <message>
         <source>FLAC audio</source>
-        <translation type="unfinished"></translation>
+        <translation>FLAC-ljud</translation>
     </message>
     <message>
         <source>Android application package</source>
-        <translation type="unfinished"></translation>
+        <translation>Android applicationspaket</translation>
     </message>
     <message>
         <source>RPM package</source>
-        <translation type="unfinished"></translation>
+        <translation>RPM-paket</translation>
     </message>
     <message>
         <source>Text file</source>
-        <translation type="unfinished"></translation>
+        <translation>Textfil</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt</translation>
     </message>
 </context>
 <context>
@@ -329,7 +329,7 @@
     </message>
     <message>
         <source>Deleting files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort filer</translation>
     </message>
 </context>
 <context>
@@ -395,77 +395,77 @@
     <name>FileProcess</name>
     <message>
         <source>Opening file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppnar fil...</translation>
     </message>
     <message>
         <source>Installing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerar...</translation>
     </message>
     <message>
         <source>Installing packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerar paket</translation>
     </message>
     <message>
         <source>Downloading packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Laddar ner paket</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerat</translation>
     </message>
     <message>
         <source>Nothing was done</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget utfördes</translation>
     </message>
     <message>
         <source>Installation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationen misslyckades</translation>
     </message>
     <message>
         <source>Installation was started</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationen startad</translation>
     </message>
     <message>
         <source>Installation couldn&apos;t be started</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationen kunde inte startas</translation>
     </message>
     <message>
         <source>File opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen öppnad</translation>
     </message>
     <message>
         <source>Suitable application was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen lämplig app hittades</translation>
     </message>
     <message>
         <source>File couldn&apos;t be opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen kunde inte öppnas</translation>
     </message>
 </context>
 <context>
     <name>FileRenameDialog</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Byt namn</translation>
+        <translation>Byt namn</translation>
     </message>
 </context>
 <context>
     <name>NewFilesDialog</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>Add new </source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ny </translation>
     </message>
     <message>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>mapp</translation>
     </message>
     <message>
         <source>file</source>
-        <translation type="unfinished"></translation>
+        <translation>fil</translation>
     </message>
 </context>
 <context>
@@ -511,27 +511,27 @@
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Cachelagra miniatyrer</translation>
     </message>
     <message>
         <source>Fileman translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman-översättningar</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Inställningar</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>Fileman settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman-inställningar</translation>
     </message>
     <message>
         <source>Fileman information</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman-information</translation>
     </message>
     <message>
         <source>About Fileman</source>
-        <translation type="unfinished">Om Fileman</translation>
+        <translation>Om Fileman</translation>
     </message>
 </context>
 <context>
@@ -646,67 +646,67 @@
     <name>Worker</name>
     <message>
         <source>Deleting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort filer...</translation>
     </message>
     <message>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Koierar filer...</translation>
     </message>
     <message>
         <source>Creating directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar mapp...</translation>
     </message>
     <message>
         <source>Directories couldn&apos;t be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappar kunde inte skapas.</translation>
     </message>
     <message>
         <source>Copying files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopierar filer (%1 av %2)...</translation>
     </message>
     <message>
         <source>All files were copied successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer kopierades.</translation>
     </message>
     <message>
         <source>All files couldn&apos;t be copied successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer kunde inte kopieras.</translation>
     </message>
     <message>
         <source>Deleting old files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort gamla filer (%1 av %2)...</translation>
     </message>
     <message>
         <source>Deleting old directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort gamla mappar...</translation>
     </message>
     <message>
         <source>All of the files couldn&apos;t be cut and pasted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer kunde inte klippas ut och klistras in.</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting copied files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte kopiera alla filer, tar bort kopierade filer (%1 av %2)...</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting created directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte kopiera alla filer, tar bort skapade mappar...</translation>
     </message>
     <message>
         <source>Deleting files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort filer (%1 av %2)...</translation>
     </message>
     <message>
         <source>Deleting directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort mappar...</translation>
     </message>
     <message>
         <source>All files were deleted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer togs bort.</translation>
     </message>
     <message>
         <source>All files couldn&apos;t be deleted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer kunde inte tas bort.</translation>
     </message>
 </context>
 </TS>
