@@ -419,7 +419,7 @@
     </message>
     <message>
         <source>Nothing was done</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is niets gedaan</translation>
     </message>
     <message>
         <source>Installation failed</source>
