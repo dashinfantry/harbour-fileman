@@ -10,7 +10,7 @@
 
 * Sat Jul 13 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-8
 v1.0-release 8
-- [MINOR BUGFIX] Updated translation
+- [MINOR BUGFIX] Updated translations Swedish and Chinees
 - [NEW] Fileman icons updated inside the app
 - [NEW] Display a black background when viewing image and video files
 - [NEW] Adding cache for pictures to settings, first load take some time
