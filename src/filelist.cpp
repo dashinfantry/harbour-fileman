@@ -24,11 +24,15 @@ FileList::FileList(QObject *parent) :
     QStringList textFormats;
     textFormats << "text" << "txt" << "conf" << "xml";
 
+    QStringList archiveFormats;
+    archiveFormats << "tar.gz" << "gz" << "zip";
+
     fileFormats.append(imageFormats);
     fileFormats.append(videoFormats);
     fileFormats.append(audioFormats);
     fileFormats.append(packageFormats);
     fileFormats.append(textFormats);
+    fileFormats.append(archiveFormats);
 }
 
 /*

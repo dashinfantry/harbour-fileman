@@ -128,6 +128,10 @@ QString FileInfo::getFileFormatName(QString suffix)
 
     formatNames.insert("txt", tr("Text file"));
 
+    formatNames.insert("tar.gz", tr("TAR.GZ archive"));
+    formatNames.insert("gz", tr("TAR.GZ archive"));
+    formatNames.insert("zip", tr("ZIP archive"));
+
     if (formatNames.contains(suffix))
         return formatNames.value(suffix);
     else

@@ -336,6 +336,14 @@
         <source>Install</source>
         <translation>Installeren</translation>
     </message>
+    <message>
+        <source>ZIP archive</source>
+        <translation>ZIP archief</translation>
+    </message>
+    <message>
+        <source>TAR.GZ archive</source>
+        <translation>TAR.GZ archief</translation>
+    </message>
 </context>
 <context>
     <name>FileOperationPage</name>
