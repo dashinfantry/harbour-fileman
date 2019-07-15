@@ -88,7 +88,7 @@
     </message>
     <message>
         <source>1 entry in clipboard</source>
-        <translation>1 个项目已保存到剪贴板</translation>
+        <translation>1 个项目已保存到剪切板</translation>
     </message>
     <message>
         <source> entries in clipboard</source>
