@@ -88,11 +88,11 @@
     </message>
     <message>
         <source>1 entry in clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>1 Eintrag in der Zwischenablage</translation>
     </message>
     <message>
         <source> entries in clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Einträge in der Zwischenablage</translation>
     </message>
 </context>
 <context>
@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche</translation>
     </message>
 </context>
 <context>
@@ -338,11 +338,11 @@
     </message>
     <message>
         <source>ZIP archive</source>
-        <translation type="unfinished"></translation>
+        <translation>ZIP-Archiv</translation>
     </message>
     <message>
         <source>TAR.GZ archive</source>
-        <translation type="unfinished"></translation>
+        <translation>TAR.GZ-Archiv</translation>
     </message>
 </context>
 <context>
@@ -523,11 +523,11 @@
     <name>SearchPage</name>
     <message>
         <source>Fileman Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman-Suche</translation>
     </message>
     <message>
         <source>The search option is still a work in progress, and do not function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Suchoption ist noch in Arbeit und funktioniert nicht.</translation>
     </message>
 </context>
 <context>
