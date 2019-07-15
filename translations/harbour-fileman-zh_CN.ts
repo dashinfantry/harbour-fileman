@@ -86,6 +86,14 @@
         <source> entries selected</source>
         <translation> 个项目已选中</translation>
     </message>
+    <message>
+        <source>1 entry in clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> entries in clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPage</name>
@@ -135,6 +143,10 @@
     <message>
         <source>Don&apos;t show page header</source>
         <translation>隐藏页面标头</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -497,6 +509,17 @@
     <message>
         <source>Owner permissions</source>
         <translation>所属者权限</translation>
+    </message>
+</context>
+<context>
+    <name>SearchPage</name>
+    <message>
+        <source>Fileman Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The search option is still a work in progress, and do not function.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -86,6 +86,14 @@
         <source> entries selected</source>
         <translation> bestanden geselecteerd</translation>
     </message>
+    <message>
+        <source>1 entry in clipboard</source>
+        <translation>1 in het klembord</translation>
+    </message>
+    <message>
+        <source> entries in clipboard</source>
+        <translation> in het klembord</translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPage</name>
@@ -135,6 +143,10 @@
     <message>
         <source>Don&apos;t show page header</source>
         <translation>Geen paginakop weergeven</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Zoeken</translation>
     </message>
 </context>
 <context>
@@ -497,6 +509,17 @@
     <message>
         <source>Owner permissions</source>
         <translation>Eigenaar permissies</translation>
+    </message>
+</context>
+<context>
+    <name>SearchPage</name>
+    <message>
+        <source>Fileman Search</source>
+        <translation>Fileman Zoeken</translation>
+    </message>
+    <message>
+        <source>The search option is still a work in progress, and do not function.</source>
+        <translation>De zoekoptie is nog steeds een werk in uitvoering en functioneert niet.</translation>
     </message>
 </context>
 <context>

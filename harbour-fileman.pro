@@ -75,6 +75,7 @@ DISTFILES += \
     qml/pages/dirView/ShortcutsView.qml \
     qml/pages/fileView/TextEdit.qml \
     qml/pages/ShareFilesPage.qml \
+    qml/pages/SearchPage.qml \
     translations/*.ts
 
 HEADERS += \

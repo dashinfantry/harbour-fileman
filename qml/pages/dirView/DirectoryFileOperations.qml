@@ -226,9 +226,9 @@ Item {
             pasteFiles.visible = true
             clipboardLabelVisible = true
             if (clipboard.getClipboardFileCount() == 1)
-                clipboardLabel.text = "1 entry in clipboard"
+                clipboardLabel.text = qsTr("1 entry in clipboard")
             else
-                clipboardLabel.text = clipboard.getClipboardFileCount() + " entries in clipboard"
+                clipboardLabel.text = clipboard.getClipboardFileCount() + qsTr(" entries in clipboard")
         }
         else
         {
