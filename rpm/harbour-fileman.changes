@@ -8,6 +8,13 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Mon Jul 15 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-9
+v1.0-release 9
+- [MINOR BUGFIX] Fix missing translation strings
+- [NEW] Search work into progress !
+- [MINOR BUGFIX] Fix display correct tar and zip archive name
+- [MINOR BUGFIX] Other small bug fixes 
+
 * Sat Jul 13 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-8
 v1.0-release 8
 - [MINOR BUGFIX] Updated translations Swedish and Chinees

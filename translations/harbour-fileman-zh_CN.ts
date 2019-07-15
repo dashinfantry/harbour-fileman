@@ -342,7 +342,7 @@
     </message>
     <message>
         <source>TAR.GZ archive</source>
-        <translation ></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
