@@ -88,11 +88,11 @@
     </message>
     <message>
         <source>1 entry in clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>1 post i urklipp</translation>
     </message>
     <message>
         <source> entries in clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation> poster i urklipp</translation>
     </message>
 </context>
 <context>
@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök</translation>
     </message>
 </context>
 <context>
@@ -338,11 +338,11 @@
     </message>
     <message>
         <source>ZIP archive</source>
-        <translation type="unfinished"></translation>
+        <translation>ZIP-arkiv</translation>
     </message>
     <message>
         <source>TAR.GZ archive</source>
-        <translation type="unfinished"></translation>
+        <translation>TAR.GZ.arkiv</translation>
     </message>
 </context>
 <context>
@@ -523,11 +523,11 @@
     <name>SearchPage</name>
     <message>
         <source>Fileman Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman-sök</translation>
     </message>
     <message>
         <source>The search option is still a work in progress, and do not function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Söktjänsten är fortfarande ett pågående arbete och ingen färdig funktion.</translation>
     </message>
 </context>
 <context>
