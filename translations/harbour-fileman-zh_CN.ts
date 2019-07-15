@@ -88,11 +88,11 @@
     </message>
     <message>
         <source>1 entry in clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>1 个项目已保存到剪贴板</translation>
     </message>
     <message>
         <source> entries in clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation> 个项目已保存到剪切板</translation>
     </message>
 </context>
 <context>
@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索</translation>
     </message>
 </context>
 <context>
@@ -515,11 +515,11 @@
     <name>SearchPage</name>
     <message>
         <source>Fileman Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman 搜索</translation>
     </message>
     <message>
         <source>The search option is still a work in progress, and do not function.</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索功能尚处于开发阶段，暂时无法工作。</translation>
     </message>
 </context>
 <context>
