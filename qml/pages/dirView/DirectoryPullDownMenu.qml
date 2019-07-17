@@ -6,7 +6,12 @@ PullDownMenu {
     MenuItem {
         text: qsTr("Settings")
         visible: 'isShortcutsPage' in getDirectoryView() ? true : false
-        onClicked: pageStack.push(Qt.resolvedUrl("../SettingsPage.qml"))
+        onClicked: pageStack.push(Qt.resolvedUrl("../SettingsPage.qml")) 
+    }
+    MenuItem {
+        text: qsTr("Global search")
+        visible: 'isShortcutsPage' in getDirectoryView() ? true : false
+        onClicked: pageStack.push(Qt.resolvedUrl("../SearchPage.qml"))
     }
     MenuItem {
         id: showHeader
@@ -52,11 +57,6 @@ PullDownMenu {
         text: qsTr("New...")
         visible: 'isShortcutsPage' in getDirectoryView() ? false : true
         onClicked: getDirectoryPage().addNewFiles()
-    }
-    MenuItem {
-        text: qsTr("Search")
-        visible: 'isShortcutsPage' in getDirectoryView() ? false : true
-        onClicked: pageStack.push(Qt.resolvedUrl("../SearchPage.qml"))
     }
     MenuItem {
         text: qsTr("Places")

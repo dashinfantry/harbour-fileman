@@ -27,8 +27,6 @@ Dialog {
         height: parent.height
         width: parent.width
 
-        model: fileModel
-
         header: DialogHeader {
             id: dialogHeader
             acceptText: qsTr("Add")

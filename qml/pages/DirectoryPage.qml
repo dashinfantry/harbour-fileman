@@ -11,6 +11,14 @@ Page {
     property string currentDir: settings.dirPath
 
     property var currentView: null
+    property string dir // will be set on search, otherwise ignored
+
+    Component.onCompleted: {
+        // dir from search
+        if(dir) {
+            openDirectory(dir)
+        }
+    }
 
     showNavigationIndicator: false
     backNavigation: false
