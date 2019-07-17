@@ -33,6 +33,10 @@ SOURCES += \
     src/main.cpp \
     src/covermodel.cpp \
     src/util.cpp \
+    src/searchengine.cpp \
+    src/statfileinfo.cpp \
+    src/globals.cpp \
+    src/searchworker.cpp \
     src/directoryworker.cpp
 
 DISTFILES += \
@@ -54,10 +58,17 @@ DISTFILES += \
     qml/pages/TranslationsPage.qml \
     qml/pages/fileView/FileInfo.qml \
     qml/js/imageView.js \
+    qml/js/functions.js \
     qml/pages/components/ClickableLabel.qml \
     qml/pages/components/IconTextButton.qml \
     qml/pages/components/TextLabel.qml \
     qml/pages/components/CollaboratorsLabel.qml \
+    qml/pages/components/NotificationPanel.qml \
+    qml/pages/components/ProgressPanel.qml \
+    qml/pages/components/SelectionPanel.qml \
+    qml/pages/components/InteractionBlocker.qml \
+    qml/pages/components/Spacer.qml \
+    qml/pages/components/MyHighlightImage3.qml \
     qml/pages/fileView/Image.qml \
     qml/pages/fileView/Video.qml \
     qml/pages/fileView/Text.qml \
@@ -91,6 +102,10 @@ HEADERS += \
     src/clipboard.h \
     src/covermodel.h \
     src/util.h \
+    src/searchengine.h \
+    src/statfileinfo.h \
+    src/globals.h \
+    src/searchworker.h \
     src/directoryworker.h
 
 SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172 256x256
