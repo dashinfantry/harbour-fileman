@@ -550,11 +550,11 @@
     <name>SearchPage</name>
     <message>
         <source>Searching</source>
-        <translation type="unfinished"></translation>
+        <translation>Aan het zoeken</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <source>%1 hits</source>
@@ -562,7 +562,7 @@
     </message>
     <message>
         <source>Go to containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar de map</translation>
     </message>
     <message>
         <source>Deleting</source>
