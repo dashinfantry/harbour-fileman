@@ -52,7 +52,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Thanks to Velox and Kari for the help on the Search function.</source>
+        <source>Thanks to Velox for the help on the Search function.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

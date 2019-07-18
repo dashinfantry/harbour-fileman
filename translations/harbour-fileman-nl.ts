@@ -52,8 +52,8 @@
         <translation>Bedankt</translation>
     </message>
     <message>
-        <source>Thanks to Velox and Kari for the help on the Search function.</source>
-        <translation>Met dank aan Velox en Kari voor de hulp bij de zoekfunctie.</translation>
+        <source>Thanks to Velox for the help on the Search function.</source>
+        <translation>Met dank aan Velox voor de hulp bij de zoekfunctie.</translation>
     </message>
 </context>
 <context>
