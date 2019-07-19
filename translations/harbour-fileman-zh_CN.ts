@@ -154,7 +154,7 @@
     </message>
     <message>
         <source>Global search</source>
-        <translation type="unfinished"></translation>
+        <translation>全局搜索</translation>
     </message>
 </context>
 <context>
