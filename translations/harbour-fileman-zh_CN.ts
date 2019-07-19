@@ -49,11 +49,11 @@
     </message>
     <message>
         <source>Thanking</source>
-        <translation type="unfinished"></translation>
+        <translation>致谢</translation>
     </message>
     <message>
         <source>Thanks to Velox for the help on the Search function.</source>
-        <translation type="unfinished"></translation>
+        <translation>感谢 Velox帮助我完成搜索功能。</translation>
     </message>
 </context>
 <context>
@@ -350,7 +350,7 @@
     </message>
     <message>
         <source>TAR.GZ archive</source>
-        <translation></translation>
+        <translation>TAR.GZ 文档</translation>
     </message>
 </context>
 <context>
@@ -531,68 +531,68 @@
     <name>QObject</name>
     <message>
         <source>%1 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bytes</translation>
     </message>
     <message>
         <source>%1 kB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kB</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
 </context>
 <context>
     <name>SearchPage</name>
     <message>
         <source>Searching</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索中</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索</translation>
     </message>
     <message>
         <source>%1 hits</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 个结果</translation>
     </message>
     <message>
         <source>Go to containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>前往包含的文件夹</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>删除中</translation>
     </message>
 </context>
 <context>
     <name>SearchWorker</name>
     <message>
         <source>Search already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>已经开始搜索</translation>
     </message>
     <message>
         <source>Bad search parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索内容不存在</translation>
     </message>
 </context>
 <context>
     <name>SelectionPanel</name>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 个已选</translation>
     </message>
     <message>
         <source>%1 cut</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 个剪切</translation>
     </message>
     <message>
         <source>%1 copied</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 个已复制</translation>
     </message>
 </context>
 <context>
