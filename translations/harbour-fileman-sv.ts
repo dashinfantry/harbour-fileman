@@ -49,11 +49,11 @@
     </message>
     <message>
         <source>Thanking</source>
-        <translation type="unfinished"></translation>
+        <translation>Tackar</translation>
     </message>
     <message>
         <source>Thanks to Velox for the help on the Search function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tack till Velox för hjälp med sökfunktionen.</translation>
     </message>
 </context>
 <context>
@@ -154,7 +154,7 @@
     </message>
     <message>
         <source>Global search</source>
-        <translation type="unfinished"></translation>
+        <translation>Global sökning</translation>
     </message>
 </context>
 <context>
@@ -531,68 +531,68 @@
     <name>QObject</name>
     <message>
         <source>%1 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 byte</translation>
     </message>
     <message>
         <source>%1 kB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kB</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
 </context>
 <context>
     <name>SearchPage</name>
     <message>
         <source>Searching</source>
-        <translation type="unfinished"></translation>
+        <translation>Söker</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök</translation>
     </message>
     <message>
         <source>%1 hits</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 träffar</translation>
     </message>
     <message>
         <source>Go to containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till innehållande mapp</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort</translation>
     </message>
 </context>
 <context>
     <name>SearchWorker</name>
     <message>
         <source>Search already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökning pågår redan</translation>
     </message>
     <message>
         <source>Bad search parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Dåliga sökparametrar</translation>
     </message>
 </context>
 <context>
     <name>SelectionPanel</name>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 markerad(e)</translation>
     </message>
     <message>
         <source>%1 cut</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 urklippt(a)</translation>
     </message>
     <message>
         <source>%1 copied</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kopierad(e)</translation>
     </message>
 </context>
 <context>
