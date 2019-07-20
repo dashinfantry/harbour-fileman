@@ -8,8 +8,8 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
-* Sun Jul 21 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0
-- [MINOR BUGFIX] Updated translation Chinees
+* Sat Jul 20 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-10
+- [MINOR BUGFIX] Updated translations Swedish and Chinees
 - [NEW] Search for file inside directory and show where file is into the directory
 - [MINOR BUGFIX] Other small bug fixes
 
