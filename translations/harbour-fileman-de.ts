@@ -535,7 +535,7 @@
     </message>
     <message>
         <source>%1 kB</source>
-        <translation>>%1 KB</translation>
+        <translation>&gt;%1 KB</translation>
     </message>
     <message>
         <source>%1 MB</source>
