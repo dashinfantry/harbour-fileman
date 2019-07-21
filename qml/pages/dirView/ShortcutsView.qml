@@ -47,16 +47,17 @@ SilicaListView {
             Label {
                 id: shortcutLabel
 
+                width: parent.width / 1.5
+
                 anchors.left: image.right
                 anchors.leftMargin: 5
-                anchors.right: parent.right
-                anchors.rightMargin: Theme.paddingLarge
                 anchors.top: parent.top
                 anchors.topMargin: model.location == model.name ? (parent.height / 2) - (height / 2) : 5
 
                 font.pixelSize: model.location == model.name ? Theme.fontSizeExtraSmall : Theme.fontSizeSmall
 
                 text: model.name
+                truncationMode: TruncationMode.Fade
             }
             Rectangle {
                 anchors.fill: parent
