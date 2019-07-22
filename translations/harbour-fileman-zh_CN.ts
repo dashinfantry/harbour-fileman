@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Thanks to Velox for the help on the Search function.</source>
-        <translation>感谢 Velox帮助我完成搜索功能。</translation>
+        <translation>感谢 Velox 帮助我完成搜索功能。</translation>
     </message>
 </context>
 <context>
@@ -649,63 +649,63 @@
     <name>ShortcutsView</name>
     <message>
         <source>Places</source>
-        <translation type="unfinished">位置</translation>
+        <translation>分类</translation>
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"></translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Last location</source>
-        <translation type="unfinished"></translation>
+        <translation>上次的位置</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>主页</translation>
     </message>
     <message>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Root</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>文档</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>下载</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>音乐</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation>视频</translation>
     </message>
     <message>
         <source>Android locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Android 位置</translation>
     </message>
     <message>
         <source>Android storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Android 存储</translation>
     </message>
     <message>
         <source>Storage devices</source>
-        <translation type="unfinished"></translation>
+        <translation>存储设备</translation>
     </message>
     <message>
         <source>SD card</source>
-        <translation type="unfinished"></translation>
+        <translation>SD 卡</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>书签</translation>
     </message>
 </context>
 <context>
