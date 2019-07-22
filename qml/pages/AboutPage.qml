@@ -3,6 +3,8 @@ import Sailfish.Silica 1.0
 import "./components"
 
 Page {
+        allowedOrientations: Orientation.All
+
     SilicaFlickable {
         anchors.fill: parent
         contentHeight: aboutColumn.height

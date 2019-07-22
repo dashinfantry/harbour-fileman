@@ -566,18 +566,18 @@
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
 </context>
 <context>
     <name>SearchWorker</name>
     <message>
         <source>Search already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeken al aan de gang</translation>
     </message>
     <message>
         <source>Bad search parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Slechte zoekparameters</translation>
     </message>
 </context>
 <context>
@@ -648,8 +648,24 @@
 <context>
     <name>ShortcutsView</name>
     <message>
+        <source>Places</source>
+        <translation>FoldersPaneel</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Locaties</translation>
+    </message>
+    <message>
         <source>Last location</source>
         <translation>Laatste locatie</translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation>Thuis</translation>
+    </message>
+    <message>
+        <source>Root</source>
+        <translation>Root</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -665,23 +681,19 @@
     </message>
     <message>
         <source>Pictures</source>
-        <translation>Afbeeldingen</translation>
+        <translation>Foto&apos;s</translation>
     </message>
     <message>
         <source>Videos</source>
         <translation>Videos</translation>
     </message>
     <message>
-        <source>Locations</source>
-        <translation>Locaties</translation>
+        <source>Android locations</source>
+        <translation>Android locaties</translation>
     </message>
     <message>
         <source>Android storage</source>
-        <translation>Android opslag </translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
-        <translation>Bladwijzers</translation>
+        <translation>Android opslag</translation>
     </message>
     <message>
         <source>Storage devices</source>
@@ -689,23 +701,11 @@
     </message>
     <message>
         <source>SD card</source>
-        <translation>SD-kaart</translation>
+        <translation>Geheugen kaart</translation>
     </message>
     <message>
-        <source>Places</source>
-        <translation>FoldersPaneel</translation>
-    </message>
-    <message>
-        <source>Home</source>
-        <translation>Thuis</translation>
-    </message>
-    <message>
-        <source>Android locations</source>
-        <translation>Android locaties</translation>
-    </message>
-    <message>
-        <source>Root</source>
-        <translation>Root</translation>
+        <source>Bookmarks</source>
+        <translation>Bladwijzers</translation>
     </message>
 </context>
 <context>

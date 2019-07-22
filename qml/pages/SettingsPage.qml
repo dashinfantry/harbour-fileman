@@ -4,6 +4,7 @@ import "./components"
 
 Page {
     id: settingspage
+        allowedOrientations: Orientation.All
 
     SilicaFlickable
     {

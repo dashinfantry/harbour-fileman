@@ -5,7 +5,7 @@ import "./components"
 Page
 {
     id: developerspage
-    allowedOrientations: Orientation.Portrait
+        allowedOrientations: Orientation.All
 
     SilicaFlickable
     {

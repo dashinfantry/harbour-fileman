@@ -648,7 +648,23 @@
 <context>
     <name>ShortcutsView</name>
     <message>
+        <source>Places</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Last location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Root</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -672,15 +688,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Locations</source>
+        <source>Android locations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Android storage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -692,19 +704,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Places</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Home</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Android locations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Root</source>
+        <source>Bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

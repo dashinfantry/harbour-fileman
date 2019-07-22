@@ -648,63 +648,63 @@
 <context>
     <name>ShortcutsView</name>
     <message>
-        <source>Last location</source>
-        <translation>Last location</translation>
-    </message>
-    <message>
-        <source>Documents</source>
-        <translation>Documents</translation>
-    </message>
-    <message>
-        <source>Downloads</source>
-        <translation>Downloads</translation>
-    </message>
-    <message>
-        <source>Music</source>
-        <translation>Music</translation>
-    </message>
-    <message>
-        <source>Pictures</source>
-        <translation>Pictures</translation>
-    </message>
-    <message>
-        <source>Videos</source>
-        <translation>Videos</translation>
+        <source>Places</source>
+        <translation type="unfinished">Places</translation>
     </message>
     <message>
         <source>Locations</source>
-        <translation>Locations</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Android storage</source>
-        <translation>Android storage</translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
-        <translation>Bookmarks</translation>
-    </message>
-    <message>
-        <source>Storage devices</source>
-        <translation>Storage devices</translation>
-    </message>
-    <message>
-        <source>SD card</source>
-        <translation>SD card</translation>
-    </message>
-    <message>
-        <source>Places</source>
-        <translation>Places</translation>
+        <source>Last location</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>Home</translation>
-    </message>
-    <message>
-        <source>Android locations</source>
-        <translation>Android locations</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Root</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Music</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Videos</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Android locations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Android storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Storage devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SD card</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
