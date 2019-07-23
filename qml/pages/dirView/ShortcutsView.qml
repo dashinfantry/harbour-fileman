@@ -199,7 +199,7 @@ SilicaListView {
 
             listModel.append({ "section": qsTr("Bookmarks"),
                                "name": entry,
-                               "thumbnail": "qrc:/icons/directory",
+                               "thumbnail": "qrc:/icons/bookmarks",
                                "location": key,
                                "bookmark": true })
         }

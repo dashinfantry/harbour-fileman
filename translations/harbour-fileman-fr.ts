@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Thanks to Velox for the help on the Search function.</source>
-        <translation>Merci à Velox pour l'aide au sujet de la fonction de recherche.</translation>
+        <translation>Merci à Velox pour l&apos;aide au sujet de la fonction de recherche.</translation>
     </message>
 </context>
 <context>
@@ -250,7 +250,7 @@
     </message>
     <message>
         <source>Image details</source>
-        <translation>Détailles de l'image</translation>
+        <translation>Détailles de l&apos;image</translation>
     </message>
     <message>
         <source>Size</source>
@@ -447,19 +447,19 @@
     </message>
     <message>
         <source>Nothing was done</source>
-        <translation>Rien n'a été fait</translation>
+        <translation>Rien n&apos;a été fait</translation>
     </message>
     <message>
         <source>Installation failed</source>
-        <translation>Échec de l'installation</translation>
+        <translation>Échec de l&apos;installation</translation>
     </message>
     <message>
         <source>Installation was started</source>
-        <translation>L'installation a débuté</translation>
+        <translation>L&apos;installation a débuté</translation>
     </message>
     <message>
         <source>Installation couldn&apos;t be started</source>
-        <translation>L'installation n'a pas pu débuter</translation>
+        <translation>L&apos;installation n&apos;a pas pu débuter</translation>
     </message>
     <message>
         <source>File opened</source>
@@ -471,7 +471,7 @@
     </message>
     <message>
         <source>File couldn&apos;t be opened</source>
-        <translation>Impossible d'ouvrir le fichier</translation>
+        <translation>Impossible d&apos;ouvrir le fichier</translation>
     </message>
 </context>
 <context>
@@ -603,7 +603,7 @@
     </message>
     <message>
         <source>File display</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Affichage des fichiers</translation>
     </message>
     <message>
         <source>Translations</source>
@@ -642,7 +642,7 @@
     </message>
     <message>
         <source>Note: You can only share one file at a time. Not multiple ones.</source>
-        <translation>Remarque : vous ne pouvez partager qu'un fichier à la fois.</translation>
+        <translation>Remarque : vous ne pouvez partager qu&apos;un fichier à la fois.</translation>
     </message>
 </context>
 <context>
@@ -770,7 +770,7 @@
     </message>
     <message>
         <source>All files couldn&apos;t be copied successfully.</source>
-        <translation>Tous les fichiers n'ont pas été correctement copiés.</translation>
+        <translation>Tous les fichiers n&apos;ont pas été correctement copiés.</translation>
     </message>
     <message>
         <source>Deleting old files (%1 of %2)...</source>
@@ -806,7 +806,7 @@
     </message>
     <message>
         <source>All files couldn&apos;t be deleted successfully.</source>
-        <translation>Tous les fichiers n'ont pas été correctement supprimés.</translation>
+        <translation>Tous les fichiers n&apos;ont pas été correctement supprimés.</translation>
     </message>
 </context>
 </TS>

@@ -681,7 +681,7 @@
     </message>
     <message>
         <source>Pictures</source>
-        <translation>Foto&apos;s</translation>
+        <translation>Afbeeldingen</translation>
     </message>
     <message>
         <source>Videos</source>
