@@ -250,7 +250,7 @@
     </message>
     <message>
         <source>Image details</source>
-        <translation>Détailles de l&apos;image</translation>
+        <translation>Détails de l&apos;image</translation>
     </message>
     <message>
         <source>Size</source>
