@@ -535,7 +535,7 @@
     </message>
     <message>
         <source>%1 kB</source>
-        <translation>&gt;%1 KB</translation>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <source>%1 MB</source>
@@ -649,63 +649,63 @@
     <name>ShortcutsView</name>
     <message>
         <source>Places</source>
-        <translation type="unfinished">Orte</translation>
+        <translation>Orte</translation>
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnisse</translation>
     </message>
     <message>
         <source>Last location</source>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Position</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Home</translation>
     </message>
     <message>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Root</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumente</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Downloads</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Musik</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Videos</translation>
     </message>
     <message>
         <source>Android locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Android-Bereich</translation>
     </message>
     <message>
         <source>Android storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Android-Speicher</translation>
     </message>
     <message>
         <source>Storage devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichergeräte</translation>
     </message>
     <message>
         <source>SD card</source>
-        <translation type="unfinished"></translation>
+        <translation>SD-Karte</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesezeichen</translation>
     </message>
 </context>
 <context>
