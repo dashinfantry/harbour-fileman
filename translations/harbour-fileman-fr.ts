@@ -142,7 +142,7 @@
     </message>
     <message>
         <source>Places</source>
-        <translation>Endroits</translation>
+        <translation>Lieux</translation>
     </message>
     <message>
         <source>Show page header</source>
@@ -489,7 +489,7 @@
     </message>
     <message>
         <source>Add new </source>
-        <translation>Ajouter nouveau</translation>
+        <translation>Ajouter nouveau </translation>
     </message>
     <message>
         <source>directory</source>
@@ -693,7 +693,7 @@
     </message>
     <message>
         <source>Places</source>
-        <translation>Endroits</translation>
+        <translation>Lieux</translation>
     </message>
     <message>
         <source>Home</source>
