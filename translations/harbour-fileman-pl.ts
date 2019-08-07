@@ -107,11 +107,11 @@
     <name>DirectoryPage</name>
     <message>
         <source>Deleting </source>
-        <translation type="unfinished"></translation>
+        <translation>Usuwanie</translation>
     </message>
     <message>
         <source>Copying </source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiowanie</translation>
     </message>
     <message>
         <source> entry</source>
@@ -222,103 +222,103 @@
     </message>
     <message>
         <source>Show as text</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż jako tekst</translation>
     </message>
     <message>
         <source>Edit as text</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj jak tekst</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished">Wykonywanie</translation>
+        <translation>Wykonaj</translation>
     </message>
     <message>
         <source>MPG video</source>
-        <translation type="unfinished"></translation>
+        <translation>Wideo MPG</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Szerokość</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość</translation>
     </message>
     <message>
         <source>Image details</source>
-        <translation type="unfinished"></translation>
+        <translation>Szczegóły obrazu</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Rozmiar</translation>
+        <translation>Rozmiar</translation>
     </message>
     <message>
         <source>Last modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnia modyfikacja</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Utworzony</translation>
     </message>
     <message>
         <source>File details</source>
-        <translation type="unfinished"></translation>
+        <translation>Szczegóły pliku</translation>
     </message>
     <message>
         <source>Directory details</source>
-        <translation type="unfinished"></translation>
+        <translation>Szczegóły kataogu</translation>
     </message>
     <message>
         <source>PNG image</source>
-        <translation type="unfinished"></translation>
+        <translation>Obraz PNG</translation>
     </message>
     <message>
         <source>JPEG image</source>
-        <translation type="unfinished"></translation>
+        <translation>Obraz JPEG</translation>
     </message>
     <message>
         <source>GIF image</source>
-        <translation type="unfinished"></translation>
+        <translation>Obraz GIF</translation>
     </message>
     <message>
         <source>SVG vector image</source>
-        <translation type="unfinished"></translation>
+        <translation>Obraz wektorowy SVG</translation>
     </message>
     <message>
         <source>AVI video</source>
-        <translation type="unfinished"></translation>
+        <translation>Wideo AVI</translation>
     </message>
     <message>
         <source>MOV video</source>
-        <translation type="unfinished"></translation>
+        <translation>Wideo MOV</translation>
     </message>
     <message>
         <source>3GP video</source>
-        <translation type="unfinished"></translation>
+        <translation>Wideo 3GP</translation>
     </message>
     <message>
         <source>MKV video</source>
-        <translation type="unfinished"></translation>
+        <translation>Wideo MKV</translation>
     </message>
     <message>
         <source>WMV video</source>
-        <translation type="unfinished"></translation>
+        <translation>Wideo WMV</translation>
     </message>
     <message>
         <source>MP3 audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio MP3</translation>
     </message>
     <message>
         <source>OGG audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio OGG</translation>
     </message>
     <message>
         <source>FLAC audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio FLAC</translation>
     </message>
     <message>
         <source>Android application package</source>
@@ -326,31 +326,31 @@
     </message>
     <message>
         <source>RPM package</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakiet RPM</translation>
     </message>
     <message>
         <source>Text file</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik tekstowy</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>nieznany</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Instaluj</translation>
     </message>
     <message>
         <source>ZIP archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archiwum ZIP</translation>
     </message>
     <message>
         <source>TAR.GZ archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archiwum TAR.GZ</translation>
     </message>
     <message>
         <source>MP4 video</source>
-        <translation type="unfinished"></translation>
+        <translation>Wideo MP4</translation>
     </message>
 </context>
 <context>
@@ -361,7 +361,7 @@
     </message>
     <message>
         <source>Deleting files</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuwanie plików</translation>
     </message>
 </context>
 <context>
@@ -427,23 +427,23 @@
     <name>FileProcess</name>
     <message>
         <source>Opening file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwieranie pliku...</translation>
     </message>
     <message>
         <source>Installing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalowanie...</translation>
     </message>
     <message>
         <source>Installing packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalowanie pakietów</translation>
     </message>
     <message>
         <source>Downloading packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie pakietów</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Zainstalowany</translation>
     </message>
     <message>
         <source>Nothing was done</source>
@@ -463,7 +463,7 @@
     </message>
     <message>
         <source>File opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik otwarty</translation>
     </message>
     <message>
         <source>Suitable application was not found</source>
@@ -478,26 +478,26 @@
     <name>FileRenameDialog</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Zmień nazwę</translation>
+        <translation>Zmień nazwę</translation>
     </message>
 </context>
 <context>
     <name>NewFilesDialog</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Add new </source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj nowy</translation>
     </message>
     <message>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>katalog</translation>
     </message>
     <message>
         <source>file</source>
-        <translation type="unfinished"></translation>
+        <translation>plik</translation>
     </message>
 </context>
 <context>
@@ -550,11 +550,11 @@
     <name>SearchPage</name>
     <message>
         <source>Searching</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukanie</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj</translation>
     </message>
     <message>
         <source>%1 hits</source>
@@ -566,7 +566,7 @@
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuwanie</translation>
     </message>
 </context>
 <context>
