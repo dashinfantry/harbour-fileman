@@ -8,6 +8,10 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Wed Aug 7 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-14
+- [MINOR BUGFIX] Fileman play now video's with Sailfish media player
+- [MINOR BUGFIX] Fix to show pictures with uppercase extention
+
 * Fri Jul 26 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-13
 - [UPDATE] Updated all translation
 - [UPDATE] Update to new bookmark icon
