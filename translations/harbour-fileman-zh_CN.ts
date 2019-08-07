@@ -349,10 +349,6 @@
         <translation>TAR.GZ 文档</translation>
     </message>
     <message>
-        <source>JEPG image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>MP4 video</source>
         <translation type="unfinished"></translation>
     </message>

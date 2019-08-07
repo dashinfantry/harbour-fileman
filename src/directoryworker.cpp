@@ -9,7 +9,7 @@ DirectoryWorker::DirectoryWorker(QObject *parent) :
     imageFormats << "image" << "png" << "jpg" << "jpeg" << "gif" << "svg";
 
     QStringList videoFormats;
-    videoFormats << "video" << "mpg" << "avi" << "mov" << "3gp" << "mkv" << "wmv";
+    videoFormats << "video";
 
     QStringList audioFormats;
     audioFormats << "audio" << "mp3" << "ogg" << "wav";

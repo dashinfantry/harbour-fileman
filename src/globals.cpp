@@ -11,8 +11,8 @@ QString suffixToIconName(QString suffix)
         return "file-rpm";
     if (suffix == "apk")
         return "file-apk";
-    if (suffix == "png" || suffix == "PNG" || suffix == "jpeg" || suffix == "JPEG" || suffix == "jpg" || suffix == "JPG" ||
-            suffix == "gif" || suffix == "GIF")
+    if (suffix == "png" || suffix == "jpeg" || suffix == "jpg" ||
+            suffix == "gif" || suffix == "svg")
         return "file-image";
     if (suffix == "wav" || suffix == "mp3" || suffix == "flac" ||
             suffix == "aac" || suffix == "ogg" || suffix == "m4a")
