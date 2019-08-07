@@ -137,7 +137,7 @@ QString FileInfo::getFileFormatName(QString suffix)
     formatNames.insert("gz", tr("TAR.GZ archive"));
     formatNames.insert("zip", tr("ZIP archive"));
 
-    if (formatNames.contains(suffix))
+    if (formatNames.contains(suffix.toLower()))
         return formatNames.value(suffix);
     else
         return tr("unknown");
@@ -196,6 +196,24 @@ QVariantMap FileInfo::getFileActions(QString fullPath)
 
     // If we have a package file, add an action to install it
     if (fileInfo.suffix() == "apk")
+    {
+        QVariantMap apkAction;
+        apkAction.insert("label", "Install");
+        apkAction.insert("action", "installApk");
+        apkAction.insert("track", true);
+        actionMap.insert("Install", apkAction);
+    }
+    if (fileInfo.suffix() == "rpm")
+    {
+        QVariantMap rpmAction;
+        rpmAction.insert("label", "Install");
+        rpmAction.insert("action", "installRpm");
+        rpmAction.insert("track", true);
+        actionMap.insert("Install", rpmAction);
+    }
+
+    // Don't allow users to perform these actions if the file is actually a directory
+    if (!fileInfo.isDir())
     {
         QVariantMap apkAction;
         apkAction.insert("label", tr("Install"));
