@@ -106,10 +106,15 @@ QString FileInfo::getFileFormatName(QString suffix)
 {
     QMap<QString, QString> formatNames;
     formatNames.insert("png", tr("PNG image"));
+    formatNames.insert("PNG", tr("PNG image"));
     formatNames.insert("jpg", tr("JPEG image"));
+    formatNames.insert("JPG", tr("JPEG image"));
     formatNames.insert("jpeg", tr("JPEG image"));
+    formatNames.insert("JPEG", tr("JEPG image"));
     formatNames.insert("gif", tr("GIF image"));
+    formatNames.insert("GIF", tr("GIF image"));
     formatNames.insert("svg", tr("SVG vector image"));
+    formatNames.insert("SVG", tr("SVG vector image"));
 
     formatNames.insert("mpg", tr("MPG video"));
     formatNames.insert("avi", tr("AVI video"));

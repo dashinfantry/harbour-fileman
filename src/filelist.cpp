@@ -10,7 +10,7 @@ FileList::FileList(QObject *parent) :
     m_dirOrder = "";
 
     QStringList imageFormats;
-    imageFormats << "image" << "png" << "jpg" << "jpeg" << "gif" << "svg";
+    imageFormats << "image" << "png" << "PNG" << "jpg" << "JPG" << "jpeg" << "JPEG" << "gif" << "GIF" << "svg" << "SVG";
 
     QStringList videoFormats;
     videoFormats << "video" << "mpg" << "avi" << "mov" << "3gp" << "mp4" << "mkv" << "wmv";

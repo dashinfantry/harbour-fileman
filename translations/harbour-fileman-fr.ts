@@ -301,10 +301,6 @@
         <translation>vidéo 3GP</translation>
     </message>
     <message>
-        <source>MP4 video</source>
-        <translation>vidéo MP4</translation>
-    </message>
-    <message>
         <source>MKV video</source>
         <translation>vidéo MKV</translation>
     </message>
@@ -351,6 +347,14 @@
     <message>
         <source>TAR.GZ archive</source>
         <translation>archive TAR.GZ</translation>
+    </message>
+    <message>
+        <source>JEPG image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MP4 video</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

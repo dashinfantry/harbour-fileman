@@ -6,8 +6,8 @@ QImage ThumbnailProvider::requestImage(const QString &id, QSize *size, const QSi
 
     // Check that the file is actually an image before creating a directory
     // and trying to create a thumbnail
-    if (!id.endsWith(".png") && !id.endsWith(".jpg") && !id.endsWith(".jpeg")
-            && !id.endsWith(".gif") && !id.endsWith(".svg"))
+    if (!id.endsWith(".png") && !id.endsWith(".PNG") && !id.endsWith(".jpg") && !id.endsWith(".JPG") && !id.endsWith(".jpeg" && !id.endsWith(".JPEG"))
+            && !id.endsWith(".gif") && !id.endsWith(".GIF") && !id.endsWith(".svg" && !id.endsWith(".SVG")))
         return QImage();
 
     // Check that the directory for thumbnails exists
