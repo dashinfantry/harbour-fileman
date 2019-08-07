@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>Thanking</source>
-        <translation type="unfinished"></translation>
+        <translation>Podziękowania</translation>
     </message>
     <message>
         <source>Thanks to Velox for the help on the Search function.</source>
@@ -154,7 +154,7 @@
     </message>
     <message>
         <source>Global search</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukiwanie globalne</translation>
     </message>
 </context>
 <context>
@@ -176,15 +176,15 @@
     <name>DirectoryViewSettings</name>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatury</translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamięć podręczna miniatur</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz wygenerowane miniatury w celu szybszego ładowania</translation>
     </message>
 </context>
 <context>
@@ -207,11 +207,11 @@
     </message>
     <message>
         <source>Display black background</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl czarne tło</translation>
     </message>
     <message>
         <source>Display a black background when viewing image and video files</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl czarne tło podczas oglądania plików wideo i obrazów</translation>
     </message>
 </context>
 <context>
@@ -447,19 +447,19 @@
     </message>
     <message>
         <source>Nothing was done</source>
-        <translation type="unfinished"></translation>
+        <translation>Nic nie zostało zrobione</translation>
     </message>
     <message>
         <source>Installation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalacja się niepowiodła</translation>
     </message>
     <message>
         <source>Installation was started</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalacja została uruchomiona</translation>
     </message>
     <message>
         <source>Installation couldn&apos;t be started</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalacja nie mogła byś uruchomiona</translation>
     </message>
     <message>
         <source>File opened</source>
@@ -467,11 +467,11 @@
     </message>
     <message>
         <source>Suitable application was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpowiednia aplikacja nie została znaleziona</translation>
     </message>
     <message>
         <source>File couldn&apos;t be opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik nie mógł być otworzony</translation>
     </message>
 </context>
 <context>
@@ -531,19 +531,19 @@
     <name>QObject</name>
     <message>
         <source>%1 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bajtów</translation>
     </message>
     <message>
         <source>%1 kB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kB</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
 </context>
 <context>
@@ -558,11 +558,11 @@
     </message>
     <message>
         <source>%1 hits</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 trafień</translation>
     </message>
     <message>
         <source>Go to containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Przejdź do zawierającego katalogu</translation>
     </message>
     <message>
         <source>Deleting</source>
@@ -573,26 +573,26 @@
     <name>SearchWorker</name>
     <message>
         <source>Search already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukiwanie w trakcie</translation>
     </message>
     <message>
         <source>Bad search parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Zły parametr szukania</translation>
     </message>
 </context>
 <context>
     <name>SelectionPanel</name>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 zaznaczonych</translation>
     </message>
     <message>
         <source>%1 cut</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 wyciętych</translation>
     </message>
     <message>
         <source>%1 copied</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 skopiowanych</translation>
     </message>
 </context>
 <context>
@@ -611,27 +611,27 @@
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamięć podręczna miniatur</translation>
     </message>
     <message>
         <source>Fileman translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumaczenia Fileman</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>Fileman settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia Fileman</translation>
     </message>
     <message>
         <source>Fileman information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacje o Fileman</translation>
     </message>
     <message>
         <source>About Fileman</source>
-        <translation type="unfinished">O Fileman</translation>
+        <translation>O Fileman</translation>
     </message>
 </context>
 <context>
@@ -649,7 +649,7 @@
     <name>ShortcutsView</name>
     <message>
         <source>Places</source>
-        <translation type="unfinished">Miejsca</translation>
+        <translation>Miejsca</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -661,31 +661,31 @@
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder domowy</translation>
     </message>
     <message>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Root</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenty</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobrane</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Muzyka</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazy</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Filmy</translation>
     </message>
     <message>
         <source>Android locations</source>
@@ -701,11 +701,11 @@
     </message>
     <message>
         <source>SD card</source>
-        <translation type="unfinished"></translation>
+        <translation>Karta SD</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakładki</translation>
     </message>
 </context>
 <context>
@@ -746,67 +746,67 @@
     <name>Worker</name>
     <message>
         <source>Deleting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuwanie plików...</translation>
     </message>
     <message>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiowanie plików...</translation>
     </message>
     <message>
         <source>Creating directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tworzenie katalogów...</translation>
     </message>
     <message>
         <source>Directories couldn&apos;t be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogi nie mogły zostać utworzone.</translation>
     </message>
     <message>
         <source>Copying files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kpiowanie plików (%1 z %2)...</translation>
     </message>
     <message>
         <source>All files were copied successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki zostały skopiowane.</translation>
     </message>
     <message>
         <source>All files couldn&apos;t be copied successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie wszystkie pliki zostały skopiowane.</translation>
     </message>
     <message>
         <source>Deleting old files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuwanie starych plików (%1 z %2)...</translation>
     </message>
     <message>
         <source>Deleting old directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuwanie starych katalogów...</translation>
     </message>
     <message>
         <source>All of the files couldn&apos;t be cut and pasted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie wszystkie pliki mogłby być wycięte i wklejone.</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting copied files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się skopiować wszystkich plików, usuwanie skopiowanych plików (%1 z %2)...</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting created directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się skopiować wszystkich katalogów, usuwanie skopiowanych katalogów...</translation>
     </message>
     <message>
         <source>Deleting files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuwanie plików (%1 z %2)...</translation>
     </message>
     <message>
         <source>Deleting directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuwanie katalogów...</translation>
     </message>
     <message>
         <source>All files were deleted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki zostały usunięte.</translation>
     </message>
     <message>
         <source>All files couldn&apos;t be deleted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie wszystkie pliki zostały usunięte.</translation>
     </message>
 </context>
 </TS>
