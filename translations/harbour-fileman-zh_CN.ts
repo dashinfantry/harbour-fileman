@@ -350,7 +350,7 @@
     </message>
     <message>
         <source>MP4 video</source>
-        <translation type="unfinished"></translation>
+        <translation>MP4 视频</translation>
     </message>
 </context>
 <context>
