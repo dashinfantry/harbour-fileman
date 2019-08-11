@@ -353,7 +353,7 @@
         <translation>MP4-Video</translation>
     </message>
     <message>
-        <source>RAR archive</source>
+        <source>Doc file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

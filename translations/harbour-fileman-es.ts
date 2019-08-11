@@ -353,7 +353,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>RAR archive</source>
+        <source>Doc file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

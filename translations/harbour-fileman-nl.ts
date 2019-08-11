@@ -353,8 +353,8 @@
         <translation>MP4 video</translation>
     </message>
     <message>
-        <source>RAR archive</source>
-        <translation>RAR archief</translation>
+        <source>Doc file</source>
+        <translation>Document bestand</translation>
     </message>
 </context>
 <context>
