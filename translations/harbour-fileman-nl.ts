@@ -350,11 +350,11 @@
     </message>
     <message>
         <source>MP4 video</source>
-        <translation type="unfinished"></translation>
+        <translation>MP4 video</translation>
     </message>
     <message>
         <source>RAR archive</source>
-        <translation type="unfinished"></translation>
+        <translation>RAR archief</translation>
     </message>
 </context>
 <context>
@@ -535,19 +535,19 @@
     <name>QObject</name>
     <message>
         <source>%1 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bytes</translation>
     </message>
     <message>
         <source>%1 kB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kB</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
 </context>
 <context>
@@ -588,15 +588,15 @@
     <name>SelectionPanel</name>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 geselecteerd</translation>
     </message>
     <message>
         <source>%1 cut</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 knip</translation>
     </message>
     <message>
         <source>%1 copied</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 gekopieerd</translation>
     </message>
 </context>
 <context>
