@@ -20,11 +20,15 @@ DirectoryWorker::DirectoryWorker(QObject *parent) :
     QStringList textFormats;
     textFormats << "text" << "txt" << "conf" << "xml";
 
+    QStringList docFormats;
+    docFormats << "doc";
+
     m_fileFormats.append(imageFormats);
     m_fileFormats.append(videoFormats);
     m_fileFormats.append(audioFormats);
     m_fileFormats.append(packageFormats);
     m_fileFormats.append(textFormats);
+    m_fileFormats.append(docFormats);
 }
 
 void DirectoryWorker::run()

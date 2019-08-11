@@ -333,10 +333,6 @@
         <translation>Tekstbestand</translation>
     </message>
     <message>
-        <source>unknown</source>
-        <translation>onbekend</translation>
-    </message>
-    <message>
         <source>Install</source>
         <translation>Installeren</translation>
     </message>
@@ -359,6 +355,10 @@
     <message>
         <source>Word 2007 document</source>
         <translation>Word 2007-document</translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

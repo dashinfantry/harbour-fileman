@@ -9,6 +9,7 @@
         <file alias="image">data/icons/image-x-generic.svg</file>
         <file alias="video">data/icons/video-x-generic.svg</file>
         <file alias="text">data/icons/text-x-generic.svg</file>
+        <file alias="doc">data/icons/text-x-generic.svg</file>
         <file alias="directory">data/icons/folder.svg</file>
         <file alias="android">data/icons/android-folder.svg</file>
         <file alias="close">data/icons/emblem-close.svg</file>

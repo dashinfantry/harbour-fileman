@@ -333,10 +333,6 @@
         <translation>文本文件</translation>
     </message>
     <message>
-        <source>unknown</source>
-        <translation>格式未知</translation>
-    </message>
-    <message>
         <source>Install</source>
         <translation>安装</translation>
     </message>
@@ -358,6 +354,10 @@
     </message>
     <message>
         <source>Word 2007 document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

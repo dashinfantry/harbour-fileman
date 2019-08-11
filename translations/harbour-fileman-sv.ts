@@ -333,10 +333,6 @@
         <translation>Textfil</translation>
     </message>
     <message>
-        <source>unknown</source>
-        <translation>Okänt</translation>
-    </message>
-    <message>
         <source>Install</source>
         <translation>Installera</translation>
     </message>
@@ -358,6 +354,10 @@
     </message>
     <message>
         <source>Word 2007 document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unknown</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
