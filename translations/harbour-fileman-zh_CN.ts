@@ -349,15 +349,27 @@
         <translation>MP4 视频</translation>
     </message>
     <message>
-        <source>Word 2003 document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Word 2007 document</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel spreadsheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel 2007 spreadsheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -23,12 +23,20 @@ DirectoryWorker::DirectoryWorker(QObject *parent) :
     QStringList docFormats;
     docFormats << "doc";
 
+    QStringList xlsFormats;
+    xlsFormats << "xls";
+
+    QStringList pdfFormats;
+    pdfFormats << "pdf";
+
     m_fileFormats.append(imageFormats);
     m_fileFormats.append(videoFormats);
     m_fileFormats.append(audioFormats);
     m_fileFormats.append(packageFormats);
     m_fileFormats.append(textFormats);
     m_fileFormats.append(docFormats);
+    m_fileFormats.append(xlsFormats);
+    m_fileFormats.append(pdfFormats);
 }
 
 void DirectoryWorker::run()

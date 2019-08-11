@@ -27,6 +27,12 @@ FileList::FileList(QObject *parent) :
     QStringList docFormats;
     docFormats << "doc" << "doc" << "docx";
 
+    QStringList xlsFormats;
+    xlsFormats << "doc" << "xls";
+
+    QStringList pdfFormats;
+    pdfFormats << "doc" << "pdf";
+
     QStringList archiveFormats;
     archiveFormats << "tar.gz" << "gz" << "zip";
 
@@ -36,6 +42,8 @@ FileList::FileList(QObject *parent) :
     fileFormats.append(packageFormats);
     fileFormats.append(textFormats);
     fileFormats.append(docFormats);
+    fileFormats.append(xlsFormats);
+    fileFormats.append(pdfFormats);
     fileFormats.append(archiveFormats);
 }
 

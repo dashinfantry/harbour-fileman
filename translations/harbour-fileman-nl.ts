@@ -349,16 +349,28 @@
         <translation>MP4 video</translation>
     </message>
     <message>
-        <source>Word 2003 document</source>
-        <translation>Word 2003-document</translation>
-    </message>
-    <message>
         <source>Word 2007 document</source>
         <translation>Word 2007-document</translation>
     </message>
     <message>
         <source>unknown</source>
         <translation>onbekend</translation>
+    </message>
+    <message>
+        <source>Word document</source>
+        <translation>Word doucment</translation>
+    </message>
+    <message>
+        <source>Excel spreadsheet</source>
+        <translation>Excel rekenblad</translation>
+    </message>
+    <message>
+        <source>Excel 2007 spreadsheet</source>
+        <translation>Excel 2007-rekenblad</translation>
+    </message>
+    <message>
+        <source>PDF document</source>
+        <translation>PDF document</translation>
     </message>
 </context>
 <context>
