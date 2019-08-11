@@ -578,7 +578,7 @@
     </message>
     <message>
         <source>%1 hits</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 gevonden</translation>
     </message>
     <message>
         <source>Go to containing folder</source>

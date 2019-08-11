@@ -28,7 +28,7 @@ FileList::FileList(QObject *parent) :
     docFormats << "doc" << "doc" << "docx";
 
     QStringList xlsFormats;
-    xlsFormats << "doc" << "xls";
+    xlsFormats << "doc" << "xls" << "xlsx";
 
     QStringList pdfFormats;
     pdfFormats << "doc" << "pdf";

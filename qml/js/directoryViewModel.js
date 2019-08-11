@@ -87,7 +87,7 @@ function openFile(entry, fileType)
         console.log("Opening file " + entry.fileName)
 
         // What file types the file manager can display/play
-        var openableFileTypes = [ "image", "audio", "video", "text", "doc" ]
+        var openableFileTypes = [ "image", "audio", "video", "text", "doc", "docx", "xls", "xlsx", "pdf" ]
 
         coverModel.setCoverLabel(entry.fileName)
         coverModel.setIconSource(entry.thumbnail)
