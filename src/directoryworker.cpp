@@ -24,7 +24,7 @@ DirectoryWorker::DirectoryWorker(QObject *parent) :
     docFormats << "doc";
 
     QStringList xlsFormats;
-    xlsFormats << "xls" << "xlsx";
+    xlsFormats << "xls";
 
     QStringList pdfFormats;
     pdfFormats << "pdf";
