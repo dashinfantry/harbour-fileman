@@ -5,7 +5,7 @@
     <name>AboutPage</name>
     <message>
         <source>What&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation>Czym jest</translation>
     </message>
     <message>
         <source>Licensing</source>
@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Thanks to Velox for the help on the Search function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dzięki Velox za pomoc w funkcji wyszukiwania.</translation>
     </message>
 </context>
 <context>
@@ -88,19 +88,19 @@
     </message>
     <message>
         <source>1 entry selected</source>
-        <translation type="unfinished"></translation>
+        <translation>1 element zaznaczony</translation>
     </message>
     <message>
         <source> entries selected</source>
-        <translation type="unfinished"></translation>
+        <translation> zaznaczonych elementów</translation>
     </message>
     <message>
         <source>1 entry in clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>1 elemenr w schowku</translation>
     </message>
     <message>
         <source> entries in clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation> elementów w schowku</translation>
     </message>
 </context>
 <context>
@@ -115,11 +115,11 @@
     </message>
     <message>
         <source> entry</source>
-        <translation type="unfinished"></translation>
+        <translation> element</translation>
     </message>
     <message>
         <source> entries</source>
-        <translation type="unfinished"></translation>
+        <translation> elementów</translation>
     </message>
 </context>
 <context>
@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>Android application package</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakiek aplikacji Android</translation>
     </message>
     <message>
         <source>RPM package</source>
@@ -653,11 +653,11 @@
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Miejsca</translation>
     </message>
     <message>
         <source>Last location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnio wybrane miejsce</translation>
     </message>
     <message>
         <source>Home</source>
@@ -689,7 +689,7 @@
     </message>
     <message>
         <source>Android locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Miejsca Android</translation>
     </message>
     <message>
         <source>Android storage</source>
