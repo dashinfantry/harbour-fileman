@@ -358,7 +358,7 @@
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>onbekend</translation>
     </message>
 </context>
 <context>
@@ -596,7 +596,7 @@
     </message>
     <message>
         <source>%1 cut</source>
-        <translation>%1 knip</translation>
+        <translation>%1 geknipt</translation>
     </message>
     <message>
         <source>%1 copied</source>
