@@ -353,8 +353,12 @@
         <translation>MP4 video</translation>
     </message>
     <message>
-        <source>Doc file</source>
-        <translation>Document bestand</translation>
+        <source>Word 2003 document</source>
+        <translation>Word 2003-document</translation>
+    </message>
+    <message>
+        <source>Word 2007 document</source>
+        <translation>Word 2007-document</translation>
     </message>
 </context>
 <context>

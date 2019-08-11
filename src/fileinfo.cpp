@@ -127,7 +127,8 @@ QString FileInfo::getFileFormatName(QString suffix)
     formatNames.insert("rpm", tr("RPM package"));
 
     formatNames.insert("txt", tr("Text file"));
-    formatNames.insert("doc", tr("Doc file"));
+    formatNames.insert("doc", tr("Word 2003 document"));
+    formatNames.insert("docx", tr("Word 2007 document"));
 
     formatNames.insert("tar.gz", tr("TAR.GZ archive"));
     formatNames.insert("gz", tr("TAR.GZ archive"));

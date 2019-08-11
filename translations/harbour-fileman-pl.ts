@@ -353,7 +353,11 @@
         <translation>Wideo MP4</translation>
     </message>
     <message>
-        <source>Doc file</source>
+        <source>Word 2003 document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word 2007 document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

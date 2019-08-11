@@ -22,7 +22,7 @@ FileList::FileList(QObject *parent) :
     packageFormats << "package" << "apk" << "rpm";
 
     QStringList textFormats;
-    textFormats << "text" << "txt" << "doc" << "conf" << "xml";
+    textFormats << "text" << "txt" << "doc" << "docx" << "conf" << "xml";
 
     QStringList archiveFormats;
     archiveFormats << "tar.gz" << "gz" << "zip";
