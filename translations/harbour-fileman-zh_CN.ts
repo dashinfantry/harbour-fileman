@@ -350,27 +350,27 @@
     </message>
     <message>
         <source>Word 2007 document</source>
-        <translation type="unfinished"></translation>
+        <translation>Word 2007 文件</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Word document</source>
-        <translation type="unfinished"></translation>
+        <translation>Word 文件</translation>
     </message>
     <message>
         <source>Excel spreadsheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Excel 电子表格</translation>
     </message>
     <message>
         <source>Excel 2007 spreadsheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Excel 2007 电子表格</translation>
     </message>
     <message>
         <source>PDF document</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF 文件</translation>
     </message>
 </context>
 <context>
