@@ -8,6 +8,11 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Mon Aug 12 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-15
+- [UPDATE] Updated all translation
+- [UPDATE] Fileman icons to grey style, fix for lite ambiences
+- [MINOR BUGFIX] Fix unknow files as doc, docx, xls, xlsx, pdf
+
 * Fri Aug 9 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-15
 - [UPDATE] Updated all translation
 
