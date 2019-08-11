@@ -352,6 +352,10 @@
         <source>MP4 video</source>
         <translation>MP4 视频</translation>
     </message>
+    <message>
+        <source>RAR archive</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileOperationPage</name>

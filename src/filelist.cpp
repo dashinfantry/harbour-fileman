@@ -25,7 +25,7 @@ FileList::FileList(QObject *parent) :
     textFormats << "text" << "txt" << "conf" << "xml";
 
     QStringList archiveFormats;
-    archiveFormats << "tar.gz" << "gz" << "zip";
+    archiveFormats << "tar.gz" << "gz" << "zip" << "rar";
 
     fileFormats.append(imageFormats);
     fileFormats.append(videoFormats);
