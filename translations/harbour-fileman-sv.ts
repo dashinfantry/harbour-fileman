@@ -346,31 +346,31 @@
     </message>
     <message>
         <source>MP4 video</source>
-        <translation type="unfinished"></translation>
+        <translation>MP4-video</translation>
     </message>
     <message>
         <source>Word 2007 document</source>
-        <translation type="unfinished"></translation>
+        <translation">Word 2007-dokument</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt</translation>
     </message>
     <message>
         <source>Word document</source>
-        <translation type="unfinished"></translation>
+        <translation>Word-dokument</translation>
     </message>
     <message>
         <source>Excel spreadsheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Excel-blad</translation>
     </message>
     <message>
         <source>Excel 2007 spreadsheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Excel 2007-blad</translation>
     </message>
     <message>
         <source>PDF document</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF-dokument</translation>
     </message>
 </context>
 <context>
