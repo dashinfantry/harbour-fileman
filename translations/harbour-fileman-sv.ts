@@ -350,7 +350,7 @@
     </message>
     <message>
         <source>Word 2007 document</source>
-        <translation">Word 2007-dokument</translation>
+        <translation>Word 2007-dokument</translation>
     </message>
     <message>
         <source>unknown</source>
