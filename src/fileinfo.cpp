@@ -199,7 +199,7 @@ QVariantMap FileInfo::getFileActions(QString fullPath)
     {
         QVariantMap apkAction;
         apkAction.insert("label", "Install");
-        apkAction.insert("action", "openSystem");
+        apkAction.insert("action", "installApk");
         apkAction.insert("track", true);
         actionMap.insert("Install", apkAction);
     }
@@ -207,7 +207,7 @@ QVariantMap FileInfo::getFileActions(QString fullPath)
     {
         QVariantMap rpmAction;
         rpmAction.insert("label", "Install");
-        rpmAction.insert("action", "openSystem");
+        rpmAction.insert("action", "installRpm");
         rpmAction.insert("track", true);
         actionMap.insert("Install", rpmAction);
     }
@@ -217,7 +217,7 @@ QVariantMap FileInfo::getFileActions(QString fullPath)
     {
         QVariantMap apkAction;
         apkAction.insert("label", tr("Install"));
-        apkAction.insert("action", "openSystem");
+        apkAction.insert("action", "installApk");
         apkAction.insert("track", true);
         actionMap.insert("Install", apkAction);
     }
@@ -225,7 +225,7 @@ QVariantMap FileInfo::getFileActions(QString fullPath)
     {
         QVariantMap rpmAction;
         rpmAction.insert("label", tr("Install"));
-        rpmAction.insert("action", "openSystem");
+        rpmAction.insert("action", "installRpm");
         rpmAction.insert("track", true);
         actionMap.insert("Install", rpmAction);
     }

@@ -29,13 +29,13 @@ bool FileProcess::performFileAction(const QString &fullPath, const QString &acti
 
     if (action == "installApk")
     {
-        program = "apkd-install";
+        program = "xdg-open";
         parameters << fullPath;
     }
     else if (action == "installRpm")
     {
-        program = "pkcon";
-        parameters << "-y" << "-p" << "install-local" << fullPath;
+        program = "xdg-open";
+        parameters << fullPath;
     }
     else if (action == "openSystem")
     {
