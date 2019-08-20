@@ -5,7 +5,7 @@
     <name>AboutPage</name>
     <message>
         <source>What&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation>Qu’est-ce ?</translation>
     </message>
     <message>
         <source>Licensing</source>
@@ -207,7 +207,7 @@
     </message>
     <message>
         <source>Display black background</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher un fond noir</translation>
     </message>
     <message>
         <source>Display a black background when viewing image and video files</source>
@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>Android application package</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquet d’application Android</translation>
     </message>
     <message>
         <source>RPM package</source>
@@ -346,31 +346,31 @@
     </message>
     <message>
         <source>MP4 video</source>
-        <translation type="unfinished"></translation>
+        <translation>Vidéo MP4</translation>
     </message>
     <message>
         <source>Word 2007 document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document Word 2007</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>inconnu</translation>
     </message>
     <message>
         <source>Word document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document Word</translation>
     </message>
     <message>
         <source>Excel spreadsheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Feuille de calcul Excel</translation>
     </message>
     <message>
         <source>Excel 2007 spreadsheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Feuille de calcul Excel 2007</translation>
     </message>
     <message>
         <source>PDF document</source>
-        <translation type="unfinished"></translation>
+        <translation>Document PDF</translation>
     </message>
 </context>
 <context>
