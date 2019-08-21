@@ -55,6 +55,14 @@
         <source>Thanks to Velox for the help on the Search function.</source>
         <translation>Dzięki Velox za pomoc w funkcji wyszukiwania.</translation>
     </message>
+    <message>
+        <source>GitHub Repository</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report an Issue</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryFileOperations</name>

@@ -11,6 +11,21 @@ Page {
 
         VerticalScrollDecorator {}
 
+        PullDownMenu
+        {
+            MenuItem
+            {
+                text: qsTr("GitHub Repository")
+                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman")
+            }
+
+            MenuItem
+            {
+                text: qsTr("Report an Issue")
+                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/issues")
+            }
+        }
+
         Column {
             id: aboutColumn
             width: parent.width
