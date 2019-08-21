@@ -21,8 +21,8 @@ Page {
 
             MenuItem
             {
-                text: qsTr("Report an Issue")
-                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/issues")
+                text: qsTr("Fileman Wiki")
+                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/wiki")
             }
         }
 

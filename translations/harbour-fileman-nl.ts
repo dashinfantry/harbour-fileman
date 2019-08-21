@@ -60,8 +60,8 @@
         <translation>GitHub Repository</translation>
     </message>
     <message>
-        <source>Report an Issue</source>
-        <translation>Een probleem melden</translation>
+        <source>Fileman Wiki</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

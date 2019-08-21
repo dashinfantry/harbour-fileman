@@ -60,7 +60,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Report an Issue</source>
+        <source>Fileman Wiki</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
