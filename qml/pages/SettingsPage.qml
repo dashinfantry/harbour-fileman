@@ -58,6 +58,17 @@ Page {
                 onActionRequested: pageStack.push(Qt.resolvedUrl("AboutPage.qml"))
             }
 
+            SectionHeader { text: qsTr("Fileman GitHub wiki") }
+
+            ClickableLabel
+            {
+                width: parent.width
+                height: Theme.itemSizeSmall
+                icon: "image://theme/icon-m-people"
+                text: qsTr("Fileman Wiki")
+                onActionRequested: pageStack.push(Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/wiki"))
+            }
+
             SectionHeader { text: qsTr("Fileman translations") }
 
             ClickableLabel

@@ -60,8 +60,8 @@
         <translation>GitHub Repository</translation>
     </message>
     <message>
-        <source>Fileman Wiki</source>
-        <translation type="unfinished"></translation>
+        <source>Report an Issue</source>
+        <translation>Een probleem melden</translation>
     </message>
 </context>
 <context>
@@ -660,6 +660,14 @@
     <message>
         <source>About Fileman</source>
         <translation>Over Fileman</translation>
+    </message>
+    <message>
+        <source>Fileman GitHub wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fileman Wiki</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
