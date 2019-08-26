@@ -8,6 +8,12 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Mon Aug 26 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-19
+- [UPDATE] Adding GitHub links to about screen
+- [UPDATE] Adding Fileman Wiki to settings screen 
+- [CLEAN] Clean up Fileman code
+- [MINOR BUGFIX] Fix small bug into filedirectory stuff
+
 * Mon Aug 19 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-18
 - [MINOR BUGFIX] Fix display wrong string after install rmp or apk
 
