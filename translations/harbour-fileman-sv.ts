@@ -57,11 +57,11 @@
     </message>
     <message>
         <source>GitHub Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub</translation>
     </message>
     <message>
         <source>Report an Issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapportera ett fel</translation>
     </message>
 </context>
 <context>
@@ -663,11 +663,11 @@
     </message>
     <message>
         <source>Fileman GitHub wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman GitHub-wiki</translation>
     </message>
     <message>
         <source>Fileman Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman-wiki</translation>
     </message>
 </context>
 <context>
