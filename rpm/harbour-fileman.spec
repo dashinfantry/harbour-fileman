@@ -14,7 +14,7 @@ Name:       harbour-fileman
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    harbour-fileman
 Version:    1.0
-Release:    19
+Release:    20
 Group:      Qt/Qt
 License:    GPLv3
 URL:        https://bitbucket.org/ruditimmermans/harbour-fileman/src
@@ -47,11 +47,6 @@ A feature filled file manager application for SailfishOS
 
 # >> build post
 # << build post
-
-%posttrans
-# >> posttrans
-rm -r /home/nemo/.config/Fileman/Fileman.conf
-# << posttrans
 
 %install
 rm -rf %{buildroot}
