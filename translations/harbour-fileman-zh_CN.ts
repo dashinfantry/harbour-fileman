@@ -221,6 +221,10 @@
         <source>Display a black background when viewing image and video files</source>
         <translation>当查看图片及视频文件时显示黑色背景</translation>
     </message>
+    <message>
+        <source>Overlay visibility (seconds)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileInfo</name>

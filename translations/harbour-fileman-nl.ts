@@ -221,6 +221,10 @@
         <source>Display a black background when viewing image and video files</source>
         <translation>Geef een zwarte achtergrond weer bij het bekijken van beeld- en videobestanden</translation>
     </message>
+    <message>
+        <source>Overlay visibility (seconds)</source>
+        <translation>Overlay-zichtbaarheid (seconden)</translation>
+    </message>
 </context>
 <context>
     <name>FileInfo</name>

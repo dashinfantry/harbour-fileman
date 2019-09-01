@@ -221,6 +221,10 @@
         <source>Display a black background when viewing image and video files</source>
         <translation>Använd svart bakgrund vid visning av bild- och videofiler</translation>
     </message>
+    <message>
+        <source>Overlay visibility (seconds)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileInfo</name>

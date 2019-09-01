@@ -22,6 +22,25 @@ Page {
             SectionHeader {
                 id: directoryLookHeader
                 text: qsTr("File display look")
+            }          
+
+            Slider {
+                id: overlayTimeSlider
+
+                width: parent.width
+
+                minimumValue: 1
+                maximumValue: 5
+                stepSize: 0.25
+
+                handleVisible: true
+
+                value: settings.fileOverlayPeriod
+                valueText: value
+
+                onReleased: settings.fileOverlayPeriod = value
+
+                label: qsTr("Overlay visibility (seconds)")
             }
 
             TextSwitch {
