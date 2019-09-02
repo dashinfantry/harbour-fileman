@@ -36,6 +36,10 @@ Page
             }
 
             CollaboratorsLabel {
+                title: "Portugees"
+                labelData: [ "Rafaelvlmendes" ]
+            }
+            CollaboratorsLabel {
                 title: "Chinese"
                 labelData: [ "Dashinfantry" ]
             }
