@@ -120,6 +120,7 @@ TRANSLATIONS += \
     translations/harbour-fileman-sv.ts \
     translations/harbour-fileman-pl.ts \
     translations/harbour-fileman-zh_CN.ts \
+    translations/harbour-fileman-pt_BR.ts \ 
     translations/harbour-fileman-fi.ts
 
 RESOURCES += \
