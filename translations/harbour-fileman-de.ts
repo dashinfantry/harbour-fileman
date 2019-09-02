@@ -166,7 +166,7 @@
     </message>
     <message>
         <source>Directory search</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnissuche</translation>
     </message>
 </context>
 <context>
@@ -227,7 +227,7 @@
     </message>
     <message>
         <source>Overlay visibility (seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>Overlay sichtbar (Sekunden)</translation>
     </message>
 </context>
 <context>
