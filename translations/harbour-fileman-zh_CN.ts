@@ -164,6 +164,10 @@
         <source>Global search</source>
         <translation>全局搜索</translation>
     </message>
+    <message>
+        <source>Directory search</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPushUpMenu</name>

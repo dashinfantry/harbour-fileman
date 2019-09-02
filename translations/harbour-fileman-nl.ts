@@ -164,6 +164,10 @@
         <source>Global search</source>
         <translation>Globaal zoeken</translation>
     </message>
+    <message>
+        <source>Directory search</source>
+        <translation>Zoeken in directory</translation>
+    </message>
 </context>
 <context>
     <name>DirectoryPushUpMenu</name>
