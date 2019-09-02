@@ -165,8 +165,8 @@
         <translation>全局搜索</translation>
     </message>
     <message>
-        <source>Directory search</source>
-        <translation type="unfinished"></translation>
+        <source>Search</source>
+        <translation type="unfinished">搜索</translation>
     </message>
 </context>
 <context>

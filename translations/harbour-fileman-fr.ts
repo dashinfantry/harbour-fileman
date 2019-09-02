@@ -165,8 +165,8 @@
         <translation>Recherche générale</translation>
     </message>
     <message>
-        <source>Directory search</source>
-        <translation type="unfinished"></translation>
+        <source>Search</source>
+        <translation type="unfinished">Rechercher</translation>
     </message>
 </context>
 <context>

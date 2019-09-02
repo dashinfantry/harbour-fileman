@@ -59,7 +59,7 @@ PullDownMenu {
         onClicked: getDirectoryPage().addNewFiles()
     }
     MenuItem {
-        text: qsTr("Directory search")
+        text: qsTr("Search")
         visible: 'isShortcutsPage' in getDirectoryView() ? false : true
         onClicked: pageStack.push(Qt.resolvedUrl("../SearchPage.qml"),
                                  { dir: settings.dirPath });

@@ -165,8 +165,8 @@
         <translation>Globaal zoeken</translation>
     </message>
     <message>
-        <source>Directory search</source>
-        <translation>Zoeken in directory</translation>
+        <source>Search</source>
+        <translation>Zoeken</translation>
     </message>
 </context>
 <context>

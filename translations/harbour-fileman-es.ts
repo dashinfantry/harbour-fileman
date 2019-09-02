@@ -165,7 +165,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Directory search</source>
+        <source>Search</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

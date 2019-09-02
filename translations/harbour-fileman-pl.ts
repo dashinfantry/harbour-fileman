@@ -165,8 +165,8 @@
         <translation>Wyszukiwanie globalne</translation>
     </message>
     <message>
-        <source>Directory search</source>
-        <translation type="unfinished"></translation>
+        <source>Search</source>
+        <translation type="unfinished">Szukaj</translation>
     </message>
 </context>
 <context>
