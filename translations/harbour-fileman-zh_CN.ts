@@ -166,7 +166,7 @@
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">搜索</translation>
+        <translation>搜索</translation>
     </message>
 </context>
 <context>
@@ -227,7 +227,7 @@
     </message>
     <message>
         <source>Overlay visibility (seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前目录内搜索(秒)</translation>
     </message>
 </context>
 <context>
