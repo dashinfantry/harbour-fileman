@@ -162,11 +162,11 @@
     </message>
     <message>
         <source>Global search</source>
-        <translation>Sök</translation>
+        <translation>Global sökning</translation>
     </message>
     <message>
-        <source>Search</source>
-        <translation type="unfinished">Sök</translation>
+        <source>Directory search</source>
+        <translation>Mappsökning</translation>
     </message>
 </context>
 <context>
@@ -227,7 +227,7 @@
     </message>
     <message>
         <source>Overlay visibility (seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>Överläggssynlighet (sekunder)</translation>
     </message>
 </context>
 <context>
