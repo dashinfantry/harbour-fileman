@@ -165,8 +165,8 @@
         <translation>Global sökning</translation>
     </message>
     <message>
-        <source>Directory search</source>
-        <translation>Mappsökning</translation>
+        <source>Search</source>
+        <translation type="unfinished">Sök</translation>
     </message>
 </context>
 <context>
