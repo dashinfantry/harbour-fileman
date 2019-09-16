@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_CN" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -134,39 +132,39 @@
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Global search</source>
-        <translation type="unfinished"></translation>
+        <translation>全局搜索</translation>
     </message>
     <message>
         <source>Show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>显示页面标头</translation>
     </message>
     <message>
         <source>Don&apos;t show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏页面标头</translation>
     </message>
     <message>
         <source>Show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>显示隐藏文件</translation>
     </message>
     <message>
         <source>Don&apos;t show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>不显示隐藏文件</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation type="unfinished"></translation>
+        <translation>新建……</translation>
     </message>
     <message>
         <source>Places</source>
-        <translation type="unfinished">分类</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Search in directory</source>
-        <translation type="unfinished"></translation>
+        <translation>目录内搜索</translation>
     </message>
 </context>
 <context>
