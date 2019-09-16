@@ -161,12 +161,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Search</source>
-        <translation type="unfinished">Suche</translation>
-    </message>
-    <message>
         <source>Places</source>
         <translation type="unfinished">Orte</translation>
+    </message>
+    <message>
+        <source>Search in directory</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

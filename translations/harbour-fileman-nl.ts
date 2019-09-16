@@ -161,12 +161,12 @@
         <translation>Niew...</translation>
     </message>
     <message>
-        <source>Search</source>
-        <translation>Zoeken</translation>
-    </message>
-    <message>
         <source>Places</source>
         <translation>FoldersPaneel</translation>
+    </message>
+    <message>
+        <source>Search in directory</source>
+        <translation>Zoek in directory</translation>
     </message>
 </context>
 <context>
