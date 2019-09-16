@@ -134,39 +134,39 @@
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation>Instellingen</translation>
-    </message>
-    <message>
-        <source>New...</source>
-        <translation>Nieuw...</translation>
-    </message>
-    <message>
-        <source>Show hidden files</source>
-        <translation>Toon verborgen bestanden</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show hidden files</source>
-        <translation>Laat geen verborgen bestanden zien</translation>
-    </message>
-    <message>
-        <source>Places</source>
-        <translation>FoldersPaneel</translation>
-    </message>
-    <message>
-        <source>Show page header</source>
-        <translation>Toon paginakop</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show page header</source>
-        <translation>Geen paginakop weergeven</translation>
+        <translation type="unfinished">Instellingen</translation>
     </message>
     <message>
         <source>Global search</source>
-        <translation>Globaal zoeken</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Zoeken</translation>
+        <translation type="unfinished">Zoeken</translation>
+    </message>
+    <message>
+        <source>Places</source>
+        <translation type="unfinished">FoldersPaneel</translation>
     </message>
 </context>
 <context>

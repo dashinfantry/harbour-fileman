@@ -6,7 +6,7 @@ PullDownMenu {
     MenuItem {
         text: qsTr("Settings")
         visible: 'isShortcutsPage' in getDirectoryView() ? true : false
-        onClicked: pageStack.push(Qt.resolvedUrl("../SettingsPage.qml")) 
+        onClicked: pageStack.push(Qt.resolvedUrl("../SettingsPage.qml"))
     }
     MenuItem {
         text: qsTr("Global search")

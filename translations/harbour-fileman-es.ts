@@ -134,23 +134,11 @@
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation>Ajustes</translation>
+        <translation type="unfinished">Ajustes</translation>
     </message>
     <message>
-        <source>New...</source>
-        <translation>Nuevo...</translation>
-    </message>
-    <message>
-        <source>Show hidden files</source>
-        <translation>Mostrar archivos ocultos</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show hidden files</source>
-        <translation>No mostrar archivos ocultos</translation>
-    </message>
-    <message>
-        <source>Places</source>
-        <translation>Lugares</translation>
+        <source>Global search</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show page header</source>
@@ -161,12 +149,24 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Global search</source>
+        <source>Show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Places</source>
+        <translation type="unfinished">Lugares</translation>
     </message>
 </context>
 <context>

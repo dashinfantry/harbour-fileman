@@ -134,39 +134,39 @@
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation>Ustawienia</translation>
-    </message>
-    <message>
-        <source>New...</source>
-        <translation>Nowy...</translation>
-    </message>
-    <message>
-        <source>Show hidden files</source>
-        <translation>Pokaż ukryte pliki</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show hidden files</source>
-        <translation>Nie pokazuj ukrytych plików</translation>
-    </message>
-    <message>
-        <source>Places</source>
-        <translation>Miejsca</translation>
-    </message>
-    <message>
-        <source>Show page header</source>
-        <translation>Pokaż nagłówek strony</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show page header</source>
-        <translation>Nie pokazuj nagłówka strony</translation>
+        <translation type="unfinished">Ustawienia</translation>
     </message>
     <message>
         <source>Global search</source>
-        <translation>Wyszukiwanie globalne</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
         <translation type="unfinished">Szukaj</translation>
+    </message>
+    <message>
+        <source>Places</source>
+        <translation type="unfinished">Miejsca</translation>
     </message>
 </context>
 <context>

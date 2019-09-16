@@ -134,39 +134,39 @@
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation>Paramètres</translation>
-    </message>
-    <message>
-        <source>New...</source>
-        <translation>Nouveau...</translation>
-    </message>
-    <message>
-        <source>Show hidden files</source>
-        <translation>Afficher les fichiers cachés</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show hidden files</source>
-        <translation>Ne pas afficher les fichiers cachés</translation>
-    </message>
-    <message>
-        <source>Places</source>
-        <translation>Lieux</translation>
-    </message>
-    <message>
-        <source>Show page header</source>
-        <translation>Afficher les entêtes de page</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show page header</source>
-        <translation>Ne pas afficher les entêtes de page</translation>
+        <translation type="unfinished">Paramètres</translation>
     </message>
     <message>
         <source>Global search</source>
-        <translation>Recherche générale</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
         <translation type="unfinished">Rechercher</translation>
+    </message>
+    <message>
+        <source>Places</source>
+        <translation type="unfinished">Lieux</translation>
     </message>
 </context>
 <context>

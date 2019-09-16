@@ -134,39 +134,39 @@
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation>设置</translation>
-    </message>
-    <message>
-        <source>New...</source>
-        <translation>新建</translation>
-    </message>
-    <message>
-        <source>Show hidden files</source>
-        <translation>显示隐藏文件</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show hidden files</source>
-        <translation>不显示隐藏文件</translation>
-    </message>
-    <message>
-        <source>Places</source>
-        <translation>位置</translation>
-    </message>
-    <message>
-        <source>Show page header</source>
-        <translation>显示页面标头</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show page header</source>
-        <translation>隐藏页面标头</translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <source>Global search</source>
-        <translation>全局搜索</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>搜索</translation>
+        <translation type="unfinished">搜索</translation>
+    </message>
+    <message>
+        <source>Places</source>
+        <translation type="unfinished">分类</translation>
     </message>
 </context>
 <context>

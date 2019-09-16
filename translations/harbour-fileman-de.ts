@@ -134,39 +134,39 @@
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
-        <source>New...</source>
-        <translation>Neu …</translation>
-    </message>
-    <message>
-        <source>Show hidden files</source>
-        <translation>Versteckte Dateien anzeigen</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show hidden files</source>
-        <translation>Keine versteckten Dateien anzeigen</translation>
-    </message>
-    <message>
-        <source>Places</source>
-        <translation>Orte</translation>
-    </message>
-    <message>
-        <source>Show page header</source>
-        <translation>Seitenkopf anzeigen</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show page header</source>
-        <translation>Sitenkopf verstecken</translation>
+        <translation type="unfinished">Einstellungen</translation>
     </message>
     <message>
         <source>Global search</source>
-        <translation>Globale Suche</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Suche</translation>
+        <translation type="unfinished">Suche</translation>
+    </message>
+    <message>
+        <source>Places</source>
+        <translation type="unfinished">Orte</translation>
     </message>
 </context>
 <context>

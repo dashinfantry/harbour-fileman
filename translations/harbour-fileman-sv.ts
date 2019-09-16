@@ -134,39 +134,39 @@
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation>Inställningar</translation>
-    </message>
-    <message>
-        <source>New...</source>
-        <translation>Nytt...</translation>
-    </message>
-    <message>
-        <source>Show hidden files</source>
-        <translation>Visa dolda filer</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show hidden files</source>
-        <translation>Visa inte dolda filer</translation>
-    </message>
-    <message>
-        <source>Places</source>
-        <translation>Platser</translation>
-    </message>
-    <message>
-        <source>Show page header</source>
-        <translation>Visa sidhuvud</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show page header</source>
-        <translation>Visa inte sidhuvud</translation>
+        <translation type="unfinished">Inställningar</translation>
     </message>
     <message>
         <source>Global search</source>
-        <translation>Global sökning</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show page header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Sök</translation>
+        <translation type="unfinished">Sök</translation>
+    </message>
+    <message>
+        <source>Places</source>
+        <translation type="unfinished">Platser</translation>
     </message>
 </context>
 <context>

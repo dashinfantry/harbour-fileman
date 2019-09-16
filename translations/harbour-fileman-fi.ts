@@ -137,19 +137,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>New...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show hidden files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Don&apos;t show hidden files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Places</source>
+        <source>Global search</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -161,11 +149,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Global search</source>
+        <source>Show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show hidden files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Places</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
