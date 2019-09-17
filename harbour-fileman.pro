@@ -115,6 +115,7 @@ CONFIG += sailfishapp_i18n
 TRANSLATIONS += \
     translations/harbour-fileman-de.ts \
     translations/harbour-fileman-es.ts \
+    translations/harbour-fileman-it.ts \
     translations/harbour-fileman-nl.ts \
     translations/harbour-fileman-fr.ts \
     translations/harbour-fileman-sv.ts \
