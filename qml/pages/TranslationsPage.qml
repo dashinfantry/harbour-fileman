@@ -59,6 +59,14 @@ Page
                 title: "Polish"
                 labelData: [ "Atlochowski" ]
             }
+            CollaboratorsLabel {
+                title: "Italian"
+                labelData: [ "Fravaccaro" ]
+            }
+            CollaboratorsLabel {
+                title: "Portuguese (Brazil)"
+                labelData: [ "Marreko" ]
+            }
         }
     }
 }
