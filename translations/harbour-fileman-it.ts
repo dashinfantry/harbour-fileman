@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="es">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="it" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
         <source>What&apos;s</source>
-        <translation>¿Qué es</translation>
+        <translation>Cos&apos;è</translation>
     </message>
     <message>
         <source>Licensing</source>
-        <translation>Licencia</translation>
+        <translation>Licenza</translation>
     </message>
     <message>
         <source>is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation>es un programa libre publicado bajo la Licencia Pública General de GNU (GPL), versión 3 o posterior.</translation>
+        <translation>è software rilasciato sotto licenza GNU Public License (GPL) versione 3 o successiva.</translation>
     </message>
     <message>
         <source>Rudi Timmermans</source>
@@ -21,410 +19,410 @@
     </message>
     <message>
         <source>Donate with Paypal</source>
-        <translation>Donar con Paypal</translation>
+        <translation>Dona con PayPal</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>Versión</translation>
+        <translation>Versione</translation>
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation>Fileman es un explorador de archivos para Sailfish OS.</translation>
+        <translation>Fileman è un gestore file per Sailfish OS.</translation>
     </message>
     <message>
         <source>Fileman developer</source>
-        <translation>Desarrollador de Fileman</translation>
+        <translation>Sviluppatore Fileman</translation>
     </message>
     <message>
         <source>About Fileman</source>
-        <translation>Acerca de Fileman</translation>
+        <translation>Info su Fileman</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Iconos</translation>
+        <translation>Icone</translation>
     </message>
     <message>
         <source>Fileman icons made by Gregguh.</source>
-        <translation type="unfinished"></translation>
+        <translation>Icone Fileman di Gregguh.</translation>
     </message>
     <message>
         <source>Thanking</source>
-        <translation type="unfinished"></translation>
+        <translation>Ringraziamenti</translation>
     </message>
     <message>
         <source>Thanks to Velox for the help on the Search function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Grazie a Velox per l&apos;aiuto con la funzione di ricerca.</translation>
     </message>
     <message>
         <source>GitHub Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Repository GitHub</translation>
     </message>
     <message>
         <source>Report an Issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Riporta un problema</translation>
     </message>
 </context>
 <context>
     <name>DirectoryFileOperations</name>
     <message>
         <source>Rename</source>
-        <translation>Renombrar</translation>
+        <translation>Rinomina</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Cortar</translation>
+        <translation>Taglia</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation>Copia</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Pegar</translation>
+        <translation>Incolla</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Borrar</translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <source>Compress</source>
-        <translation>Comprimir</translation>
+        <translation>Comprimi</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation>Compartir</translation>
+        <translation>Condividi</translation>
     </message>
     <message>
         <source>1 entry selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Un elemento selezionato</translation>
     </message>
     <message>
         <source> entries selected</source>
-        <translation type="unfinished"></translation>
+        <translation> elementi selezionati</translation>
     </message>
     <message>
         <source>1 entry in clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Un elemento negli appunti</translation>
     </message>
     <message>
         <source> entries in clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation> elementi negli appunti</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPage</name>
     <message>
         <source>Deleting </source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminazione </translation>
     </message>
     <message>
         <source>Copying </source>
-        <translation type="unfinished"></translation>
+        <translation>Copia </translation>
     </message>
     <message>
         <source> entry</source>
-        <translation type="unfinished"></translation>
+        <translation> elemento</translation>
     </message>
     <message>
         <source> entries</source>
-        <translation type="unfinished"></translation>
+        <translation> elementi</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Ajustes</translation>
+        <translation>Impostazioni</translation>
     </message>
     <message>
         <source>Global search</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricerca globale</translation>
     </message>
     <message>
         <source>Show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra intestazione pagina</translation>
     </message>
     <message>
         <source>Don&apos;t show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>Non mostrare intestazione pagina</translation>
     </message>
     <message>
         <source>Show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra file nascosti</translation>
     </message>
     <message>
         <source>Don&apos;t show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Non mostrare file nascosti</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo...</translation>
     </message>
     <message>
         <source>Places</source>
-        <translation type="unfinished">Lugares</translation>
+        <translation>Cartelle principali</translation>
     </message>
     <message>
         <source>Search in directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca nella cartella</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPushUpMenu</name>
     <message>
         <source>Add to bookmarks</source>
-        <translation>Añadir a favoritos</translation>
+        <translation>Aggiungi ai segnalibri</translation>
     </message>
     <message>
         <source>Remove from bookmarks</source>
-        <translation>Eliminar de favoritos</translation>
+        <translation>Rimuovi dai segnalibri</translation>
     </message>
     <message>
         <source>Directory properties</source>
-        <translation>Propiedades del directorio</translation>
+        <translation>Proprietà cartella</translation>
     </message>
 </context>
 <context>
     <name>DirectoryViewSettings</name>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteprime</translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Cache anteprime</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva le anteprime per un caricamento più veloce</translation>
     </message>
 </context>
 <context>
     <name>FileDisplay</name>
     <message>
         <source>File display</source>
-        <translation>Visualización de archivos</translation>
+        <translation>Visualizzazione file</translation>
     </message>
     <message>
         <source>File display look</source>
-        <translation>Apariencia en visualización de archivos</translation>
+        <translation>Aspetto visualizzazione file</translation>
     </message>
     <message>
         <source>Browse through all files</source>
-        <translation>Explorar todos los archivos</translation>
+        <translation>Sfoglia tra tutti i file</translation>
     </message>
     <message>
         <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation>Al visualizar un archivo, explorar todos los archivos visibles en lugar de los archivos del mismo tipo</translation>
+        <translation>Durante la visualizzazione di un file, sfoglia tutti i file invece che soltanto quelli dello stesso tipo</translation>
     </message>
     <message>
         <source>Display black background</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza sfondo nero</translation>
     </message>
     <message>
         <source>Display a black background when viewing image and video files</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza uno sfondo nero durante la visualizzazione di immagini e video</translation>
     </message>
     <message>
         <source>Overlay visibility (seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilità overlay (secondi)</translation>
     </message>
 </context>
 <context>
     <name>FileInfo</name>
     <message>
         <source>File information</source>
-        <translation>Información de archivo</translation>
+        <translation>Informazioni file</translation>
     </message>
     <message>
         <source>Show as text</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra come testo</translation>
     </message>
     <message>
         <source>Edit as text</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica come testo</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished">Ejecución</translation>
+        <translation>Esegui</translation>
     </message>
     <message>
         <source>MPG video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video MPG</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Larghezza</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Altezza</translation>
     </message>
     <message>
         <source>Image details</source>
-        <translation type="unfinished"></translation>
+        <translation>Dettagli immagine</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamaño</translation>
+        <translation>Dimensione</translation>
     </message>
     <message>
         <source>Last modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima modifica</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Creato</translation>
     </message>
     <message>
         <source>File details</source>
-        <translation type="unfinished"></translation>
+        <translation>Dettagli file</translation>
     </message>
     <message>
         <source>Directory details</source>
-        <translation type="unfinished"></translation>
+        <translation>Dettagli cartella</translation>
     </message>
     <message>
         <source>PNG image</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagine PNG</translation>
     </message>
     <message>
         <source>JPEG image</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagine JPEG</translation>
     </message>
     <message>
         <source>GIF image</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagine GIF</translation>
     </message>
     <message>
         <source>SVG vector image</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagine vettoriale SVG</translation>
     </message>
     <message>
         <source>AVI video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video AVI</translation>
     </message>
     <message>
         <source>MOV video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video MOV</translation>
     </message>
     <message>
         <source>3GP video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video 3GP</translation>
     </message>
     <message>
         <source>MKV video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video MKV</translation>
     </message>
     <message>
         <source>WMV video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video WMV</translation>
     </message>
     <message>
         <source>MP3 audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio MP3</translation>
     </message>
     <message>
         <source>OGG audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio OGG</translation>
     </message>
     <message>
         <source>FLAC audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio FLAC</translation>
     </message>
     <message>
         <source>Android application package</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacchetto applicazione Android</translation>
     </message>
     <message>
         <source>RPM package</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacchetto RPM</translation>
     </message>
     <message>
         <source>Text file</source>
-        <translation type="unfinished"></translation>
+        <translation>File di testo</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Installa</translation>
     </message>
     <message>
         <source>ZIP archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivio ZIP</translation>
     </message>
     <message>
         <source>TAR.GZ archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivio TAR.GZ</translation>
     </message>
     <message>
         <source>MP4 video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video MP4</translation>
     </message>
     <message>
         <source>Word 2007 document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento Word 2007</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>sconosciuto</translation>
     </message>
     <message>
         <source>Word document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento Word</translation>
     </message>
     <message>
         <source>Excel spreadsheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Foglio di calcolo Excel</translation>
     </message>
     <message>
         <source>Excel 2007 spreadsheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Foglio di calcolo Excel 2007</translation>
     </message>
     <message>
         <source>PDF document</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento PDF</translation>
     </message>
 </context>
 <context>
     <name>FileOperationPage</name>
     <message>
         <source>Copying files</source>
-        <translation>Copiando archivos</translation>
+        <translation>Copia file</translation>
     </message>
     <message>
         <source>Deleting files</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminazione file</translation>
     </message>
 </context>
 <context>
     <name>FileOrderSettings</name>
     <message>
         <source>File ordering</source>
-        <translation>Orden de archivos</translation>
+        <translation>Ordinamento file</translation>
     </message>
     <message>
         <source>File arrangement order </source>
-        <translation>Ordenación de archivos </translation>
+        <translation>Ordine file </translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>Ordenar por</translation>
+        <translation>Ordina per</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nombre</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Hora</translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Tamaño</translation>
+        <translation>Dimensione</translation>
     </message>
     <message>
         <source>Type</source>
@@ -432,7 +430,7 @@
     </message>
     <message>
         <source>Sort order</source>
-        <translation>Tipo de orden</translation>
+        <translation>Ordine</translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -440,417 +438,417 @@
     </message>
     <message>
         <source>Descending</source>
-        <translation>Descendente</translation>
+        <translation>Discendente</translation>
     </message>
     <message>
         <source>Directory order</source>
-        <translation>Orden de directorio</translation>
+        <translation>Ordine cartella</translation>
     </message>
     <message>
         <source>Display directories first</source>
-        <translation>Mostrar directorios primero</translation>
+        <translation>Visualizza cartelle prima</translation>
     </message>
     <message>
         <source>Display directories last</source>
-        <translation>Mostrar directorios al final</translation>
+        <translation>Visualizza cartelle dopo</translation>
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-        <translation>No ordenar directorios</translation>
+        <translation>Non ordinare le cartelle</translation>
     </message>
 </context>
 <context>
     <name>FileProcess</name>
     <message>
         <source>Opening file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Apertura file...</translation>
     </message>
     <message>
         <source>Installing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Installazione...</translation>
     </message>
     <message>
         <source>Installing packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Installazione pacchetti</translation>
     </message>
     <message>
         <source>Downloading packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Scaricamento pacchetti</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installato</translation>
     </message>
     <message>
         <source>Nothing was done</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna operazione</translation>
     </message>
     <message>
         <source>Installation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installazione fallita</translation>
     </message>
     <message>
         <source>Installation was started</source>
-        <translation type="unfinished"></translation>
+        <translation>Installazione iniziata</translation>
     </message>
     <message>
         <source>Installation couldn&apos;t be started</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile iniziare installazione</translation>
     </message>
     <message>
         <source>File opened</source>
-        <translation type="unfinished"></translation>
+        <translation>File aperto</translation>
     </message>
     <message>
         <source>Suitable application was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicazione adatta non trovata</translation>
     </message>
     <message>
         <source>File couldn&apos;t be opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aprire file</translation>
     </message>
 </context>
 <context>
     <name>FileRenameDialog</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Renombrar</translation>
+        <translation>Rinomina</translation>
     </message>
 </context>
 <context>
     <name>NewFilesDialog</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi</translation>
     </message>
     <message>
         <source>Add new </source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi nuovo </translation>
     </message>
     <message>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>cartella</translation>
     </message>
     <message>
         <source>file</source>
-        <translation type="unfinished"></translation>
+        <translation>file</translation>
     </message>
 </context>
 <context>
     <name>PermissionEdit</name>
     <message>
         <source>Read</source>
-        <translation>Lectura</translation>
+        <translation>Lettura</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Escritura</translation>
+        <translation>Scrittura</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation>Ejecución</translation>
+        <translation>Esecuzione</translation>
     </message>
     <message>
         <source>User permissions</source>
-        <translation>Permisos de usuario</translation>
+        <translation>Permessi utente</translation>
     </message>
     <message>
         <source>Group permissions</source>
-        <translation>Permisos de grupo</translation>
+        <translation>Permessi gruppo</translation>
     </message>
     <message>
         <source>Owner permissions</source>
-        <translation>Permisos de propietario</translation>
+        <translation>Permessi proprietario</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>%1 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 byte</translation>
     </message>
     <message>
         <source>%1 kB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kB</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
 </context>
 <context>
     <name>SearchPage</name>
     <message>
         <source>Searching</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricerca</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca</translation>
     </message>
     <message>
         <source>%1 hits</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 risultati</translation>
     </message>
     <message>
         <source>Go to containing folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai alla cartella contenente</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminazione</translation>
     </message>
 </context>
 <context>
     <name>SearchWorker</name>
     <message>
         <source>Search already in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricerca già in corso</translation>
     </message>
     <message>
         <source>Bad search parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri di ricerca errati</translation>
     </message>
 </context>
 <context>
     <name>SelectionPanel</name>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 selezionati</translation>
     </message>
     <message>
         <source>%1 cut</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 tagliati</translation>
     </message>
     <message>
         <source>%1 copied</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 copiati</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>File ordering</source>
-        <translation>Orden de archivos</translation>
+        <translation>Ordinamento file</translation>
     </message>
     <message>
         <source>File display</source>
-        <translation>Visualización de archivos</translation>
+        <translation>Visualizzazione file</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Traducciones</translation>
+        <translation>Traduzioni</translation>
     </message>
     <message>
         <source>Cache thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Cache anteprime</translation>
     </message>
     <message>
         <source>Fileman translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduzioni Fileman</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Ajustes</translation>
+        <translation>Impostazioni</translation>
     </message>
     <message>
         <source>Fileman settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni Fileman</translation>
     </message>
     <message>
         <source>Fileman information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni Fileman</translation>
     </message>
     <message>
         <source>About Fileman</source>
-        <translation type="unfinished">Acerca de Fileman</translation>
+        <translation>Info su Fileman</translation>
     </message>
     <message>
         <source>Fileman GitHub wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki GitHub Fileman</translation>
     </message>
     <message>
         <source>Fileman Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki Fileman</translation>
     </message>
 </context>
 <context>
     <name>ShareFilesPage</name>
     <message>
         <source>No sharing accounts available!</source>
-        <translation>¡Compartir cuentas no está disponible!</translation>
+        <translation>Nessun account di condivisione!</translation>
     </message>
     <message>
         <source>Note: You can only share one file at a time. Not multiple ones.</source>
-        <translation>Nota: sólo puedes compartir un archivo a la vez. No varios a la vez.</translation>
+        <translation>Puoi condividere solo un file alla volta.</translation>
     </message>
 </context>
 <context>
     <name>ShortcutsView</name>
     <message>
         <source>Places</source>
-        <translation type="unfinished">Lugares</translation>
+        <translation>Cartelle principali</translation>
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Posizioni</translation>
     </message>
     <message>
         <source>Last location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima posizione</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Home</translation>
     </message>
     <message>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Root</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documenti</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>File scaricati</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Musica</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagini</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Android locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Posizioni Android</translation>
     </message>
     <message>
         <source>Android storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Memoria Android</translation>
     </message>
     <message>
         <source>Storage devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivi di memoria</translation>
     </message>
     <message>
         <source>SD card</source>
-        <translation type="unfinished"></translation>
+        <translation>Scheda SD</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Segnalibri</translation>
     </message>
 </context>
 <context>
     <name>TextEdit</name>
     <message>
         <source>Go back</source>
-        <translation>Ir atrás</translation>
+        <translation>Indietro</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Limpiar</translation>
+        <translation>Pulisci</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Guardar</translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <source>Clearing text area</source>
-        <translation>Limpiando área de texto</translation>
+        <translation>Pulizia area di testo</translation>
     </message>
     <message>
         <source>Saving file</source>
-        <translation>Guardando archivo</translation>
+        <translation>Salvataggio file</translation>
     </message>
 </context>
 <context>
     <name>TranslationsPage</name>
     <message>
         <source>Fileman translators</source>
-        <translation>Traductores de Fileman</translation>
+        <translation>Traduttori Fileman</translation>
     </message>
     <message>
         <source>GitHub translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduzioni GitHub</translation>
     </message>
 </context>
 <context>
     <name>Worker</name>
     <message>
         <source>Deleting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminazione file...</translation>
     </message>
     <message>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia file...</translation>
     </message>
     <message>
         <source>Creating directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Creazione cartelle...</translation>
     </message>
     <message>
         <source>Directories couldn&apos;t be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare cartella.</translation>
     </message>
     <message>
         <source>Copying files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia file (%1 di %2)...</translation>
     </message>
     <message>
         <source>All files were copied successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutti i file sono stati copiati.</translation>
     </message>
     <message>
         <source>All files couldn&apos;t be copied successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è stato possibile copiare alcuni file.</translation>
     </message>
     <message>
         <source>Deleting old files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminazione vecchi file (%1 di %2)...</translation>
     </message>
     <message>
         <source>Deleting old directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminazione vecchie cartelle...</translation>
     </message>
     <message>
         <source>All of the files couldn&apos;t be cut and pasted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è stato possibile spostare alcuni file.</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting copied files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile copiare i file, eliminazione nuove copie (%1 di %2)...</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting created directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile copiare i file, eliminazione cartelle create...</translation>
     </message>
     <message>
         <source>Deleting files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminazione file (%1 di %2)...</translation>
     </message>
     <message>
         <source>Deleting directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminazione cartelle...</translation>
     </message>
     <message>
         <source>All files were deleted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutti i file sono stati eliminati.</translation>
     </message>
     <message>
         <source>All files couldn&apos;t be deleted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è stato possibile eliminare alcuni file.</translation>
     </message>
 </context>
 </TS>
