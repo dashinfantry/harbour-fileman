@@ -671,11 +671,11 @@
     </message>
     <message>
         <source>Fileman GitHub wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman GitHub wiki</translation>
     </message>
     <message>
         <source>Fileman Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman Wiki</translation>
     </message>
 </context>
 <context>
@@ -784,6 +784,25 @@
     <message>
         <source>GitHub translations</source>
         <translation>GitHub vertalingen</translation>
+    </message>
+</context>
+<context>
+    <name>Welcome</name>
+    <message>
+        <source>Fileman is a File Manager for Sailfish OS.</source>
+        <translation>Fileman is een bestandsbeheerder voor Sailfish OS.</translation>
+    </message>
+    <message>
+        <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
+        <translation>Fileman is gratis software vrijgegeven onder de GNU General Public License (GPL), versie 3 of nieuwer.</translation>
+    </message>
+    <message>
+        <source>Welcome to Fileman.</source>
+        <translation>Welkom bij Fileman.</translation>
+    </message>
+    <message>
+        <source>If you want to support Fileman and its development please consider donating.</source>
+        <translation>Als je Fileman en zijn ontwikkeling wilt ondersteunen, overweeg dan om te doneren.</translation>
     </message>
 </context>
 <context>

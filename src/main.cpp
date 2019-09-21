@@ -21,6 +21,8 @@ int main(int argc, char *argv[])
     QGuiApplication *app = SailfishApp::application(argc, argv);
     QQuickView *view = SailfishApp::createView();
 
+    qmlRegisterType<Settings>("harbour.fileman.settings",1,0,"SettingsObject");
+
     // Add image providers and C++ classes
     view->engine()->addImageProvider(QLatin1String("thumbnail"), new ThumbnailProvider);
 

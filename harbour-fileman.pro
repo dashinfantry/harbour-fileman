@@ -58,6 +58,7 @@ DISTFILES += \
     qml/pages/settings/FileOrderSettings.qml \
     qml/pages/AboutPage.qml \
     qml/pages/TranslationsPage.qml \
+    qml/pages/Welcome.qml \
     qml/pages/fileView/FileInfo.qml \
     qml/js/imageView.js \
     qml/js/functions.js \

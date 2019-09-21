@@ -787,6 +787,25 @@
     </message>
 </context>
 <context>
+    <name>Welcome</name>
+    <message>
+        <source>Fileman is a File Manager for Sailfish OS.</source>
+        <translation type="unfinished">Fileman är en filhanterare för Sailfish OS.</translation>
+    </message>
+    <message>
+        <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Welcome to Fileman.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want to support Fileman and its development please consider donating.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Worker</name>
     <message>
         <source>Deleting files...</source>
