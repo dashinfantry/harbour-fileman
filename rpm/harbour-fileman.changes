@@ -8,10 +8,10 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
-* Mon Sep 2 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-21
+* Mon Sep 21 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-1
 - [MINOR BUGFIX] Adding search in directory
 - [MINOR BUGFIX] Adding option to adjust overlay
-- [MINOR BUGFIX] Portugees language
+- [ADDED] Italian language
 
 * Fri Aug 30 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.0-20
 - [UPDATE] Updated all translation
