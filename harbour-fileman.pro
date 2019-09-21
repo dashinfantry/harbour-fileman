@@ -3,10 +3,12 @@ TARGET = harbour-fileman
 i18n.path = /usr/share/harbour-fileman/translations
 i18n.files = translations/harbour-fileman-de.qm \
              translations/harbour-fileman-es.qm \
+             translations/harbour-fileman-it.qm \
              translations/harbour-fileman-nl.qm \
              translations/harbour-fileman-fr.qm \
              translations/harbour-fileman-sv.qm \
              translations/harbour-fileman-pl.qm \
+             translations/harbour-fileman-pt_BR.qm \
              translations/harbour-fileman-zh_CN.qm \
              translations/harbour-fileman-fi.qm
 
