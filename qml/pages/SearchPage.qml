@@ -26,11 +26,21 @@ Page {
 
         // react on signals from SearchEngine
         onProgressChanged: page.currentDirectory = directory
-        onMatchFound: listModel.append({ fullname: fullname, filename: filename,
-                                         absoluteDir: absoluteDir,
-                                         fileIcon: fileIcon, fileKind: fileKind,
-                                         isSelected: false
-                                       });
+        onMatchFound: { // fileKind is recognized by statfileinfo.cpp, which gives very generic
+                        // file types, e.g. "-" for any regular file.
+                        // Below is a temporary solution:
+                        if(fileKind === "d") fileKind="directory"
+                        if(fileKind === "-") fileKind="unknown"
+                        var entry=DirectoryViewModel.updateEntry( { fileName: filename,
+                                                                    fileType: fileKind,
+                                                                    fullPath: fullname,
+                                                                    path: absoluteDir
+                                                                  } )
+                        //var fileData = fileInfo.getFileInfo(entry.fullPath)
+                        //console.log("[D]entry fileFormat:"+ fileData.fileFormat)
+                        entry.isSelected=false
+                        listModel.append(entry)
+                      }
         onWorkerDone: { clearCover(); }
         onWorkerErrorOccurred: { clearCover(); notificationPanel.showText(message, filename); }
     }
@@ -173,6 +183,7 @@ Page {
 
                     setSource(qml, {
                         imgsrc: "../images/small-"+fileIcon+".png",
+                      //imgsrc: model.thumbnail,
                         imgw: Theme.iconSizeSmall,
                         imgh: Theme.iconSizeSmall
                     })
@@ -197,7 +208,7 @@ Page {
                 anchors.leftMargin: Theme.paddingMedium
                 anchors.right: parent.right
                 anchors.rightMargin: Theme.paddingLarge
-                text: filename
+                text: fileName
                 textFormat: Text.PlainText
                 elide: Text.ElideRight
                 color: fileItem.highlighted || isSelected ? Theme.highlightColor : Theme.primaryColor
@@ -209,16 +220,18 @@ Page {
                 anchors.right: parent.right
                 anchors.rightMargin: Theme.paddingLarge
                 anchors.top: listLabel.bottom
-                text: absoluteDir
+                text: path
                 color: fileItem.highlighted || isSelected ? Theme.secondaryHighlightColor : Theme.secondaryColor
                 font.pixelSize: Theme.fontSizeExtraSmall
                 elide: Text.ElideLeft
             }
 
             onClicked: {
-                if (model.fileKind === "d")
+                if (model.fileType === "directory")
                     pageStack.push(Qt.resolvedUrl("DirectoryPage.qml"),
-                                   { dir: model.fullname });
+                                   { dir: model.fullPath });
+                else
+                    DirectoryViewModel.openFile(model)
                 //else
                     //pageStack.push(Qt.resolvedUrl("FilePage.qml"),
                                    //{ file: DirectoryViewModel.openFile(model.fileName + model.fullPath)});
@@ -232,19 +245,13 @@ Page {
                 onClicked: {
                     if (!model.isSelected) {
                         _selectedFileCount++;
-                        var item = { fullname: fullname, filename: filename,
-                            absoluteDir: absoluteDir,
-                            fileIcon: fileIcon, fileKind: fileKind,
-                            isSelected: true
-                        };
+                        var item = model
+                        item.isSelected = true
                         fileList.model.set(index, item);
                     } else {
                         _selectedFileCount--;
-                        var item2 = { fullname: fullname, filename: filename,
-                            absoluteDir: absoluteDir,
-                            fileIcon: fileIcon, fileKind: fileKind,
-                            isSelected: false
-                        };
+                        var item2 = model
+                        item2.isSelected = false
                         fileList.model.set(index, item2);
                     }
                     selectionPanel.open = (_selectedFileCount > 0);
@@ -265,7 +272,7 @@ Page {
                      onActiveChanged: { remorsePopup.cancel(); clearSelectedFiles(); }
                      MenuItem {
                          text: qsTr("Go to containing folder")
-                         onClicked: Functions.goToFolder(model.absoluteDir)
+                         onClicked: Functions.goToFolder(model.path)
                      }
                  }
              }
@@ -278,7 +285,7 @@ Page {
         for (var i = 0; i < listModel.count; ++i) {
             var item = listModel.get(i);
             if (item.isSelected)
-                list.push(item.fullname);
+                list.push(item.fullPath);
         }
         return list;
     }
@@ -355,7 +362,7 @@ Page {
         onFileDeleted: {
             for (var i = 0; i < listModel.count; ++i) {
                 var item = listModel.get(i);
-                if (item.fullname === fullname) {
+                if (item.fullPath === fullPath) {
                     listModel.remove(i)
                     return;
                 }
@@ -378,4 +385,3 @@ Page {
         //coverText = qsTr("Search");
     }
 }
-
