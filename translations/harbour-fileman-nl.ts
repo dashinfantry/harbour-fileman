@@ -804,6 +804,10 @@
         <source>If you want to support Fileman and its development please consider donating.</source>
         <translation>Als je Fileman en zijn ontwikkeling wilt ondersteunen, overweeg dan om te doneren.</translation>
     </message>
+    <message>
+        <source>Donate !</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Worker</name>

@@ -4,7 +4,6 @@ import Sailfish.Silica 1.0
 import harbour.fileman.settings 1.0
 import "./components"
 
-
 Dialog {
     id: disclaimer
 
@@ -45,6 +44,11 @@ Dialog {
                 wrapMode: Text.WordWrap
             }
 
+            Item {
+                width: parent.width
+                height: Theme.paddingLarge
+            }
+
             Text {
                 anchors { left: parent.left; right: parent.right; leftMargin: Theme.horizontalPageMargin; rightMargin: Theme.horizontalPageMargin }
                 color: Theme.primaryColor
@@ -58,18 +62,25 @@ Dialog {
                 height: Theme.paddingLarge
             }
 
-            IconTextButton {
-                anchors.horizontalCenter: parent.horizontalCenter
+            Text {
+                anchors { left: parent.left; right: parent.right; leftMargin: Theme.horizontalPageMargin; rightMargin: Theme.horizontalPageMargin }
+                color: Theme.primaryColor
                 font.pixelSize: Theme.fontSizeMedium
                 text: qsTr("If you want to support Fileman and its development please consider donating.")
-                iconSource: "qrc:/images/paypal"
-                onClicked: { Qt.openUrlExternally("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=29THE9VFMZ4PS");
-                }
+                wrapMode: Text.WordWrap
             }
 
             Item {
                 width: parent.width
                 height: Theme.paddingLarge
+            }
+
+            Button
+            {
+                id: donatebutton
+                text: qsTr("Donate !")
+                anchors.horizontalCenter: parent.horizontalCenter
+                onClicked: Qt.openUrlExternally("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=29THE9VFMZ4PS")
             }
         }
     }
