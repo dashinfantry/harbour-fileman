@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="pl" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -57,11 +55,11 @@
     </message>
     <message>
         <source>GitHub Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Repozytorium na GitHubie</translation>
     </message>
     <message>
         <source>Report an Issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgłoś błąd</translation>
     </message>
 </context>
 <context>
@@ -134,39 +132,39 @@
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>Global search</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukiwanie globalne</translation>
     </message>
     <message>
         <source>Show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż nagłówek strony</translation>
     </message>
     <message>
         <source>Don&apos;t show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie pokazuj nagłówka strony</translation>
     </message>
     <message>
         <source>Show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż ukryte pliki</translation>
     </message>
     <message>
         <source>Don&apos;t show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie pokazuj ukrytych plików</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy...</translation>
     </message>
     <message>
         <source>Places</source>
-        <translation type="unfinished">Miejsca</translation>
+        <translation>Miejsca</translation>
     </message>
     <message>
         <source>Search in directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj w katalogu</translation>
     </message>
 </context>
 <context>
@@ -227,7 +225,7 @@
     </message>
     <message>
         <source>Overlay visibility (seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>Widoczność nakładki (w sekundach)</translation>
     </message>
 </context>
 <context>
@@ -366,27 +364,27 @@
     </message>
     <message>
         <source>Word 2007 document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument Word 2007</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>nieznany</translation>
     </message>
     <message>
         <source>Word document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument Word</translation>
     </message>
     <message>
         <source>Excel spreadsheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkusz kalkulacyjny Excel</translation>
     </message>
     <message>
         <source>Excel 2007 spreadsheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkusz kalkulacyjny Excel 2007</translation>
     </message>
     <message>
         <source>PDF document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument PDF</translation>
     </message>
 </context>
 <context>
@@ -671,11 +669,11 @@
     </message>
     <message>
         <source>Fileman GitHub wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki Fileman&apos;a na GitHubie</translation>
     </message>
     <message>
         <source>Fileman Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki Fileman&apos;a</translation>
     </message>
 </context>
 <context>
@@ -737,11 +735,11 @@
     </message>
     <message>
         <source>Android storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamięć Androida</translation>
     </message>
     <message>
         <source>Storage devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Urządzenia przechowywania danych</translation>
     </message>
     <message>
         <source>SD card</source>
@@ -783,30 +781,30 @@
     </message>
     <message>
         <source>Transifex Fileman project</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt Fileman na Transifex&apos;ie</translation>
     </message>
 </context>
 <context>
     <name>Welcome</name>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation type="unfinished">Fileman jest managerem plików dla SailfishOS</translation>
+        <translation>Fileman jest przeglądarką plików na Sailfish OS.</translation>
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman jest wolnym oprogramowaniem na licencji GNU General Public License (GPL) wersji 3 lub nowszej.</translation>
     </message>
     <message>
         <source>Welcome to Fileman.</source>
-        <translation type="unfinished"></translation>
+        <translation>Witaj w Fileman&apos;ie!</translation>
     </message>
     <message>
         <source>If you want to support Fileman and its development please consider donating.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli podoba ci się Fileman i jego rozwój, możesz wesprzeć jego twórcę.</translation>
     </message>
     <message>
         <source>Donate !</source>
-        <translation type="unfinished"></translation>
+        <translation>Wesprzyj!</translation>
     </message>
 </context>
 <context>

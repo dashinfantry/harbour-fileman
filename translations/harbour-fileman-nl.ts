@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="nl">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="nl" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -783,7 +781,7 @@
     </message>
     <message>
         <source>Transifex Fileman project</source>
-        <translation>Transifex Fileman-project</translation>
+        <translation>Transifex Fileman project</translation>
     </message>
 </context>
 <context>
@@ -806,7 +804,7 @@
     </message>
     <message>
         <source>Donate !</source>
-        <translation type="unfinished"></translation>
+        <translation>Doneer !</translation>
     </message>
 </context>
 <context>

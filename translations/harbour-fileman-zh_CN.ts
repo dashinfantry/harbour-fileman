@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_CN" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -783,30 +781,30 @@
     </message>
     <message>
         <source>Transifex Fileman project</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman  的 Transifex  项目页</translation>
     </message>
 </context>
 <context>
     <name>Welcome</name>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation type="unfinished">Fileman 是一个旗鱼系统文件管理器。</translation>
+        <translation>Fileman 是一个旗鱼系统文件管理器。</translation>
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman 是GNU通用公共许可证（GPL），版本3或更高版本下发布的免费软件。</translation>
     </message>
     <message>
         <source>Welcome to Fileman.</source>
-        <translation type="unfinished"></translation>
+        <translation>欢迎使用 Fileman 。</translation>
     </message>
     <message>
         <source>If you want to support Fileman and its development please consider donating.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你想支持 Fileman 的开发，不妨考虑捐赠。</translation>
     </message>
     <message>
         <source>Donate !</source>
-        <translation type="unfinished"></translation>
+        <translation>捐赠！</translation>
     </message>
 </context>
 <context>
