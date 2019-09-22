@@ -1,9 +1,9 @@
 import QtQuick 2.2
-import QtQuick 2.2
 import Sailfish.Silica 1.0
-import Sailfish.Media 1.0
 import QtMultimedia 5.0
+import Sailfish.Media 1.0
 import Nemo.Thumbnailer 1.0
+import org.nemomobile.mpris 1.0
 
 Flickable {
     id: fileView
