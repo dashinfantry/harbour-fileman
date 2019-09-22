@@ -8,7 +8,7 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
-* Sun Sep 22 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-2
+* Mon Sep 23 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-2
 - [MINOR BUGFIX] Added fix to view file details of search results, thanks to sargo-devel for the PR
 - [MINOR BUGFIX] Adding welcome page
 - [MINOR BUGFIX] Rewrite internal video player can play now also mp4
