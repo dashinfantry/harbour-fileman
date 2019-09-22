@@ -44,9 +44,8 @@ Flickable {
         onPlaybackStateChanged: if (playbackState == MediaPlayer.StoppedState) screenClicked()
     }
 
-    // VideoOutput in QtMultimedia doesn't work yet, so use GStreamerVideoOutput instead
-    GStreamerVideoOutput {
-        id: videoOutput
+    VideoOutput {
+        id: output
         source: video
 
         width: parent.width

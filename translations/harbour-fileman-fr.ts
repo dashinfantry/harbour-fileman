@@ -782,8 +782,8 @@
         <translation>Traducteurs Fileman</translation>
     </message>
     <message>
-        <source>GitHub translations</source>
-        <translation>Traductions GitHub</translation>
+        <source>Transifex Fileman project</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

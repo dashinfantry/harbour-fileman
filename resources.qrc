@@ -27,4 +27,27 @@
         <file alias="bookmarks">data/icons/go-bookmarks.svg</file>
         <file alias="up">data/icons/go-up.svg</file>
     </qresource>
+    <qresource prefix="/">
+        <file>qml/images/large-file-apk.png</file>
+        <file>qml/images/large-file-audio.png</file>
+        <file>qml/images/large-file-image.png</file>
+        <file>qml/images/large-file-rpm.png</file>
+        <file>qml/images/large-file-txt.png</file>
+        <file>qml/images/large-file-video.png</file>
+        <file>qml/images/large-file.png</file>
+        <file>qml/images/large-link.png</file>
+        <file>qml/images/small-file-apk.png</file>
+        <file>qml/images/small-file-audio.png</file>
+        <file>qml/images/small-file-image.png</file>
+        <file>qml/images/small-file-rpm.png</file>
+        <file>qml/images/small-file-text.png</file>
+        <file>qml/images/small-file-txt.png</file>
+        <file>qml/images/small-file-video.png</file>
+        <file>qml/images/small-file.png</file>
+        <file>qml/images/small-link.png</file>
+        <file>qml/images/toolbar-copy.png</file>
+        <file>qml/images/toolbar-cut.png</file>
+        <file>qml/images/toolbar-properties.png</file>
+        <file>qml/images/toolbar-select-all.png</file>
+    </qresource>
 </RCC>
