@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="nl" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="nl">
 <context>
     <name>AboutPage</name>
     <message>
@@ -805,6 +807,10 @@
     <message>
         <source>Donate !</source>
         <translation>Doneer !</translation>
+    </message>
+    <message>
+        <source>Thank you very much for your donation to the development of Fileman!</source>
+        <translation>Hartelijk dank voor uw donatie aan de ontwikkeling van Fileman!</translation>
     </message>
 </context>
 <context>

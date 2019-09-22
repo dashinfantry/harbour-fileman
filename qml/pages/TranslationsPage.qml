@@ -34,35 +34,47 @@ Page
                 id: pageheader
                 title: qsTr("Fileman translators")
             }
+            
+            CollaboratorsLabel {
+                title: "Chinese"
+                labelData: [ "Dashinfantry" ]
+            }            
+
+            CollaboratorsLabel {
+                title: "French"
+                labelData: [ "Arusekk" ]
+            }
+            
+            CollaboratorsLabel {
+                title: "German"
+                labelData: [ "Arusekk" ]
+            }
+            
+            CollaboratorsLabel {
+                title: "Italian"
+                labelData: [ "Fravaccaro" ]
+            }            
 
             CollaboratorsLabel {
                 title: "Portugees"
                 labelData: [ "Rafaelvlmendes" ]
             }
-            CollaboratorsLabel {
-                title: "Chinese"
-                labelData: [ "Dashinfantry" ]
-            }
+
             CollaboratorsLabel {
                 title: "Spanish"
                 labelData: [ "Carmenfdezb" ]
             }
-            CollaboratorsLabel {
-                title: "German"
-                labelData: [ "Inta" ]
-            }
+
             CollaboratorsLabel {
                 title: "Swedish"
                 labelData: [ "Eson" ]
             }
+
             CollaboratorsLabel {
                 title: "Polish"
                 labelData: [ "Atlochowski" ]
             }
-            CollaboratorsLabel {
-                title: "Italian"
-                labelData: [ "Fravaccaro" ]
-            }
+
             CollaboratorsLabel {
                 title: "Portuguese (Brazil)"
                 labelData: [ "Marreko" ]

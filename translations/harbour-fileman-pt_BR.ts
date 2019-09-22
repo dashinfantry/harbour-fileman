@@ -810,6 +810,10 @@
         <source>Donate !</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Thank you very much for your donation to the development of Fileman!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Worker</name>

@@ -82,6 +82,19 @@ Dialog {
                 anchors.horizontalCenter: parent.horizontalCenter
                 onClicked: Qt.openUrlExternally("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=29THE9VFMZ4PS")
             }
+
+            Item {
+                width: parent.width
+                height: Theme.paddingLarge
+            }
+
+            Text {
+                anchors { left: parent.left; right: parent.right; leftMargin: Theme.horizontalPageMargin; rightMargin: Theme.horizontalPageMargin }
+                color: Theme.primaryColor
+                font.pixelSize: Theme.fontSizeMedium
+                text: qsTr("Thank you very much for your donation to the development of Fileman!")
+                wrapMode: Text.WordWrap
+            }
         }
     }
 
