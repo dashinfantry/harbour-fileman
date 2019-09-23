@@ -8,6 +8,13 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Thu Sep 24 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-4
+- [MINOR BUGFIX] Rework the donation page and removed welcome page 
+- [UPDATE] Languages update
+
+* Mon Sep 23 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-3
+- [UPDATE] Languages update
+
 * Mon Sep 23 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-2
 - [MINOR BUGFIX] Added fix to view file details of search results, thanks to sargo-devel for the PR
 - [MINOR BUGFIX] Adding welcome page

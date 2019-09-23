@@ -203,11 +203,11 @@
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Fileman is een File Manager voor Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt; Fileman is gratis software vrijgegeven onder de GNU General Public License (GPL), versie 3 of hoger.&lt;br&gt;&lt;br&gt; Als u Fileman en de ontwikkeling ervan wilt ondersteunen, overweeg dan om te doneren.&lt;br&gt;&lt;br&gt; Hartelijk dank voor uw donatie aan de ontwikkeling van Fileman!</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet meer tonen</translation>
     </message>
 </context>
 <context>
