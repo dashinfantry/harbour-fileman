@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="de" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -134,39 +132,39 @@
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Einstellungen</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Global search</source>
-        <translation type="unfinished"></translation>
+        <translation>Globales Suchen</translation>
     </message>
     <message>
         <source>Show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenkopf anzeigen</translation>
     </message>
     <message>
         <source>Don&apos;t show page header</source>
-        <translation type="unfinished"></translation>
+        <translation>Sitenkopf verstecken</translation>
     </message>
     <message>
         <source>Show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Versteckte Dateien anzeigen</translation>
     </message>
     <message>
         <source>Don&apos;t show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine versteckten Dateien anzeigen</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation type="unfinished"></translation>
+        <translation>Neu...</translation>
     </message>
     <message>
         <source>Places</source>
-        <translation type="unfinished">Orte</translation>
+        <translation>Orte</translation>
     </message>
     <message>
         <source>Search in directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche im Verzeichnis</translation>
     </message>
 </context>
 <context>
@@ -783,34 +781,34 @@
     </message>
     <message>
         <source>Transifex Fileman project</source>
-        <translation type="unfinished"></translation>
+        <translation>Transifex Fileman-Projekt</translation>
     </message>
 </context>
 <context>
     <name>Welcome</name>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation type="unfinished">Fileman ist ein Datei-Manager für Sailfish OS.</translation>
+        <translation>Fileman ist ein Datei-Manager für Sailfish OS.</translation>
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman ist freie Software, die unter der GNU General Public License (GPL), Version 3 oder höher, veröffentlicht wird.</translation>
     </message>
     <message>
         <source>Welcome to Fileman.</source>
-        <translation type="unfinished"></translation>
+        <translation>Willkommen bei Fileman.</translation>
     </message>
     <message>
         <source>If you want to support Fileman and its development please consider donating.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn du Fileman und seine Entwicklung unterstützen möchtest, solltest du eine Spende in Betracht ziehen.</translation>
     </message>
     <message>
         <source>Donate !</source>
-        <translation type="unfinished"></translation>
+        <translation>Spenden!</translation>
     </message>
     <message>
         <source>Thank you very much for your donation to the development of Fileman!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vielen Dank für deine Spende zur Entwicklung von Fileman!</translation>
     </message>
 </context>
 <context>
