@@ -38,7 +38,7 @@ Page {
         rows: isPortrait ? 3 : 1
 
         PlainButton {
-            text: "Donate!"
+            text: qsTr("Donate!")
             onClicked: Qt.openUrlExternally("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=29THE9VFMZ4PS")
         }
 

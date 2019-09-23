@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="nl">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="nl" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -208,6 +206,10 @@
     <message>
         <source>Don&apos;t show again</source>
         <translation>Niet meer tonen</translation>
+    </message>
+    <message>
+        <source>Donate!</source>
+        <translation>Donate!</translation>
     </message>
 </context>
 <context>

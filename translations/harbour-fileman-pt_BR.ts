@@ -210,6 +210,10 @@
         <source>Don&apos;t show again</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Donate!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileDisplay</name>
