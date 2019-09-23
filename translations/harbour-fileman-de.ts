@@ -200,6 +200,17 @@
     </message>
 </context>
 <context>
+    <name>Disclaimer</name>
+    <message>
+        <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileDisplay</name>
     <message>
         <source>File display</source>
@@ -784,33 +795,6 @@
     <message>
         <source>Transifex Fileman project</source>
         <translation>Transifex Fileman-Projekt</translation>
-    </message>
-</context>
-<context>
-    <name>Welcome</name>
-    <message>
-        <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation>Fileman ist ein Datei-Manager für Sailfish OS.</translation>
-    </message>
-    <message>
-        <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation>Fileman ist freie Software, die unter der GNU General Public License (GPL), Version 3 oder höher, veröffentlicht wird.</translation>
-    </message>
-    <message>
-        <source>Welcome to Fileman.</source>
-        <translation>Willkommen bei Fileman.</translation>
-    </message>
-    <message>
-        <source>If you want to support Fileman and its development please consider donating.</source>
-        <translation>Wenn du Fileman und seine Entwicklung unterstützen möchtest, solltest du eine Spende in Betracht ziehen.</translation>
-    </message>
-    <message>
-        <source>Donate !</source>
-        <translation>Spenden!</translation>
-    </message>
-    <message>
-        <source>Thank you very much for your donation to the development of Fileman!</source>
-        <translation>Vielen Dank für deine Spende zur Entwicklung von Fileman!</translation>
     </message>
 </context>
 <context>

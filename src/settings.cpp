@@ -9,6 +9,14 @@ Settings::Settings(QObject *parent) :
 
     settings = new QSettings("Fileman", "Fileman");
 
+    QString key(QString("Launches"));
+
+    auto current = settings->value(key, 0).toUInt();
+    if (current < 10)
+    {
+        settings->setValue(key, current + 1);
+    }
+
     // Get stored values
     if (settings->contains("dirPath"))
         m_dirPath = settings->value("dirPath").toString();
@@ -82,19 +90,22 @@ Settings::Settings(QObject *parent) :
 }
 
 
-void Settings::clean_conf() {
-    if(settings->contains(QString("accepted")))
-        settings->remove(QString("accepted"));
+bool Settings::showdisclaimer() const
+{
+    if (settings->value(QString("DisclaimerSeen"), false).toBool())
+    {
+        return false;
+    }
+
+    auto launches = settings->value(QString("Launches"), 0).toUInt();
+
+    return launches >= 10;
 }
 
-void Settings::set_accepted_status(const bool &accepted) {
-    settings->setValue(QString("disclaimer/accepted"),QVariant(accepted).toString());
+void Settings::setDisclaimerShowed()
+{
+    settings->setValue(QString("DisclaimerSeen"), true);
 }
-
-bool Settings::get_accepted_status() {
-    return settings->value(QString("disclaimer/accepted"),QVariant(false)).toBool();
-}
-
 
 void Settings::loadBookmarks()
 {

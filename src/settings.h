@@ -41,9 +41,8 @@ public:
     QSettings *settings;
 
     // Disclaimer
-    Q_INVOKABLE void clean_conf();
-    Q_INVOKABLE void set_accepted_status(const bool &accepted);
-    Q_INVOKABLE bool get_accepted_status();
+    Q_INVOKABLE bool showdisclaimer() const;
+    Q_INVOKABLE void setDisclaimerShowed();
 
     // Bookmarks
     Q_INVOKABLE QVariant getBookmarks();

@@ -200,6 +200,17 @@
     </message>
 </context>
 <context>
+    <name>Disclaimer</name>
+    <message>
+        <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileDisplay</name>
     <message>
         <source>File display</source>
@@ -784,33 +795,6 @@
     <message>
         <source>Transifex Fileman project</source>
         <translation>Transifex Fileman project</translation>
-    </message>
-</context>
-<context>
-    <name>Welcome</name>
-    <message>
-        <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation>Fileman is een bestandsbeheerder voor Sailfish OS.</translation>
-    </message>
-    <message>
-        <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation>Fileman is gratis software vrijgegeven onder de GNU General Public License (GPL), versie 3 of nieuwer.</translation>
-    </message>
-    <message>
-        <source>Welcome to Fileman.</source>
-        <translation>Welkom bij Fileman.</translation>
-    </message>
-    <message>
-        <source>If you want to support Fileman and its development please consider donating.</source>
-        <translation>Als je Fileman en zijn ontwikkeling wilt ondersteunen, overweeg dan om te doneren.</translation>
-    </message>
-    <message>
-        <source>Donate !</source>
-        <translation>Doneer !</translation>
-    </message>
-    <message>
-        <source>Thank you very much for your donation to the development of Fileman!</source>
-        <translation>Hartelijk dank voor uw donatie aan de ontwikkeling van Fileman!</translation>
     </message>
 </context>
 <context>

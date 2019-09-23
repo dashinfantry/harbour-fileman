@@ -200,6 +200,17 @@
     </message>
 </context>
 <context>
+    <name>Disclaimer</name>
+    <message>
+        <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileDisplay</name>
     <message>
         <source>File display</source>
@@ -783,33 +794,6 @@
     </message>
     <message>
         <source>Transifex Fileman project</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Welcome</name>
-    <message>
-        <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation type="unfinished">Fileman is a File Manager for Sailfish OS.</translation>
-    </message>
-    <message>
-        <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Welcome to Fileman.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you want to support Fileman and its development please consider donating.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Donate !</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Thank you very much for your donation to the development of Fileman!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -58,7 +58,7 @@ DISTFILES += \
     qml/pages/settings/FileOrderSettings.qml \
     qml/pages/AboutPage.qml \
     qml/pages/TranslationsPage.qml \
-    qml/pages/Welcome.qml \
+    qml/pages/Disclaimer.qml \
     qml/pages/fileView/FileInfo.qml \
     qml/js/imageView.js \
     qml/js/functions.js \
@@ -72,6 +72,7 @@ DISTFILES += \
     qml/pages/components/InteractionBlocker.qml \
     qml/pages/components/Spacer.qml \
     qml/pages/components/MyHighlightImage3.qml \
+    qml/pages/components/PlainButton.qml \
     qml/pages/fileView/Image.qml \
     qml/pages/fileView/Video.qml \
     qml/pages/fileView/Text.qml \

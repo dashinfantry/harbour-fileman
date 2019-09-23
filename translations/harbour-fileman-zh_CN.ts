@@ -200,6 +200,17 @@
     </message>
 </context>
 <context>
+    <name>Disclaimer</name>
+    <message>
+        <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileDisplay</name>
     <message>
         <source>File display</source>
@@ -784,33 +795,6 @@
     <message>
         <source>Transifex Fileman project</source>
         <translation>Fileman  的 Transifex  项目页</translation>
-    </message>
-</context>
-<context>
-    <name>Welcome</name>
-    <message>
-        <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation>Fileman 是一个旗鱼系统文件管理器。</translation>
-    </message>
-    <message>
-        <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation>Fileman 是GNU通用公共许可证（GPL），版本3或更高版本下发布的免费软件。</translation>
-    </message>
-    <message>
-        <source>Welcome to Fileman.</source>
-        <translation>欢迎使用 Fileman 。</translation>
-    </message>
-    <message>
-        <source>If you want to support Fileman and its development please consider donating.</source>
-        <translation>如果你想支持 Fileman 的开发，不妨考虑捐赠。</translation>
-    </message>
-    <message>
-        <source>Donate !</source>
-        <translation>捐赠！</translation>
-    </message>
-    <message>
-        <source>Thank you very much for your donation to the development of Fileman!</source>
-        <translation>感谢你进行捐赠以支持 Fileman  的开发！</translation>
     </message>
 </context>
 <context>
