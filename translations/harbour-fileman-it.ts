@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="it">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="it" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -783,34 +781,34 @@
     </message>
     <message>
         <source>Transifex Fileman project</source>
-        <translation type="unfinished"></translation>
+        <translation>Progetto Transifex Fileman</translation>
     </message>
 </context>
 <context>
     <name>Welcome</name>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation type="unfinished">Fileman è un gestore file per Sailfish OS.</translation>
+        <translation>Fileman è un gestore file per Sailfish OS.</translation>
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman è un software gratuito rilasciato sotto licenza GNU General Public License (GPL), versione 3 o successiva.</translation>
     </message>
     <message>
         <source>Welcome to Fileman.</source>
-        <translation type="unfinished"></translation>
+        <translation>Benvenuto in Fileman.</translation>
     </message>
     <message>
         <source>If you want to support Fileman and its development please consider donating.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se vuoi supportare Fileman e il suo sviluppo considera una donazione.</translation>
     </message>
     <message>
         <source>Donate !</source>
-        <translation type="unfinished"></translation>
+        <translation>Dona!</translation>
     </message>
     <message>
         <source>Thank you very much for your donation to the development of Fileman!</source>
-        <translation type="unfinished"></translation>
+        <translation>Grazie per la tua donazione per lo sviluppo di Fileman!</translation>
     </message>
 </context>
 <context>

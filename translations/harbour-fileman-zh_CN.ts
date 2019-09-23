@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_CN" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -810,7 +808,7 @@
     </message>
     <message>
         <source>Thank you very much for your donation to the development of Fileman!</source>
-        <translation type="unfinished"></translation>
+        <translation>感谢你进行捐赠以支持 Fileman  的开发！</translation>
     </message>
 </context>
 <context>
