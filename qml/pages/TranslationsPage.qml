@@ -56,8 +56,8 @@ Page
             }            
 
             CollaboratorsLabel {
-                title: "Portugees"
-                labelData: [ "Rafaelvlmendes" ]
+                title: "Portuguese Brazil"
+                labelData: [ "Rafael Vinicius" ]
             }
 
             CollaboratorsLabel {

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="pt_BR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -204,15 +202,15 @@
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;O Fileman é um gerenciador de arquivos para o sistema operacional SailfishOS&lt;/b&gt;&lt;br&gt;&lt;br&gt;. Fileman é um software gratuito lançado sob a GNU General Public License (GPL), versão 3 ou posterior&lt;br&gt;&lt;br&gt;. Se você deseja dar suporte ao Fileman e seu desenvolvimento, por favor considere fazer uma doação.&lt;br&gt;&lt;br&gt; Muito obrigado pela sua doação ao desenvolvimento do Fileman!</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Não mostrar novamente</translation>
     </message>
     <message>
         <source>Donate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Doar!</translation>
     </message>
 </context>
 <context>
@@ -721,152 +719,152 @@
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Home</translation>
     </message>
     <message>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Root</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Downloads</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Música</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotos</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Vídeos</translation>
     </message>
     <message>
         <source>Android locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizações Android</translation>
     </message>
     <message>
         <source>Android storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Android storage</translation>
     </message>
     <message>
         <source>Storage devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivos de armazenamento</translation>
     </message>
     <message>
         <source>SD card</source>
-        <translation type="unfinished"></translation>
+        <translation>SD card</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Favoritos</translation>
     </message>
 </context>
 <context>
     <name>TextEdit</name>
     <message>
         <source>Go back</source>
-        <translation type="unfinished"></translation>
+        <translation>Volte</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar</translation>
     </message>
     <message>
         <source>Clearing text area</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpando a área de texto</translation>
     </message>
     <message>
         <source>Saving file</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvando arquivo</translation>
     </message>
 </context>
 <context>
     <name>TranslationsPage</name>
     <message>
         <source>Fileman translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Tradutor em Phil</translation>
     </message>
     <message>
         <source>Transifex Fileman project</source>
-        <translation type="unfinished"></translation>
+        <translation>Projeto Fileman do transifex</translation>
     </message>
 </context>
 <context>
     <name>Worker</name>
     <message>
         <source>Deleting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluindo arquivos ...</translation>
     </message>
     <message>
         <source>Copying files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando arquivos ...</translation>
     </message>
     <message>
         <source>Creating directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Criando diretórios ...</translation>
     </message>
     <message>
         <source>Directories couldn&apos;t be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretórios não puderam ser criados.</translation>
     </message>
     <message>
         <source>Copying files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando arquivos (%1 de %2) ...</translation>
     </message>
     <message>
         <source>All files were copied successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os arquivos foram copiados com sucesso.</translation>
     </message>
     <message>
         <source>All files couldn&apos;t be copied successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os arquivos não puderam ser copiados com sucesso.</translation>
     </message>
     <message>
         <source>Deleting old files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluindo arquivos antigos (%1 de %2) ...</translation>
     </message>
     <message>
         <source>Deleting old directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluindo diretórios antigos ...</translation>
     </message>
     <message>
         <source>All of the files couldn&apos;t be cut and pasted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível cortar e colar todos os arquivos.</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting copied files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao copiar todos os arquivos, excluindo arquivos copiados (%1 de %2) ...</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting created directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao copiar todos os arquivos, excluindo diretórios criados ...</translation>
     </message>
     <message>
         <source>Deleting files (%1 of %2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluindo arquivos (%1 de %2) ...</translation>
     </message>
     <message>
         <source>Deleting directories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluindo diretórios ...</translation>
     </message>
     <message>
         <source>All files were deleted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os arquivos foram excluídos com sucesso.</translation>
     </message>
     <message>
         <source>All files couldn&apos;t be deleted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível excluir todos os arquivos com sucesso.</translation>
     </message>
 </context>
 </TS>
