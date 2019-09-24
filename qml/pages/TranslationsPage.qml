@@ -47,7 +47,7 @@ Page
             
             CollaboratorsLabel {
                 title: "German"
-                labelData: [ "Arusekk" ]
+                labelData: [ "Arusekk, Inta" ]
             }
             
             CollaboratorsLabel {
