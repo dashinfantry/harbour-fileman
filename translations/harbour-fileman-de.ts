@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="de">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="de" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -138,7 +136,7 @@
     </message>
     <message>
         <source>Global search</source>
-        <translation>Globales Suchen</translation>
+        <translation>Globale Suche</translation>
     </message>
     <message>
         <source>Show page header</source>
@@ -158,7 +156,7 @@
     </message>
     <message>
         <source>New...</source>
-        <translation>Neu...</translation>
+        <translation>Neu …</translation>
     </message>
     <message>
         <source>Places</source>
@@ -203,15 +201,15 @@
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Fileman ist ein Datei-Manager für Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman ist freie Software, die unter der GNU General Public License (GPL), Version 3 oder höher, veröffentlicht wird.&lt;br&gt;&lt;br&gt;Wenn du Fileman und seine Entwicklung unterstützen möchtest, solltest du eine Spende in Betracht ziehen.&lt;br&gt;&lt;br&gt;Vielen Dank für deine Spende zur Entwicklung von Fileman!</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht mehr anzeigen</translation>
     </message>
     <message>
         <source>Donate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Spenden!</translation>
     </message>
 </context>
 <context>
@@ -805,27 +803,27 @@
     <name>WelcomePage</name>
     <message>
         <source>Welcome to Fileman.</source>
-        <translation type="unfinished"></translation>
+        <translation>Willkommen bei Fileman.</translation>
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation type="unfinished">Fileman ist ein Datei-Manager für Sailfish OS.</translation>
+        <translation>Fileman ist ein Datei-Manager für Sailfish OS.</translation>
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman ist freie Software, die unter der GNU General Public License (GPL), Version 3 oder höher, veröffentlicht wird.</translation>
     </message>
     <message>
         <source>If you want to support Fileman and its development please consider donating.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn du Fileman und seine Entwicklung unterstützen möchtest, solltest du eine Spende in Betracht ziehen.</translation>
     </message>
     <message>
         <source>Thank you very much for your donation to the development of Fileman!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vielen Dank für deine Spende zur Entwicklung von Fileman!</translation>
     </message>
     <message>
         <source>Donate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Spenden!</translation>
     </message>
 </context>
 <context>
