@@ -203,15 +203,15 @@
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Fileman jest Managerem Plików dla SailfishOS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman jest wolnym oprogramowaniem wydanym na licencji GNU General Public (GPL), w wersji 3 lub późniejszej.&lt;br&gt;&lt;br&gt;Jeśli chcesz wesprzeć Filemana i jego rozwój, rozważ darowiznę.&lt;br&gt;&lt;br&gt;Bardzo dziękuję za darowiznę na rozwój Fileman!</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie pokazuj tego ponownie</translation>
     </message>
     <message>
         <source>Donate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Wspomóż!</translation>
     </message>
 </context>
 <context>
@@ -805,27 +805,27 @@
     <name>WelcomePage</name>
     <message>
         <source>Welcome to Fileman.</source>
-        <translation type="unfinished"></translation>
+        <translation>Witaj w Fileman.</translation>
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation type="unfinished">Fileman jest managerem plików dla SailfishOS</translation>
+        <translation>Fileman jest managerem plików dla SailfishOS</translation>
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman to darmowe oprogramowanie wydane na licencji GNU General Public License (GPL), wersja 3 lub nowsza.</translation>
     </message>
     <message>
         <source>If you want to support Fileman and its development please consider donating.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli chcesz wesprzeć Filemana i jego rozwój, rozważ darowiznę.</translation>
     </message>
     <message>
         <source>Thank you very much for your donation to the development of Fileman!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bardzo dziękuję za darowiznę na rozwój Fileman!</translation>
     </message>
     <message>
         <source>Donate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Wspomóż!</translation>
     </message>
 </context>
 <context>
