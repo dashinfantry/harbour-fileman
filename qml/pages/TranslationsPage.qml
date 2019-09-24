@@ -74,11 +74,6 @@ Page
                 title: "Polish"
                 labelData: [ "Atlochowski" ]
             }
-
-            CollaboratorsLabel {
-                title: "Portuguese (Brazil)"
-                labelData: [ "Marreko" ]
-            }
         }
     }
 }

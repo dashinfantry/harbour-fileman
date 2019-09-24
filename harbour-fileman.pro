@@ -91,6 +91,7 @@ DISTFILES += \
     qml/pages/fileView/TextEdit.qml \
     qml/pages/ShareFilesPage.qml \
     qml/pages/SearchPage.qml \
+    qml/pages/WelcomePage.qml \
     translations/*.ts
 
 HEADERS += \

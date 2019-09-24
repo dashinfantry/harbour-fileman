@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="nl" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="nl">
 <context>
     <name>AboutPage</name>
     <message>
@@ -797,6 +799,33 @@
     <message>
         <source>Transifex Fileman project</source>
         <translation>Transifex Fileman project</translation>
+    </message>
+</context>
+<context>
+    <name>WelcomePage</name>
+    <message>
+        <source>Welcome to Fileman.</source>
+        <translation>Welkom bij Fileman.</translation>
+    </message>
+    <message>
+        <source>Fileman is a File Manager for Sailfish OS.</source>
+        <translation>Fileman is een File Manager voor Sailfish OS.</translation>
+    </message>
+    <message>
+        <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
+        <translation>Fileman is gratis software uitgegeven onder de GNU General Public License (GPL), versie 3 of hoger.</translation>
+    </message>
+    <message>
+        <source>If you want to support Fileman and its development please consider donating.</source>
+        <translation>Als je Fileman en zijn ontwikkeling wilt ondersteunen, overweeg dan om te doneren.</translation>
+    </message>
+    <message>
+        <source>Thank you very much for your donation to the development of Fileman!</source>
+        <translation>Hartelijk dank voor uw donatie voor de ontwikkeling van Fileman!</translation>
+    </message>
+    <message>
+        <source>Donate!</source>
+        <translation>Doneer!</translation>
     </message>
 </context>
 <context>

@@ -9,7 +9,9 @@
 # - Summary of changes
 
 * Thu Sep 24 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-4
-- [MINOR BUGFIX] Rework the donation page and removed welcome page 
+- [MINOR BUGFIX] Rework welcome page
+- [MINOR BUGFIX] Rework the donation page  
+- [UPDATE] Translation page 
 - [UPDATE] Languages update
 
 * Mon Sep 23 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-3

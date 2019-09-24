@@ -802,6 +802,33 @@
     </message>
 </context>
 <context>
+    <name>WelcomePage</name>
+    <message>
+        <source>Welcome to Fileman.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fileman is a File Manager for Sailfish OS.</source>
+        <translation type="unfinished">Fileman is a File Manager for Sailfish OS.</translation>
+    </message>
+    <message>
+        <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you want to support Fileman and its development please consider donating.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thank you very much for your donation to the development of Fileman!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Worker</name>
     <message>
         <source>Deleting files...</source>

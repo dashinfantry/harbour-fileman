@@ -9,6 +9,23 @@ Page {
     allowedOrientations: Orientation.All
 
     property bool appStarted: false
+    property bool accepted: settings.get_accepted_status()
+
+    SettingsObject {
+        id: settings
+    }
+
+    Timer {
+        interval: 50
+        running: accepted && !updated ? false : true
+        repeat: true
+        triggeredOnStart: true
+        onTriggered: { stop()
+            settings.clean_conf()
+            console.log("accepted "+accepted)
+            pageStack.push(Qt.resolvedUrl("WelcomePage.qml"))
+        }
+    }
 
     onStatusChanged: {
         if (status == PageStatus.Activating) {

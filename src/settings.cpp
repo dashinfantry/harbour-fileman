@@ -107,6 +107,19 @@ void Settings::setDisclaimerShowed()
     settings->setValue(QString("DisclaimerSeen"), true);
 }
 
+void Settings::clean_conf() {
+    if(settings->contains(QString("accepted")))
+        settings->remove(QString("accepted"));
+}
+
+void Settings::set_accepted_status(const bool &accepted) {
+    settings->setValue(QString("disclaimer/accepted"),QVariant(accepted).toString());
+}
+
+bool Settings::get_accepted_status() {
+    return settings->value(QString("disclaimer/accepted"),QVariant(false)).toBool();
+}
+
 void Settings::loadBookmarks()
 {
     // Try creating the directory if it doesn't exist
