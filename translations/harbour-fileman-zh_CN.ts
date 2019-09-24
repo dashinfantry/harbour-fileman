@@ -203,15 +203,15 @@
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Fileman 是一个旗鱼系统文件管理器。&lt;br&gt;&lt;br&gt;Fileman 是使用 GNU  (GPL) 版本3及以上许可协议的自由软件。&lt;br&gt;如果你想支持 Fileman 的开发不放考虑捐赠&lt;br&gt;&lt;br&gt;非常感谢你支持 Fileman 的开发工作！</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>请勿再次显示</translation>
     </message>
     <message>
         <source>Donate!</source>
-        <translation type="unfinished"></translation>
+        <translation>捐赠！</translation>
     </message>
 </context>
 <context>
@@ -805,27 +805,27 @@
     <name>WelcomePage</name>
     <message>
         <source>Welcome to Fileman.</source>
-        <translation type="unfinished"></translation>
+        <translation>欢迎使用 Fileman 。</translation>
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation type="unfinished">Fileman 是一个旗鱼系统文件管理器。</translation>
+        <translation>Fileman 是一个旗鱼系统文件管理器。</translation>
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman 是使用 GNU 通用许可协议版本3及以上（GPL）的自由软件。</translation>
     </message>
     <message>
         <source>If you want to support Fileman and its development please consider donating.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你想支持 Fileman  的开发不妨考虑捐赠。</translation>
     </message>
     <message>
         <source>Thank you very much for your donation to the development of Fileman!</source>
-        <translation type="unfinished"></translation>
+        <translation>非常感激你支持 Fileman 的开发！</translation>
     </message>
     <message>
         <source>Donate!</source>
-        <translation type="unfinished"></translation>
+        <translation>捐赠！</translation>
     </message>
 </context>
 <context>

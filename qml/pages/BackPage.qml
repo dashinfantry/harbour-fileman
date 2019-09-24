@@ -35,7 +35,7 @@ Page {
                 appStarted = true
         }
 
-        if (status == PageStatus.Active) pageStack.push(Qt.resolvedUrl("DirectoryPage.qml"), null, PageStackAction.Immediate)
+        if (status == PageStatus.Active) pageStack.replace(Qt.resolvedUrl("DirectoryPage.qml"), null, PageStackAction.Immediate)
     }
 
     // Directory title header
