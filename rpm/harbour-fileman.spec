@@ -17,7 +17,7 @@ Version:    1.1
 Release:    4
 Group:      Qt/Qt
 License:    GPLv3
-URL:        https://bitbucket.org/ruditimmermans/harbour-fileman/src
+URL:        https://github.com/Xray1870/harbour-fileman
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  harbour-fileman.yaml
 Requires:   qt5-qtsvg-plugin-imageformat-svg >= 0-1.2.2
@@ -50,7 +50,7 @@ A feature filled file manager application for SailfishOS
 
 %posttrans
 # >> posttrans
-rm -r /home/nemo/.config/Fileman/Fileman.conf
+rm /home/nemo/.config/Fileman/Fileman.conf
 # << posttrans
 
 %install

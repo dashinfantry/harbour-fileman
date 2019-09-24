@@ -3,7 +3,7 @@ Summary: harbour-fileman
 Version: 1.1
 Release: 4
 Group: Qt/Qt
-URL: https://bitbucket.org/ruditimmermans/harbour-fileman/src
+URL: https://github.com/Xray1870/harbour-fileman
 License: GPLv3
 Sources:
 - '%{name}-%{version}.tar.bz2'
