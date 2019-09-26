@@ -535,20 +535,20 @@
 <context>
     <name>NewFilesDialog</name>
     <message>
-        <source>Add</source>
-        <translation>添加</translation>
-    </message>
-    <message>
-        <source>Add new </source>
-        <translation>添加新的</translation>
-    </message>
-    <message>
         <source>directory</source>
-        <translation>目录</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>file</source>
-        <translation>文件</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -535,20 +535,20 @@
 <context>
     <name>NewFilesDialog</name>
     <message>
-        <source>Add</source>
-        <translation>Dodaj</translation>
-    </message>
-    <message>
-        <source>Add new </source>
-        <translation>Dodaj nowy</translation>
-    </message>
-    <message>
         <source>directory</source>
-        <translation>katalog</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>file</source>
-        <translation>plik</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1,4 +1,4 @@
-import QtQuick 2.2
+import QtQuick 2.0
 import Sailfish.Silica 1.0
 
 Dialog {
@@ -7,7 +7,7 @@ Dialog {
     property string operation: ""
     property string path: ""
 
-    property string currentFileType: qsTr("directory")
+    property string currentFileType: "directory"
 
     property var files: [ ]
 
@@ -26,6 +26,8 @@ Dialog {
 
         height: parent.height
         width: parent.width
+
+        model: fileModel
 
         header: DialogHeader {
             id: dialogHeader
@@ -125,7 +127,7 @@ Dialog {
                     verticalAlignment: Text.AlignVCenter
 
                     // TODO: Allow user to create files
-                    text: qsTr("Add new ")
+                    text: qsTr("Add ")
                 }
                 Label {
                     width: paintedWidth

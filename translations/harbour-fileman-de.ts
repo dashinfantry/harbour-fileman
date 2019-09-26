@@ -535,20 +535,20 @@
 <context>
     <name>NewFilesDialog</name>
     <message>
-        <source>Add</source>
-        <translation>Hinzufügen</translation>
-    </message>
-    <message>
-        <source>Add new </source>
-        <translation>Neu anlegen</translation>
-    </message>
-    <message>
         <source>directory</source>
-        <translation>Verzeichnis</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>file</source>
-        <translation>Datei</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

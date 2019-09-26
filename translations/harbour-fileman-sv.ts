@@ -535,20 +535,20 @@
 <context>
     <name>NewFilesDialog</name>
     <message>
-        <source>Add</source>
-        <translation>Lägg till</translation>
-    </message>
-    <message>
-        <source>Add new </source>
-        <translation>Lägg till ny </translation>
-    </message>
-    <message>
         <source>directory</source>
-        <translation>mapp</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>file</source>
-        <translation>fil</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -8,6 +8,9 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Thu Sep 24 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-6
+- [MINOR BUGFIX] Add new directory or file
+
 * Thu Sep 24 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-5
 - [UPDATE] Languages update
 
