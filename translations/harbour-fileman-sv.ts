@@ -536,19 +536,19 @@
     <name>NewFilesDialog</name>
     <message>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>mapp</translation>
     </message>
     <message>
         <source>file</source>
-        <translation type="unfinished"></translation>
+        <translation>fil</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>Add </source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till</translation>
     </message>
 </context>
 <context>
