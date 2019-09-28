@@ -536,19 +536,19 @@
     <name>NewFilesDialog</name>
     <message>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>目录</translation>
     </message>
     <message>
         <source>file</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Add </source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
 </context>
 <context>
