@@ -665,10 +665,6 @@
         <translation>Cache miniaturen</translation>
     </message>
     <message>
-        <source>Fileman translations</source>
-        <translation>Fileman vertalingen</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>Instellingen</translation>
     </message>
@@ -677,20 +673,24 @@
         <translation>Fileman instellingen</translation>
     </message>
     <message>
-        <source>Fileman information</source>
-        <translation>Fileman informatie</translation>
-    </message>
-    <message>
         <source>About Fileman</source>
         <translation>Over Fileman</translation>
     </message>
     <message>
-        <source>Fileman GitHub wiki</source>
-        <translation>Fileman GitHub wiki</translation>
-    </message>
-    <message>
         <source>Fileman Wiki</source>
         <translation>Fileman Wiki</translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman translations</source>
+        <translation>&lt;br /&gt;Fileman vertalingen</translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman information</source>
+        <translation>&lt;br /&gt;Fileman informatie</translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman GitHub wiki</source>
+        <translation>&lt;br /&gt;Fileman GitHub wiki</translation>
     </message>
 </context>
 <context>
@@ -797,8 +797,8 @@
         <translation>Fileman vertalers</translation>
     </message>
     <message>
-        <source>Transifex Fileman project</source>
-        <translation>Transifex Fileman project</translation>
+        <source>GitHub Fileman project</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

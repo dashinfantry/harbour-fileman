@@ -665,10 +665,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fileman translations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -677,19 +673,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fileman information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>About Fileman</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fileman GitHub wiki</source>
+        <source>Fileman Wiki</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fileman Wiki</source>
+        <source>&lt;br /&gt;Fileman translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman GitHub wiki</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -797,7 +797,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Transifex Fileman project</source>
+        <source>GitHub Fileman project</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

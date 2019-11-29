@@ -665,10 +665,6 @@
         <translation>Cache anteprime</translation>
     </message>
     <message>
-        <source>Fileman translations</source>
-        <translation>Traduzioni Fileman</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>Impostazioni</translation>
     </message>
@@ -677,20 +673,24 @@
         <translation>Impostazioni Fileman</translation>
     </message>
     <message>
-        <source>Fileman information</source>
-        <translation>Informazioni Fileman</translation>
-    </message>
-    <message>
         <source>About Fileman</source>
         <translation>Info su Fileman</translation>
     </message>
     <message>
-        <source>Fileman GitHub wiki</source>
-        <translation>Wiki GitHub Fileman</translation>
-    </message>
-    <message>
         <source>Fileman Wiki</source>
         <translation>Wiki Fileman</translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman GitHub wiki</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -797,8 +797,8 @@
         <translation>Traduttori Fileman</translation>
     </message>
     <message>
-        <source>Transifex Fileman project</source>
-        <translation>Progetto Transifex Fileman</translation>
+        <source>GitHub Fileman project</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

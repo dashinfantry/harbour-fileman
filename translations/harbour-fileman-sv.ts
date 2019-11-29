@@ -665,10 +665,6 @@
         <translation>Cachelagra miniatyrer</translation>
     </message>
     <message>
-        <source>Fileman translations</source>
-        <translation>Fileman-översättningar</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>Inställningar</translation>
     </message>
@@ -677,20 +673,24 @@
         <translation>Fileman-inställningar</translation>
     </message>
     <message>
-        <source>Fileman information</source>
-        <translation>Fileman-information</translation>
-    </message>
-    <message>
         <source>About Fileman</source>
         <translation>Om Fileman</translation>
     </message>
     <message>
-        <source>Fileman GitHub wiki</source>
-        <translation>Fileman GitHub-wiki</translation>
-    </message>
-    <message>
         <source>Fileman Wiki</source>
         <translation>Fileman-wiki</translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman GitHub wiki</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -797,8 +797,8 @@
         <translation>Fileman-översättare</translation>
     </message>
     <message>
-        <source>Transifex Fileman project</source>
-        <translation>Transifex Fileman-projekt</translation>
+        <source>GitHub Fileman project</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

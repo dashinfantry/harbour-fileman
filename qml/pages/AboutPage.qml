@@ -45,7 +45,7 @@ Page {
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: qsTr("Rudi Timmermans")
                 iconSource: "qrc:/images/developer"
-                onClicked: { Qt.openUrlExternally("https://www.twitter.com/xray20001");
+                onClicked: { Qt.openUrlExternally("https://github.com/Xray1870");
                 }
             }
 

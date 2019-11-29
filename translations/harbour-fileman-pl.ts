@@ -665,10 +665,6 @@
         <translation>Pamięć podręczna miniatur</translation>
     </message>
     <message>
-        <source>Fileman translations</source>
-        <translation>Tłumaczenia Fileman</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>Ustawienia</translation>
     </message>
@@ -677,20 +673,24 @@
         <translation>Ustawienia Fileman</translation>
     </message>
     <message>
-        <source>Fileman information</source>
-        <translation>Informacje o Fileman</translation>
-    </message>
-    <message>
         <source>About Fileman</source>
         <translation>O Fileman</translation>
     </message>
     <message>
-        <source>Fileman GitHub wiki</source>
-        <translation>Wiki Fileman&apos;a na GitHubie</translation>
-    </message>
-    <message>
         <source>Fileman Wiki</source>
         <translation>Wiki Fileman&apos;a</translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman GitHub wiki</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -797,8 +797,8 @@
         <translation>Tłumacze Fileman</translation>
     </message>
     <message>
-        <source>Transifex Fileman project</source>
-        <translation>Projekt Fileman na Transifex&apos;ie</translation>
+        <source>GitHub Fileman project</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

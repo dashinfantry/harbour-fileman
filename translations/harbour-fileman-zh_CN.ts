@@ -665,10 +665,6 @@
         <translation>缓存缩略图</translation>
     </message>
     <message>
-        <source>Fileman translations</source>
-        <translation>Fileman 翻译</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
@@ -677,20 +673,24 @@
         <translation>Fileman 设置</translation>
     </message>
     <message>
-        <source>Fileman information</source>
-        <translation>Fileman 信息</translation>
-    </message>
-    <message>
         <source>About Fileman</source>
         <translation>关于 Fileman</translation>
     </message>
     <message>
-        <source>Fileman GitHub wiki</source>
-        <translation>Fileman Github wiki</translation>
-    </message>
-    <message>
         <source>Fileman Wiki</source>
         <translation>Fileman Wiki</translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman GitHub wiki</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -797,8 +797,8 @@
         <translation>Fileman 翻译者</translation>
     </message>
     <message>
-        <source>Transifex Fileman project</source>
-        <translation>Fileman  的 Transifex  项目页</translation>
+        <source>GitHub Fileman project</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

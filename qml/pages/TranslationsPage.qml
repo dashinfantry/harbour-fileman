@@ -4,7 +4,7 @@ import "./components"
 
 Page
 {
-    id: developerspage
+    id: translationpage
         allowedOrientations: Orientation.All
 
     SilicaFlickable
@@ -18,8 +18,8 @@ Page
         {
             MenuItem
             {
-                text: qsTr("Transifex Fileman project")
-                onClicked: Qt.openUrlExternally("https://www.transifex.com/rudit/harbour-fileman/")
+                text: qsTr("GitHub Fileman project")
+                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/tree/master/translations")
             }
         }
 

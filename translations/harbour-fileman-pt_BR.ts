@@ -666,10 +666,6 @@
         <translation>Miniaturas de cache</translation>
     </message>
     <message>
-        <source>Fileman translations</source>
-        <translation>Traduções Fileman</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>Configurações</translation>
     </message>
@@ -678,20 +674,24 @@
         <translation>Configurações do Fileman</translation>
     </message>
     <message>
-        <source>Fileman information</source>
-        <translation>Informações sobre Fileman</translation>
-    </message>
-    <message>
         <source>About Fileman</source>
         <translation>Sobre Fileman</translation>
     </message>
     <message>
-        <source>Fileman GitHub wiki</source>
-        <translation>Wiki Fileman GitHub</translation>
-    </message>
-    <message>
         <source>Fileman Wiki</source>
         <translation>Fileman Wiki</translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;Fileman GitHub wiki</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -798,8 +798,8 @@
         <translation>Tradutor em Phil</translation>
     </message>
     <message>
-        <source>Transifex Fileman project</source>
-        <translation>Projeto Fileman do transifex</translation>
+        <source>GitHub Fileman project</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

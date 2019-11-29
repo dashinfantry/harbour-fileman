@@ -18,66 +18,112 @@ Page {
 
             PageHeader { title: qsTr("Settings") }
 
-            SectionHeader { text: qsTr("Fileman settings") }
+            Label {
+                anchors {
+                    left: parent.left
+                    right: parent.right
+                    leftMargin: Theme.horizontalPageMargin
+                    rightMargin: Theme.horizontalPageMargin
+                }
+                height: implicitHeight + Theme.paddingMedium
+                color: Theme.highlightColor
+                font.pixelSize: Theme.fontSizeSmall
+                wrapMode: Text.WordWrap
+                horizontalAlignment: Qt.AlignHCenter
+                text: qsTr("Fileman settings")
+            }
 
-            ClickableLabel
-            {
-                width: parent.width
-                height: Theme.itemSizeSmall
-                icon: "image://theme/icon-m-file-image"
+            LabelSpacer { }
+
+            Button {
+                anchors.horizontalCenter: parent.horizontalCenter
                 text: qsTr("Cache thumbnails")
-                onActionRequested: pageStack.push(Qt.resolvedUrl("settings/DirectoryViewSettings.qml"))
+                onClicked: pageStack.push(Qt.resolvedUrl("settings/DirectoryViewSettings.qml"))
             }
 
-            ClickableLabel
-            {
-                width: parent.width
-                height: Theme.itemSizeSmall
-                icon: "image://theme/icon-m-transfer"
+            LabelSpacer { }
+
+            Button {
+                anchors.horizontalCenter: parent.horizontalCenter
                 text: qsTr("File ordering")
-                onActionRequested: pageStack.push(Qt.resolvedUrl("settings/FileOrderSettings.qml"))
+                onClicked: pageStack.push(Qt.resolvedUrl("settings/FileOrderSettings.qml"))
             }
 
-            ClickableLabel
-            {
-                width: parent.width
-                height: Theme.itemSizeSmall
-                icon: "image://theme/icon-m-display"
+            LabelSpacer { }
+
+            Button {
+                anchors.horizontalCenter: parent.horizontalCenter
                 text: qsTr("File display")
-                onActionRequested: pageStack.push(Qt.resolvedUrl("settings/FileDisplay.qml"))
+                onClicked: pageStack.push(Qt.resolvedUrl("settings/FileDisplay.qml"))
             }
 
-            SectionHeader { text: qsTr("Fileman information") }
+            Label {
+                anchors {
+                    left: parent.left
+                    right: parent.right
+                    leftMargin: Theme.horizontalPageMargin
+                    rightMargin: Theme.horizontalPageMargin
+                }
+                height: implicitHeight + Theme.paddingMedium
+                color: Theme.highlightColor
+                font.pixelSize: Theme.fontSizeSmall
+                wrapMode: Text.WordWrap
+                horizontalAlignment: Qt.AlignHCenter
+                text: qsTr("<br />" + "Fileman information")
+            }
 
-            ClickableLabel
-            {
-                width: parent.width
-                height: Theme.itemSizeSmall
-                icon: "image://theme/icon-m-about"
+            LabelSpacer { }
+
+            Button {
+                anchors.horizontalCenter: parent.horizontalCenter
                 text: qsTr("About Fileman")
-                onActionRequested: pageStack.push(Qt.resolvedUrl("AboutPage.qml"))
+                onClicked: pageStack.push(Qt.resolvedUrl("AboutPage.qml"))
             }
 
-            SectionHeader { text: qsTr("Fileman GitHub wiki") }
+            Label {
+                anchors {
+                    left: parent.left
+                    right: parent.right
+                    leftMargin: Theme.horizontalPageMargin
+                    rightMargin: Theme.horizontalPageMargin
+                }
+                height: implicitHeight + Theme.paddingMedium
+                color: Theme.highlightColor
+                font.pixelSize: Theme.fontSizeSmall
+                wrapMode: Text.WordWrap
+                horizontalAlignment: Qt.AlignHCenter
+                text: qsTr("<br />" + "Fileman GitHub wiki")
+            }
 
-            ClickableLabel
-            {
-                width: parent.width
-                height: Theme.itemSizeSmall
-                icon: "image://theme/icon-m-people"
+            LabelSpacer { }
+
+            Button {
+                anchors.horizontalCenter: parent.horizontalCenter
                 text: qsTr("Fileman Wiki")
-                onActionRequested: pageStack.push(Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/wiki"))
+                onClicked: pageStack.push(Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/wiki"))
             }
 
-            SectionHeader { text: qsTr("Fileman translations") }
+            Label {
+                anchors {
+                    left: parent.left
+                    right: parent.right
+                    leftMargin: Theme.horizontalPageMargin
+                    rightMargin: Theme.horizontalPageMargin
+                }
+                height: implicitHeight + Theme.paddingMedium
+                color: Theme.highlightColor
+                font.pixelSize: Theme.fontSizeSmall
+                wrapMode: Text.WordWrap
+                horizontalAlignment: Qt.AlignHCenter
+                text: qsTr("<br />" + "Fileman translations")
+            }
 
-            ClickableLabel
-            {
-                width: parent.width
-                height: Theme.itemSizeSmall
-                icon: "image://theme/icon-m-region"
+            LabelSpacer { }
+
+            Button {
+                anchors.horizontalCenter: parent.horizontalCenter
                 text: qsTr("Translations")
-                onActionRequested: pageStack.push(Qt.resolvedUrl("TranslationsPage.qml"))
+                onClicked: pageStack.push(Qt.resolvedUrl("TranslationsPage.qml"))
             }
           }
         }
