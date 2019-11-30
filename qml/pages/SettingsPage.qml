@@ -57,6 +57,14 @@ Page {
                 onClicked: pageStack.push(Qt.resolvedUrl("settings/FileDisplay.qml"))
             }
 
+            Spacer { }
+
+            Separator {
+                width: parent.width
+                color: Theme.primaryColor
+                horizontalAlignment: Qt.AlignHCenter
+            }
+
             Label {
                 anchors {
                     left: parent.left
@@ -80,6 +88,14 @@ Page {
                 onClicked: pageStack.push(Qt.resolvedUrl("AboutPage.qml"))
             }
 
+            Spacer { }
+
+            Separator {
+                width: parent.width
+                color: Theme.primaryColor
+                horizontalAlignment: Qt.AlignHCenter
+            }
+
             Label {
                 anchors {
                     left: parent.left
@@ -101,6 +117,14 @@ Page {
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: qsTr("Fileman Wiki")
                 onClicked: pageStack.push(Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/wiki"))
+            }
+
+            Spacer { }
+
+            Separator {
+                width: parent.width
+                color: Theme.primaryColor
+                horizontalAlignment: Qt.AlignHCenter
             }
 
             Label {
