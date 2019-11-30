@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>1 entry in clipboard</source>
-        <translation>1 个项目已保存到剪贴板</translation>
+        <translation>1个项目已保存到剪贴板</translation>
     </message>
     <message>
         <source> entries in clipboard</source>
@@ -682,15 +682,15 @@
     </message>
     <message>
         <source>&lt;br /&gt;Fileman translations</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;Fileman 翻译</translation>
     </message>
     <message>
         <source>&lt;br /&gt;Fileman information</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;Fileman 信息</translation>
     </message>
     <message>
         <source>&lt;br /&gt;Fileman GitHub wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;Fileman GitHub wiki</translation>
     </message>
 </context>
 <context>
@@ -798,7 +798,7 @@
     </message>
     <message>
         <source>GitHub Fileman project</source>
-        <translation type="unfinished"></translation>
+        <translation>Github Fileman 项目</translation>
     </message>
 </context>
 <context>
