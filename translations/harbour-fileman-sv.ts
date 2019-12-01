@@ -20,10 +20,6 @@
         <translation>Rudi Timmermans</translation>
     </message>
     <message>
-        <source>Donate with Paypal</source>
-        <translation>Donera via Paypal</translation>
-    </message>
-    <message>
         <source>Version</source>
         <translation>Version</translation>
     </message>

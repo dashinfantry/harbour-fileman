@@ -49,14 +49,6 @@ Page {
                 }
             }
 
-            IconTextButton {
-                anchors.horizontalCenter: parent.horizontalCenter
-                text: qsTr("Donate with Paypal")
-                iconSource: "qrc:/images/paypal"
-                onClicked: { Qt.openUrlExternally("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=29THE9VFMZ4PS");
-                }
-            }
-
             SectionHeader { text: qsTr("Icons") }
             TextLabel { labelText: qsTr("Fileman icons made by Gregguh.") }
 
