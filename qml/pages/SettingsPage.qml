@@ -88,6 +88,29 @@ Page {
                 onClicked: pageStack.push(Qt.resolvedUrl("AboutPage.qml"))
             }
 
+            Label {
+                anchors {
+                    left: parent.left
+                    right: parent.right
+                    leftMargin: Theme.horizontalPageMargin
+                    rightMargin: Theme.horizontalPageMargin
+                }
+                height: implicitHeight + Theme.paddingMedium
+                color: Theme.highlightColor
+                font.pixelSize: Theme.fontSizeSmall
+                wrapMode: Text.WordWrap
+                horizontalAlignment: Qt.AlignHCenter
+                text: qsTr("<br />" + "If you like my work and want to buy me a beer, feel free to do it!")
+            }
+
+            LabelSpacer { }
+
+            Button {
+                anchors.horizontalCenter: parent.horizontalCenter
+                text: qsTr("Donate")
+                onClicked: Qt.openUrlExternally("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=29THE9VFMZ4PS")
+            }
+
             Spacer { }
 
             Separator {

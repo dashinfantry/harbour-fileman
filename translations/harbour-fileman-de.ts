@@ -52,16 +52,16 @@
         <translation>Dank</translation>
     </message>
     <message>
-        <source>Thanks to Velox for the help on the Search function.</source>
-        <translation>Vielen Dank an Velox für die Hilfe zur Suchfunktion.</translation>
-    </message>
-    <message>
         <source>GitHub Repository</source>
         <translation>GitHub-Repository</translation>
     </message>
     <message>
         <source>Report an Issue</source>
         <translation>Fehler melden</translation>
+    </message>
+    <message>
+        <source>Thanks to Velox and Sargo-devel for the help on the Search function.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -690,6 +690,14 @@
     </message>
     <message>
         <source>&lt;br /&gt;Fileman GitHub wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;br /&gt;If you like my work and want to buy me a beer, feel free to do it!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
