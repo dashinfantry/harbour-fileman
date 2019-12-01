@@ -15,7 +15,7 @@ Page {
         {
             MenuItem
             {
-                text: qsTr("GitHub Repository")
+                text: qsTr("GitHub repository")
                 onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman")
             }
 
@@ -23,6 +23,15 @@ Page {
             {
                 text: qsTr("Report an Issue")
                 onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/issues")
+            }
+        }
+
+        PushUpMenu {
+
+            MenuItem
+            {
+                text: qsTr("Fileman translations")
+                onClicked: pageStack.push(Qt.resolvedUrl("TranslationsPage.qml"))
             }
         }
 
@@ -34,6 +43,14 @@ Page {
             PageHeader { title: qsTr("About Fileman") }
 
             SectionHeader { text: qsTr("What's") + " Fileman?" }
+
+            Image {
+                source: "/usr/share/icons/hicolor/172x172/apps/harbour-fileman.png"
+                width: 2/3 * parent.width
+                fillMode: Image.PreserveAspectFit
+                anchors.horizontalCenter: parent.horizontalCenter
+            }
+
             TextLabel { labelText: qsTr("Fileman is a File Manager for Sailfish OS.") }
 
             SectionHeader { text: qsTr("Licensing") }
@@ -46,6 +63,18 @@ Page {
                 text: qsTr("Rudi Timmermans")
                 iconSource: "qrc:/images/developer"
                 onClicked: { Qt.openUrlExternally("https://github.com/Xray1870");
+                }
+            }
+
+            SectionHeader { text: qsTr("Donations") }
+
+            TextLabel { labelText: qsTr("If you like my work and want to buy me a beer, feel free to do it!") }
+
+            IconTextButton {
+                anchors.horizontalCenter: parent.horizontalCenter
+                text: qsTr("Donate with Paypal")
+                iconSource: "qrc:/images/paypal"
+                onClicked: { Qt.openUrlExternally("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=29THE9VFMZ4PS");
                 }
             }
 

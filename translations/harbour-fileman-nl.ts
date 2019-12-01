@@ -48,8 +48,8 @@
         <translation>Bedankt</translation>
     </message>
     <message>
-        <source>GitHub Repository</source>
-        <translation>GitHub Repository</translation>
+        <source>GitHub repository</source>
+        <translation>GitHub repository</translation>
     </message>
     <message>
         <source>Report an Issue</source>
@@ -58,6 +58,22 @@
     <message>
         <source>Thanks to Velox and Sargo-devel for the help on the Search function.</source>
         <translation>Met dank aan Velox en Sargo-devel voor de hulp bij de zoekfunctie.</translation>
+    </message>
+    <message>
+        <source>Donate with Paypal</source>
+        <translation>Doneren met Paypal</translation>
+    </message>
+    <message>
+        <source>Fileman translations</source>
+        <translation>Fileman vertalingen</translation>
+    </message>
+    <message>
+        <source>Donations</source>
+        <translation>Doneren</translation>
+    </message>
+    <message>
+        <source>If you like my work and want to buy me a beer, feel free to do it!</source>
+        <translation>Als je fan bent van mijn werk en me wil trakteren op een drankje, ga je gang!</translation>
     </message>
 </context>
 <context>
@@ -129,10 +145,6 @@
 <context>
     <name>DirectoryPullDownMenu</name>
     <message>
-        <source>Settings</source>
-        <translation>Instellingen</translation>
-    </message>
-    <message>
         <source>Global search</source>
         <translation>Globaal zoeken</translation>
     </message>
@@ -163,6 +175,14 @@
     <message>
         <source>Search in directory</source>
         <translation>Zoek in directory</translation>
+    </message>
+    <message>
+        <source>About Fileman</source>
+        <translation>Over Fileman</translation>
+    </message>
+    <message>
+        <source>Fileman settings</source>
+        <translation>Fileman instellingen</translation>
     </message>
 </context>
 <context>
@@ -653,48 +673,12 @@
         <translation>Bestandsweergave</translation>
     </message>
     <message>
-        <source>Translations</source>
-        <translation>Vertalingen</translation>
-    </message>
-    <message>
         <source>Cache thumbnails</source>
         <translation>Cache miniaturen</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation>Instellingen</translation>
-    </message>
-    <message>
         <source>Fileman settings</source>
         <translation>Fileman instellingen</translation>
-    </message>
-    <message>
-        <source>About Fileman</source>
-        <translation>Over Fileman</translation>
-    </message>
-    <message>
-        <source>Fileman Wiki</source>
-        <translation>Fileman Wiki</translation>
-    </message>
-    <message>
-        <source>&lt;br /&gt;Fileman translations</source>
-        <translation>&lt;br /&gt;Fileman vertalingen</translation>
-    </message>
-    <message>
-        <source>&lt;br /&gt;Fileman information</source>
-        <translation>&lt;br /&gt;Fileman informatie</translation>
-    </message>
-    <message>
-        <source>&lt;br /&gt;Fileman GitHub wiki</source>
-        <translation>&lt;br /&gt;Fileman GitHub wiki</translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation>Doneren</translation>
-    </message>
-    <message>
-        <source>&lt;br /&gt;If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation>&lt;br /&gt;Als je fan bent van mijn werk en me wil trakteren op een drankje, ga je gang!</translation>
     </message>
 </context>
 <context>

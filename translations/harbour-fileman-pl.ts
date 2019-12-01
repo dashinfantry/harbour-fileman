@@ -48,15 +48,31 @@
         <translation>Podziękowania</translation>
     </message>
     <message>
-        <source>GitHub Repository</source>
-        <translation>Repozytorium na GitHubie</translation>
-    </message>
-    <message>
         <source>Report an Issue</source>
         <translation>Zgłoś błąd</translation>
     </message>
     <message>
         <source>Thanks to Velox and Sargo-devel for the help on the Search function.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate with Paypal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fileman translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you like my work and want to buy me a beer, feel free to do it!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GitHub repository</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -129,10 +145,6 @@
 <context>
     <name>DirectoryPullDownMenu</name>
     <message>
-        <source>Settings</source>
-        <translation>Ustawienia</translation>
-    </message>
-    <message>
         <source>Global search</source>
         <translation>Wyszukiwanie globalne</translation>
     </message>
@@ -163,6 +175,14 @@
     <message>
         <source>Search in directory</source>
         <translation>Szukaj w katalogu</translation>
+    </message>
+    <message>
+        <source>About Fileman</source>
+        <translation type="unfinished">O Fileman</translation>
+    </message>
+    <message>
+        <source>Fileman settings</source>
+        <translation type="unfinished">Ustawienia Fileman</translation>
     </message>
 </context>
 <context>
@@ -653,48 +673,12 @@
         <translation>Wyświetlanie plików</translation>
     </message>
     <message>
-        <source>Translations</source>
-        <translation>Tłumaczenia</translation>
-    </message>
-    <message>
         <source>Cache thumbnails</source>
         <translation>Pamięć podręczna miniatur</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation>Ustawienia</translation>
-    </message>
-    <message>
         <source>Fileman settings</source>
         <translation>Ustawienia Fileman</translation>
-    </message>
-    <message>
-        <source>About Fileman</source>
-        <translation>O Fileman</translation>
-    </message>
-    <message>
-        <source>Fileman Wiki</source>
-        <translation>Wiki Fileman&apos;a</translation>
-    </message>
-    <message>
-        <source>&lt;br /&gt;Fileman translations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;br /&gt;Fileman information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;br /&gt;Fileman GitHub wiki</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;br /&gt;If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

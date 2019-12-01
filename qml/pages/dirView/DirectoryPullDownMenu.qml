@@ -4,7 +4,12 @@ import Sailfish.Silica 1.0
 PullDownMenu {
     id: pullDownMenu
     MenuItem {
-        text: qsTr("Settings")
+        text: qsTr("About Fileman")
+        visible: 'isShortcutsPage' in getDirectoryView() ? true : false
+        onClicked: pageStack.push(Qt.resolvedUrl("../AboutPage.qml"))
+    }
+    MenuItem {
+        text: qsTr("Fileman settings")
         visible: 'isShortcutsPage' in getDirectoryView() ? true : false
         onClicked: pageStack.push(Qt.resolvedUrl("../SettingsPage.qml"))
     }
