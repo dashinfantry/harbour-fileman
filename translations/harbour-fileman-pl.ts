@@ -201,21 +201,6 @@
     </message>
 </context>
 <context>
-    <name>DirectoryViewSettings</name>
-    <message>
-        <source>Thumbnails</source>
-        <translation>Miniatury</translation>
-    </message>
-    <message>
-        <source>Cache thumbnails</source>
-        <translation>Pamięć podręczna miniatur</translation>
-    </message>
-    <message>
-        <source>Save generated thumbnails for faster loading</source>
-        <translation>Zapisz wygenerowane miniatury w celu szybszego ładowania</translation>
-    </message>
-</context>
-<context>
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
@@ -228,37 +213,6 @@
     <message>
         <source>Donate!</source>
         <translation>Wspomóż!</translation>
-    </message>
-</context>
-<context>
-    <name>FileDisplay</name>
-    <message>
-        <source>File display</source>
-        <translation>Wyświetlanie plików</translation>
-    </message>
-    <message>
-        <source>File display look</source>
-        <translation>Wyglad wyswietlania plików</translation>
-    </message>
-    <message>
-        <source>Browse through all files</source>
-        <translation>Wyszukuj wśród wszystkich plików</translation>
-    </message>
-    <message>
-        <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation>Podczas przeglądania pliku przeglądaj wszystkie widoczne pliki zamiast plików o tym samym typie pliku</translation>
-    </message>
-    <message>
-        <source>Display black background</source>
-        <translation>Wyświetl czarne tło</translation>
-    </message>
-    <message>
-        <source>Display a black background when viewing image and video files</source>
-        <translation>Wyświetl czarne tło podczas oglądania plików wideo i obrazów</translation>
-    </message>
-    <message>
-        <source>Overlay visibility (seconds)</source>
-        <translation>Widoczność nakładki (w sekundach)</translation>
     </message>
 </context>
 <context>
@@ -429,65 +383,6 @@
     <message>
         <source>Deleting files</source>
         <translation>Usuwanie plików</translation>
-    </message>
-</context>
-<context>
-    <name>FileOrderSettings</name>
-    <message>
-        <source>File ordering</source>
-        <translation>Kolejność plików</translation>
-    </message>
-    <message>
-        <source>File arrangement order </source>
-        <translation>Kolejność wyświetlania plików</translation>
-    </message>
-    <message>
-        <source>Sort by</source>
-        <translation>Sortuj po</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Nazwa</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation>Czas</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Rozmiar</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation>Typ</translation>
-    </message>
-    <message>
-        <source>Sort order</source>
-        <translation>Kolejność sortowania</translation>
-    </message>
-    <message>
-        <source>Ascending</source>
-        <translation>Rosnąco</translation>
-    </message>
-    <message>
-        <source>Descending</source>
-        <translation>Malejąco</translation>
-    </message>
-    <message>
-        <source>Directory order</source>
-        <translation>Kolejność katalogów</translation>
-    </message>
-    <message>
-        <source>Display directories first</source>
-        <translation>Wyświetl katalogi jako pierwsze</translation>
-    </message>
-    <message>
-        <source>Display directories last</source>
-        <translation>Wyświetl katalogi jako ostatnie</translation>
-    </message>
-    <message>
-        <source>Don&apos;t order directories</source>
-        <translation>Nie sortuj katalogów</translation>
     </message>
 </context>
 <context>
@@ -665,20 +560,96 @@
 <context>
     <name>SettingsPage</name>
     <message>
-        <source>File ordering</source>
-        <translation>Kolejność plików</translation>
-    </message>
-    <message>
-        <source>File display</source>
-        <translation>Wyświetlanie plików</translation>
-    </message>
-    <message>
         <source>Cache thumbnails</source>
         <translation>Pamięć podręczna miniatur</translation>
     </message>
     <message>
         <source>Fileman settings</source>
         <translation>Ustawienia Fileman</translation>
+    </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation type="unfinished">Miniatury</translation>
+    </message>
+    <message>
+        <source>Save generated thumbnails for faster loading</source>
+        <translation type="unfinished">Zapisz wygenerowane miniatury w celu szybszego ładowania</translation>
+    </message>
+    <message>
+        <source>File display look</source>
+        <translation type="unfinished">Wyglad wyswietlania plików</translation>
+    </message>
+    <message>
+        <source>Overlay visibility (seconds)</source>
+        <translation type="unfinished">Widoczność nakładki (w sekundach)</translation>
+    </message>
+    <message>
+        <source>Browse through all files</source>
+        <translation type="unfinished">Wyszukuj wśród wszystkich plików</translation>
+    </message>
+    <message>
+        <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
+        <translation type="unfinished">Podczas przeglądania pliku przeglądaj wszystkie widoczne pliki zamiast plików o tym samym typie pliku</translation>
+    </message>
+    <message>
+        <source>Display black background</source>
+        <translation type="unfinished">Wyświetl czarne tło</translation>
+    </message>
+    <message>
+        <source>Display a black background when viewing image and video files</source>
+        <translation type="unfinished">Wyświetl czarne tło podczas oglądania plików wideo i obrazów</translation>
+    </message>
+    <message>
+        <source>File arrangement order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by</source>
+        <translation type="unfinished">Sortuj po</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nazwa</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished">Czas</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Rozmiar</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Typ</translation>
+    </message>
+    <message>
+        <source>Sort order</source>
+        <translation type="unfinished">Kolejność sortowania</translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation type="unfinished">Rosnąco</translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation type="unfinished">Malejąco</translation>
+    </message>
+    <message>
+        <source>Directory order</source>
+        <translation type="unfinished">Kolejność katalogów</translation>
+    </message>
+    <message>
+        <source>Display directories first</source>
+        <translation type="unfinished">Wyświetl katalogi jako pierwsze</translation>
+    </message>
+    <message>
+        <source>Display directories last</source>
+        <translation type="unfinished">Wyświetl katalogi jako ostatnie</translation>
+    </message>
+    <message>
+        <source>Don&apos;t order directories</source>
+        <translation type="unfinished">Nie sortuj katalogów</translation>
     </message>
 </context>
 <context>

@@ -201,21 +201,6 @@
     </message>
 </context>
 <context>
-    <name>DirectoryViewSettings</name>
-    <message>
-        <source>Thumbnails</source>
-        <translation>Miniatures</translation>
-    </message>
-    <message>
-        <source>Cache thumbnails</source>
-        <translation>Cache des miniatures</translation>
-    </message>
-    <message>
-        <source>Save generated thumbnails for faster loading</source>
-        <translation>Enregistrer les miniatures générées pour un chargement plus rapide</translation>
-    </message>
-</context>
-<context>
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
@@ -227,37 +212,6 @@
     </message>
     <message>
         <source>Donate!</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>FileDisplay</name>
-    <message>
-        <source>File display</source>
-        <translation>Affichage des fichiers</translation>
-    </message>
-    <message>
-        <source>File display look</source>
-        <translation>Apparence des fichiers</translation>
-    </message>
-    <message>
-        <source>Browse through all files</source>
-        <translation>Parcourir tous les fichiers</translation>
-    </message>
-    <message>
-        <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Display black background</source>
-        <translation>Afficher un fond noir</translation>
-    </message>
-    <message>
-        <source>Display a black background when viewing image and video files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Overlay visibility (seconds)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -429,65 +383,6 @@
     <message>
         <source>Deleting files</source>
         <translation>Suppression des fichiers</translation>
-    </message>
-</context>
-<context>
-    <name>FileOrderSettings</name>
-    <message>
-        <source>File ordering</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File arrangement order </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sort by</source>
-        <translation>Trier par</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Nom</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation>Âge</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Taille</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation>Type</translation>
-    </message>
-    <message>
-        <source>Sort order</source>
-        <translation>Ordre de tri</translation>
-    </message>
-    <message>
-        <source>Ascending</source>
-        <translation>Ascendant</translation>
-    </message>
-    <message>
-        <source>Descending</source>
-        <translation>Descendant</translation>
-    </message>
-    <message>
-        <source>Directory order</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Display directories first</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Display directories last</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Don&apos;t order directories</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -665,20 +560,96 @@
 <context>
     <name>SettingsPage</name>
     <message>
-        <source>File ordering</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File display</source>
-        <translation type="unfinished">Affichage des fichiers</translation>
-    </message>
-    <message>
         <source>Cache thumbnails</source>
         <translation>Cache des miniatures</translation>
     </message>
     <message>
         <source>Fileman settings</source>
         <translation>Paramètres Fileman</translation>
+    </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation type="unfinished">Miniatures</translation>
+    </message>
+    <message>
+        <source>Save generated thumbnails for faster loading</source>
+        <translation type="unfinished">Enregistrer les miniatures générées pour un chargement plus rapide</translation>
+    </message>
+    <message>
+        <source>File display look</source>
+        <translation type="unfinished">Apparence des fichiers</translation>
+    </message>
+    <message>
+        <source>Overlay visibility (seconds)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse through all files</source>
+        <translation type="unfinished">Parcourir tous les fichiers</translation>
+    </message>
+    <message>
+        <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display black background</source>
+        <translation type="unfinished">Afficher un fond noir</translation>
+    </message>
+    <message>
+        <source>Display a black background when viewing image and video files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File arrangement order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by</source>
+        <translation type="unfinished">Trier par</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished">Âge</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Taille</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Type</translation>
+    </message>
+    <message>
+        <source>Sort order</source>
+        <translation type="unfinished">Ordre de tri</translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation type="unfinished">Ascendant</translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation type="unfinished">Descendant</translation>
+    </message>
+    <message>
+        <source>Directory order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display directories first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display directories last</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t order directories</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

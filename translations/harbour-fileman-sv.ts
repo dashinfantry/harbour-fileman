@@ -201,21 +201,6 @@
     </message>
 </context>
 <context>
-    <name>DirectoryViewSettings</name>
-    <message>
-        <source>Thumbnails</source>
-        <translation>Miniatyrer</translation>
-    </message>
-    <message>
-        <source>Cache thumbnails</source>
-        <translation>Cachelagra miniatyrer</translation>
-    </message>
-    <message>
-        <source>Save generated thumbnails for faster loading</source>
-        <translation>Spara skapade miniatyrer för snabbare inläsning</translation>
-    </message>
-</context>
-<context>
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
@@ -228,37 +213,6 @@
     <message>
         <source>Donate!</source>
         <translation>Donera!</translation>
-    </message>
-</context>
-<context>
-    <name>FileDisplay</name>
-    <message>
-        <source>File display</source>
-        <translation>Filvisning</translation>
-    </message>
-    <message>
-        <source>File display look</source>
-        <translation>Filvisningsutseende</translation>
-    </message>
-    <message>
-        <source>Browse through all files</source>
-        <translation>Bläddra genom alla filer</translation>
-    </message>
-    <message>
-        <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation>Bläddra bland alla visningsbara filer istället för enbart filer av samma filtyp</translation>
-    </message>
-    <message>
-        <source>Display black background</source>
-        <translation>Visa svart bakgrund</translation>
-    </message>
-    <message>
-        <source>Display a black background when viewing image and video files</source>
-        <translation>Använd svart bakgrund vid visning av bild- och videofiler</translation>
-    </message>
-    <message>
-        <source>Overlay visibility (seconds)</source>
-        <translation>Överläggssynlighet (sekunder)</translation>
     </message>
 </context>
 <context>
@@ -429,65 +383,6 @@
     <message>
         <source>Deleting files</source>
         <translation>Tar bort filer</translation>
-    </message>
-</context>
-<context>
-    <name>FileOrderSettings</name>
-    <message>
-        <source>File ordering</source>
-        <translation>Filordning</translation>
-    </message>
-    <message>
-        <source>File arrangement order </source>
-        <translation>Filsortering </translation>
-    </message>
-    <message>
-        <source>Sort by</source>
-        <translation>Sortera efter</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Namn</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation>Tidsstämpel</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Storlek</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation>Typ</translation>
-    </message>
-    <message>
-        <source>Sort order</source>
-        <translation>Sorteringsordning</translation>
-    </message>
-    <message>
-        <source>Ascending</source>
-        <translation>Stigande</translation>
-    </message>
-    <message>
-        <source>Descending</source>
-        <translation>Fallande</translation>
-    </message>
-    <message>
-        <source>Directory order</source>
-        <translation>Mappordning</translation>
-    </message>
-    <message>
-        <source>Display directories first</source>
-        <translation>Visa mappar överst</translation>
-    </message>
-    <message>
-        <source>Display directories last</source>
-        <translation>Visa mappar sist</translation>
-    </message>
-    <message>
-        <source>Don&apos;t order directories</source>
-        <translation>Ordna inte mappar</translation>
     </message>
 </context>
 <context>
@@ -665,20 +560,96 @@
 <context>
     <name>SettingsPage</name>
     <message>
-        <source>File ordering</source>
-        <translation>Filsortering</translation>
-    </message>
-    <message>
-        <source>File display</source>
-        <translation>Filvisning</translation>
-    </message>
-    <message>
         <source>Cache thumbnails</source>
         <translation>Cachelagra miniatyrer</translation>
     </message>
     <message>
         <source>Fileman settings</source>
         <translation>Fileman-inställningar</translation>
+    </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation type="unfinished">Miniatyrer</translation>
+    </message>
+    <message>
+        <source>Save generated thumbnails for faster loading</source>
+        <translation type="unfinished">Spara skapade miniatyrer för snabbare inläsning</translation>
+    </message>
+    <message>
+        <source>File display look</source>
+        <translation type="unfinished">Filvisningsutseende</translation>
+    </message>
+    <message>
+        <source>Overlay visibility (seconds)</source>
+        <translation type="unfinished">Överläggssynlighet (sekunder)</translation>
+    </message>
+    <message>
+        <source>Browse through all files</source>
+        <translation type="unfinished">Bläddra genom alla filer</translation>
+    </message>
+    <message>
+        <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
+        <translation type="unfinished">Bläddra bland alla visningsbara filer istället för enbart filer av samma filtyp</translation>
+    </message>
+    <message>
+        <source>Display black background</source>
+        <translation type="unfinished">Visa svart bakgrund</translation>
+    </message>
+    <message>
+        <source>Display a black background when viewing image and video files</source>
+        <translation type="unfinished">Använd svart bakgrund vid visning av bild- och videofiler</translation>
+    </message>
+    <message>
+        <source>File arrangement order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by</source>
+        <translation type="unfinished">Sortera efter</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Namn</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished">Tidsstämpel</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Storlek</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Typ</translation>
+    </message>
+    <message>
+        <source>Sort order</source>
+        <translation type="unfinished">Sorteringsordning</translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation type="unfinished">Stigande</translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation type="unfinished">Fallande</translation>
+    </message>
+    <message>
+        <source>Directory order</source>
+        <translation type="unfinished">Mappordning</translation>
+    </message>
+    <message>
+        <source>Display directories first</source>
+        <translation type="unfinished">Visa mappar överst</translation>
+    </message>
+    <message>
+        <source>Display directories last</source>
+        <translation type="unfinished">Visa mappar sist</translation>
+    </message>
+    <message>
+        <source>Don&apos;t order directories</source>
+        <translation type="unfinished">Ordna inte mappar</translation>
     </message>
 </context>
 <context>

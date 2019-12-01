@@ -51,11 +51,9 @@ DISTFILES += \
     qml/js/directoryViewModel.js \
     qml/pages/dirView/DirectoryPullDownMenu.qml \
     qml/pages/dirView/DirectoryPushUpMenu.qml \
-    qml/pages/settings/DirectoryViewSettings.qml \
     qml/pages/dirView/DirectoryListView.qml \
     qml/pages/dirView/DirectoryGridView.qml \
     qml/js/misc.js \
-    qml/pages/settings/FileOrderSettings.qml \
     qml/pages/AboutPage.qml \
     qml/pages/TranslationsPage.qml \
     qml/pages/Disclaimer.qml \
@@ -82,7 +80,6 @@ DISTFILES += \
     qml/pages/FilePage.qml \
     qml/pages/FileRenameDialog.qml \
     qml/pages/NewFilesDialog.qml \
-    qml/pages/settings/FileDisplay.qml \
     qml/Fileman.qml \
     qml/pages/DirectoryPage.qml \
     qml/pages/BackPage.qml \

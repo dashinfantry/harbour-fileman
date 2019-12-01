@@ -201,21 +201,6 @@
     </message>
 </context>
 <context>
-    <name>DirectoryViewSettings</name>
-    <message>
-        <source>Thumbnails</source>
-        <translation>Thumbnails</translation>
-    </message>
-    <message>
-        <source>Cache thumbnails</source>
-        <translation>Thumbnails cachen</translation>
-    </message>
-    <message>
-        <source>Save generated thumbnails for faster loading</source>
-        <translation>Generierte Thumbnails für schnelleres Laden speichern</translation>
-    </message>
-</context>
-<context>
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
@@ -228,37 +213,6 @@
     <message>
         <source>Donate!</source>
         <translation>Spenden!</translation>
-    </message>
-</context>
-<context>
-    <name>FileDisplay</name>
-    <message>
-        <source>File display</source>
-        <translation>Dateianzeige</translation>
-    </message>
-    <message>
-        <source>File display look</source>
-        <translation>Aussehen der Dateianzeige</translation>
-    </message>
-    <message>
-        <source>Browse through all files</source>
-        <translation>Alle Dateien durchsuchen</translation>
-    </message>
-    <message>
-        <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation>Beim Anzeigen einer Datei durch alle anzeigbaren Dateien blättern, anstelle von Dateien mit dem gleichen Dateityp.</translation>
-    </message>
-    <message>
-        <source>Display black background</source>
-        <translation>Schwarzen Hintergrund anzeigen</translation>
-    </message>
-    <message>
-        <source>Display a black background when viewing image and video files</source>
-        <translation>Beim Betrachten von Bild- und Videodateien schwarzen Hintergrund anzeigen</translation>
-    </message>
-    <message>
-        <source>Overlay visibility (seconds)</source>
-        <translation>Overlay sichtbar (Sekunden)</translation>
     </message>
 </context>
 <context>
@@ -429,65 +383,6 @@
     <message>
         <source>Deleting files</source>
         <translation>Lösche Dateien</translation>
-    </message>
-</context>
-<context>
-    <name>FileOrderSettings</name>
-    <message>
-        <source>File ordering</source>
-        <translation>Datei-Reihenfolge</translation>
-    </message>
-    <message>
-        <source>File arrangement order </source>
-        <translation>Sortierung der Dateien</translation>
-    </message>
-    <message>
-        <source>Sort by</source>
-        <translation>Sortieren nach</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Name</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation>Zeit</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Größe</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation>Typ</translation>
-    </message>
-    <message>
-        <source>Sort order</source>
-        <translation>Sortierrichtung</translation>
-    </message>
-    <message>
-        <source>Ascending</source>
-        <translation>Aufsteigend</translation>
-    </message>
-    <message>
-        <source>Descending</source>
-        <translation>Absteigend</translation>
-    </message>
-    <message>
-        <source>Directory order</source>
-        <translation>Verzeichnisanordnung</translation>
-    </message>
-    <message>
-        <source>Display directories first</source>
-        <translation>Verzeichnisse zuerst anzeigen</translation>
-    </message>
-    <message>
-        <source>Display directories last</source>
-        <translation>Verzeichnisse zuletzt anzeigen</translation>
-    </message>
-    <message>
-        <source>Don&apos;t order directories</source>
-        <translation>Verzeichnisse nicht sortieren</translation>
     </message>
 </context>
 <context>
@@ -665,20 +560,96 @@
 <context>
     <name>SettingsPage</name>
     <message>
-        <source>File ordering</source>
-        <translation>Datei-Reihenfolge</translation>
-    </message>
-    <message>
-        <source>File display</source>
-        <translation>Dateianzeige</translation>
-    </message>
-    <message>
         <source>Cache thumbnails</source>
         <translation>Thumbnails cachen</translation>
     </message>
     <message>
         <source>Fileman settings</source>
         <translation>Fileman-Einstellungen</translation>
+    </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation type="unfinished">Thumbnails</translation>
+    </message>
+    <message>
+        <source>Save generated thumbnails for faster loading</source>
+        <translation type="unfinished">Generierte Thumbnails für schnelleres Laden speichern</translation>
+    </message>
+    <message>
+        <source>File display look</source>
+        <translation type="unfinished">Aussehen der Dateianzeige</translation>
+    </message>
+    <message>
+        <source>Overlay visibility (seconds)</source>
+        <translation type="unfinished">Overlay sichtbar (Sekunden)</translation>
+    </message>
+    <message>
+        <source>Browse through all files</source>
+        <translation type="unfinished">Alle Dateien durchsuchen</translation>
+    </message>
+    <message>
+        <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
+        <translation type="unfinished">Beim Anzeigen einer Datei durch alle anzeigbaren Dateien blättern, anstelle von Dateien mit dem gleichen Dateityp.</translation>
+    </message>
+    <message>
+        <source>Display black background</source>
+        <translation type="unfinished">Schwarzen Hintergrund anzeigen</translation>
+    </message>
+    <message>
+        <source>Display a black background when viewing image and video files</source>
+        <translation type="unfinished">Beim Betrachten von Bild- und Videodateien schwarzen Hintergrund anzeigen</translation>
+    </message>
+    <message>
+        <source>File arrangement order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by</source>
+        <translation type="unfinished">Sortieren nach</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished">Zeit</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Größe</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Typ</translation>
+    </message>
+    <message>
+        <source>Sort order</source>
+        <translation type="unfinished">Sortierrichtung</translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation type="unfinished">Aufsteigend</translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation type="unfinished">Absteigend</translation>
+    </message>
+    <message>
+        <source>Directory order</source>
+        <translation type="unfinished">Verzeichnisanordnung</translation>
+    </message>
+    <message>
+        <source>Display directories first</source>
+        <translation type="unfinished">Verzeichnisse zuerst anzeigen</translation>
+    </message>
+    <message>
+        <source>Display directories last</source>
+        <translation type="unfinished">Verzeichnisse zuletzt anzeigen</translation>
+    </message>
+    <message>
+        <source>Don&apos;t order directories</source>
+        <translation type="unfinished">Verzeichnisse nicht sortieren</translation>
     </message>
 </context>
 <context>

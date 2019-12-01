@@ -201,21 +201,6 @@
     </message>
 </context>
 <context>
-    <name>DirectoryViewSettings</name>
-    <message>
-        <source>Thumbnails</source>
-        <translation>缩略图</translation>
-    </message>
-    <message>
-        <source>Cache thumbnails</source>
-        <translation>缓存缩略图</translation>
-    </message>
-    <message>
-        <source>Save generated thumbnails for faster loading</source>
-        <translation>保存生成的缩略图以快速加载</translation>
-    </message>
-</context>
-<context>
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
@@ -228,37 +213,6 @@
     <message>
         <source>Donate!</source>
         <translation>捐赠！</translation>
-    </message>
-</context>
-<context>
-    <name>FileDisplay</name>
-    <message>
-        <source>File display</source>
-        <translation>文件显示</translation>
-    </message>
-    <message>
-        <source>File display look</source>
-        <translation>文件显示查看</translation>
-    </message>
-    <message>
-        <source>Browse through all files</source>
-        <translation>浏览所有文件</translation>
-    </message>
-    <message>
-        <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation>查看文件时，浏览所有可查看文件而不是相同类型的文件</translation>
-    </message>
-    <message>
-        <source>Display black background</source>
-        <translation>显示黑色背景</translation>
-    </message>
-    <message>
-        <source>Display a black background when viewing image and video files</source>
-        <translation>当查看图片及视频文件时显示黑色背景</translation>
-    </message>
-    <message>
-        <source>Overlay visibility (seconds)</source>
-        <translation>在当前目录内搜索(秒)</translation>
     </message>
 </context>
 <context>
@@ -429,65 +383,6 @@
     <message>
         <source>Deleting files</source>
         <translation>删除文件</translation>
-    </message>
-</context>
-<context>
-    <name>FileOrderSettings</name>
-    <message>
-        <source>File ordering</source>
-        <translation>文件顺序</translation>
-    </message>
-    <message>
-        <source>File arrangement order </source>
-        <translation>文件排列顺序</translation>
-    </message>
-    <message>
-        <source>Sort by</source>
-        <translation>分类方式</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>名称</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation>时间</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>大小</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation>类型</translation>
-    </message>
-    <message>
-        <source>Sort order</source>
-        <translation>分类顺序</translation>
-    </message>
-    <message>
-        <source>Ascending</source>
-        <translation>升序</translation>
-    </message>
-    <message>
-        <source>Descending</source>
-        <translation>降序</translation>
-    </message>
-    <message>
-        <source>Directory order</source>
-        <translation>目录顺序</translation>
-    </message>
-    <message>
-        <source>Display directories first</source>
-        <translation>显示较早的目录</translation>
-    </message>
-    <message>
-        <source>Display directories last</source>
-        <translation>显示较新的目录</translation>
-    </message>
-    <message>
-        <source>Don&apos;t order directories</source>
-        <translation>不排列目录</translation>
     </message>
 </context>
 <context>
@@ -665,20 +560,96 @@
 <context>
     <name>SettingsPage</name>
     <message>
-        <source>File ordering</source>
-        <translation>文件排序</translation>
-    </message>
-    <message>
-        <source>File display</source>
-        <translation>文件显示</translation>
-    </message>
-    <message>
         <source>Cache thumbnails</source>
         <translation>缓存缩略图</translation>
     </message>
     <message>
         <source>Fileman settings</source>
         <translation>Fileman 设置</translation>
+    </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation type="unfinished">缩略图</translation>
+    </message>
+    <message>
+        <source>Save generated thumbnails for faster loading</source>
+        <translation type="unfinished">保存生成的缩略图以快速加载</translation>
+    </message>
+    <message>
+        <source>File display look</source>
+        <translation type="unfinished">文件显示查看</translation>
+    </message>
+    <message>
+        <source>Overlay visibility (seconds)</source>
+        <translation type="unfinished">在当前目录内搜索(秒)</translation>
+    </message>
+    <message>
+        <source>Browse through all files</source>
+        <translation type="unfinished">浏览所有文件</translation>
+    </message>
+    <message>
+        <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
+        <translation type="unfinished">查看文件时，浏览所有可查看文件而不是相同类型的文件</translation>
+    </message>
+    <message>
+        <source>Display black background</source>
+        <translation type="unfinished">显示黑色背景</translation>
+    </message>
+    <message>
+        <source>Display a black background when viewing image and video files</source>
+        <translation type="unfinished">当查看图片及视频文件时显示黑色背景</translation>
+    </message>
+    <message>
+        <source>File arrangement order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort by</source>
+        <translation type="unfinished">分类方式</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">名称</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished">时间</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">大小</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">类型</translation>
+    </message>
+    <message>
+        <source>Sort order</source>
+        <translation type="unfinished">分类顺序</translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation type="unfinished">升序</translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation type="unfinished">降序</translation>
+    </message>
+    <message>
+        <source>Directory order</source>
+        <translation type="unfinished">目录顺序</translation>
+    </message>
+    <message>
+        <source>Display directories first</source>
+        <translation type="unfinished">显示较早的目录</translation>
+    </message>
+    <message>
+        <source>Display directories last</source>
+        <translation type="unfinished">显示较新的目录</translation>
+    </message>
+    <message>
+        <source>Don&apos;t order directories</source>
+        <translation type="unfinished">不排列目录</translation>
     </message>
 </context>
 <context>
