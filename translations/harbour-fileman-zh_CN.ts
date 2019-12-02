@@ -49,31 +49,31 @@
     </message>
     <message>
         <source>Report an Issue</source>
-        <translation>报告一个问题</translation>
+        <translation>报告问题</translation>
     </message>
     <message>
         <source>Thanks to Velox and Sargo-devel for the help on the Search function.</source>
-        <translation type="unfinished"></translation>
+        <translation>感谢 Velox 及 Sargo-devel 帮助我开发搜索功能。</translation>
     </message>
     <message>
         <source>Donate with Paypal</source>
-        <translation type="unfinished"></translation>
+        <translation>用 Paypal 捐赠</translation>
     </message>
     <message>
         <source>Fileman translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman 翻译</translation>
     </message>
     <message>
         <source>Donations</source>
-        <translation type="unfinished"></translation>
+        <translation>捐赠</translation>
     </message>
     <message>
         <source>If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你喜欢我的作品并且想给我买瓶啤酒，十分欢迎！</translation>
     </message>
     <message>
         <source>GitHub repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Github 库</translation>
     </message>
 </context>
 <context>
@@ -178,11 +178,11 @@
     </message>
     <message>
         <source>About Fileman</source>
-        <translation type="unfinished">关于 Fileman</translation>
+        <translation>关于 Fileman</translation>
     </message>
     <message>
         <source>Fileman settings</source>
-        <translation type="unfinished">Fileman 设置</translation>
+        <translation>Fileman 设置</translation>
     </message>
 </context>
 <context>
@@ -204,7 +204,7 @@
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
-        <translation>&lt;b&gt;Fileman 是一个旗鱼系统文件管理器。&lt;br&gt;&lt;br&gt;Fileman 是使用 GNU  (GPL) 版本3及以上许可协议的自由软件。&lt;br&gt;如果你想支持 Fileman 的开发不放考虑捐赠&lt;br&gt;&lt;br&gt;非常感谢你支持 Fileman 的开发工作！</translation>
+        <translation>&lt;b&gt;Fileman 是一个旗鱼系统文件管理器。&lt;br&gt;&lt;br&gt;Fileman是采用 GNU  (GPL) 版本3及以上许可协议的自由软件。&lt;br&gt;如果你想支持 Fileman 的开发不放考虑捐赠。&lt;br&gt;&lt;br&gt;非常感谢你支持 Fileman 的开发工作！</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
@@ -569,87 +569,87 @@
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished">缩略图</translation>
+        <translation>缩略图</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished">保存生成的缩略图以快速加载</translation>
+        <translation>保存生成的缩略图以快速加载</translation>
     </message>
     <message>
         <source>File display look</source>
-        <translation type="unfinished">文件显示查看</translation>
+        <translation>文件显示外观</translation>
     </message>
     <message>
         <source>Overlay visibility (seconds)</source>
-        <translation type="unfinished">在当前目录内搜索(秒)</translation>
+        <translation>在当前目录内搜索(秒)</translation>
     </message>
     <message>
         <source>Browse through all files</source>
-        <translation type="unfinished">浏览所有文件</translation>
+        <translation>浏览所有文件</translation>
     </message>
     <message>
         <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation type="unfinished">查看文件时，浏览所有可查看文件而不是相同类型的文件</translation>
+        <translation>查看文件时，浏览所有可查看文件而不是相同类型的文件</translation>
     </message>
     <message>
         <source>Display black background</source>
-        <translation type="unfinished">显示黑色背景</translation>
+        <translation>显示黑色背景</translation>
     </message>
     <message>
         <source>Display a black background when viewing image and video files</source>
-        <translation type="unfinished">当查看图片及视频文件时显示黑色背景</translation>
+        <translation>当查看图片及视频文件时显示黑色背景</translation>
     </message>
     <message>
         <source>File arrangement order</source>
-        <translation type="unfinished"></translation>
+        <translation>文件排列顺序</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation type="unfinished">分类方式</translation>
+        <translation>分类方式</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished">时间</translation>
+        <translation>时间</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">大小</translation>
+        <translation>大小</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Sort order</source>
-        <translation type="unfinished">分类顺序</translation>
+        <translation>分类顺序</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished">升序</translation>
+        <translation>升序</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished">降序</translation>
+        <translation>降序</translation>
     </message>
     <message>
         <source>Directory order</source>
-        <translation type="unfinished">目录顺序</translation>
+        <translation>目录顺序</translation>
     </message>
     <message>
         <source>Display directories first</source>
-        <translation type="unfinished">显示较早的目录</translation>
+        <translation>显示较早的目录</translation>
     </message>
     <message>
         <source>Display directories last</source>
-        <translation type="unfinished">显示较新的目录</translation>
+        <translation>显示较新的目录</translation>
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-        <translation type="unfinished">不排列目录</translation>
+        <translation>不排列目录</translation>
     </message>
 </context>
 <context>
@@ -660,7 +660,7 @@
     </message>
     <message>
         <source>Note: You can only share one file at a time. Not multiple ones.</source>
-        <translation>注意：你仅可每次分享一个文件，不能一次分享多个文件。</translation>
+        <translation>注意：你每次仅可分享一个文件，不能一次分享多个文件。</translation>
     </message>
 </context>
 <context>
@@ -772,7 +772,7 @@
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation>Fileman 是使用 GNU 通用许可协议版本3及以上（GPL）的自由软件。</translation>
+        <translation>Fileman 是采用 GNU 通用许可协议版本3及以上（GPL）的自由软件。</translation>
     </message>
     <message>
         <source>If you want to support Fileman and its development please consider donating.</source>
