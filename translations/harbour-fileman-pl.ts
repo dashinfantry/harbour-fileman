@@ -53,27 +53,27 @@
     </message>
     <message>
         <source>Thanks to Velox and Sargo-devel for the help on the Search function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podziekowani a dla Velox i Sargo-devel za pomoc z funcją Szukania.</translation>
     </message>
     <message>
         <source>Donate with Paypal</source>
-        <translation type="unfinished"></translation>
+        <translation>Wspomóż przez Paypal</translation>
     </message>
     <message>
         <source>Fileman translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumacze Filemana</translation>
     </message>
     <message>
         <source>Donations</source>
-        <translation type="unfinished"></translation>
+        <translation>Dotacje</translation>
     </message>
     <message>
         <source>If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli lubisz moją pracę i chcesz mi kupić piwo, śmiało, zrób to!</translation>
     </message>
     <message>
         <source>GitHub repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Repozytorium GitHub</translation>
     </message>
 </context>
 <context>
@@ -178,11 +178,11 @@
     </message>
     <message>
         <source>About Fileman</source>
-        <translation type="unfinished">O Fileman</translation>
+        <translation>O Fileman</translation>
     </message>
     <message>
         <source>Fileman settings</source>
-        <translation type="unfinished">Ustawienia Fileman</translation>
+        <translation>Ustawienia Fileman</translation>
     </message>
 </context>
 <context>
@@ -447,19 +447,19 @@
     <name>NewFilesDialog</name>
     <message>
         <source>directory</source>
-        <translation type="unfinished"></translation>
+        <translation>katalog</translation>
     </message>
     <message>
         <source>file</source>
-        <translation type="unfinished"></translation>
+        <translation>plik</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Add </source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj </translation>
     </message>
 </context>
 <context>
@@ -569,87 +569,87 @@
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniatury</translation>
+        <translation>Miniatury</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished">Zapisz wygenerowane miniatury w celu szybszego ładowania</translation>
+        <translation>Zapisz wygenerowane miniatury w celu szybszego ładowania</translation>
     </message>
     <message>
         <source>File display look</source>
-        <translation type="unfinished">Wyglad wyswietlania plików</translation>
+        <translation>Wyglad wyswietlania plików</translation>
     </message>
     <message>
         <source>Overlay visibility (seconds)</source>
-        <translation type="unfinished">Widoczność nakładki (w sekundach)</translation>
+        <translation>Widoczność nakładki (w sekundach)</translation>
     </message>
     <message>
         <source>Browse through all files</source>
-        <translation type="unfinished">Wyszukuj wśród wszystkich plików</translation>
+        <translation>Wyszukuj wśród wszystkich plików</translation>
     </message>
     <message>
         <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation type="unfinished">Podczas przeglądania pliku przeglądaj wszystkie widoczne pliki zamiast plików o tym samym typie pliku</translation>
+        <translation>Podczas przeglądania pliku przeglądaj wszystkie widoczne pliki zamiast plików o tym samym typie pliku</translation>
     </message>
     <message>
         <source>Display black background</source>
-        <translation type="unfinished">Wyświetl czarne tło</translation>
+        <translation>Wyświetl czarne tło</translation>
     </message>
     <message>
         <source>Display a black background when viewing image and video files</source>
-        <translation type="unfinished">Wyświetl czarne tło podczas oglądania plików wideo i obrazów</translation>
+        <translation>Wyświetl czarne tło podczas oglądania plików wideo i obrazów</translation>
     </message>
     <message>
         <source>File arrangement order</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolejność rozmieszczenia plików</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation type="unfinished">Sortuj po</translation>
+        <translation>Sortuj po</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nazwa</translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished">Czas</translation>
+        <translation>Czas</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Rozmiar</translation>
+        <translation>Rozmiar</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Sort order</source>
-        <translation type="unfinished">Kolejność sortowania</translation>
+        <translation>Kolejność sortowania</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished">Rosnąco</translation>
+        <translation>Rosnąco</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished">Malejąco</translation>
+        <translation>Malejąco</translation>
     </message>
     <message>
         <source>Directory order</source>
-        <translation type="unfinished">Kolejność katalogów</translation>
+        <translation>Kolejność katalogów</translation>
     </message>
     <message>
         <source>Display directories first</source>
-        <translation type="unfinished">Wyświetl katalogi jako pierwsze</translation>
+        <translation>Wyświetl katalogi jako pierwsze</translation>
     </message>
     <message>
         <source>Display directories last</source>
-        <translation type="unfinished">Wyświetl katalogi jako ostatnie</translation>
+        <translation>Wyświetl katalogi jako ostatnie</translation>
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-        <translation type="unfinished">Nie sortuj katalogów</translation>
+        <translation>Nie sortuj katalogów</translation>
     </message>
 </context>
 <context>
@@ -757,7 +757,7 @@
     </message>
     <message>
         <source>GitHub Fileman project</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt Fileman na GitHubie</translation>
     </message>
 </context>
 <context>
