@@ -853,5 +853,9 @@
         <source>All files couldn&apos;t be deleted successfully.</source>
         <translation>Alle bestanden konden niet succesvol worden verwijderd.</translation>
     </message>
+    <message>
+        <source>All of the files were cut and pasted successfully.</source>
+        <translation>Alle bestanden zijn succesvol geknipt en geplakt.</translation>
+    </message>
 </context>
 </TS>

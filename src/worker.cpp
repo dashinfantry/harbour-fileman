@@ -225,7 +225,7 @@ void Worker::pasteFiles(bool cut)
 
             // Check if files were copied and deleted successfully
             if (fileErrorMap.count() == 0 && directoryErrorMap.count() == 0)
-                emit progressTextChanged("All of the files were cut and pasted successfully.");
+                emit progressTextChanged(tr("All of the files were cut and pasted successfully."));
             else
                 emit progressTextChanged(tr("All of the files couldn't be cut and pasted successfully."));
 

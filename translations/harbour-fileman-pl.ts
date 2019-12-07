@@ -853,5 +853,9 @@
         <source>All files couldn&apos;t be deleted successfully.</source>
         <translation>Nie wszystkie pliki zostały usunięte.</translation>
     </message>
+    <message>
+        <source>All of the files were cut and pasted successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>
