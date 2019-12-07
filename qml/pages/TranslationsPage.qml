@@ -38,7 +38,12 @@ Page
             CollaboratorsLabel {
                 title: "Chinese"
                 labelData: [ "Dashinfantry" ]
-            }            
+            }
+
+            CollaboratorsLabel {
+                title: "Czech"
+                labelData: [ "Malakay" ]
+            }
 
             CollaboratorsLabel {
                 title: "French"

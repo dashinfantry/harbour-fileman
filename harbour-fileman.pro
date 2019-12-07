@@ -10,6 +10,7 @@ i18n.files = translations/harbour-fileman-de.qm \
              translations/harbour-fileman-pl.qm \
              translations/harbour-fileman-pt_BR.qm \
              translations/harbour-fileman-zh_CN.qm \
+             translations/harbour-fileman-cs.qm \
              translations/harbour-fileman-fi.qm
 
 INSTALLS += i18n
@@ -125,6 +126,7 @@ TRANSLATIONS += \
     translations/harbour-fileman-pl.ts \
     translations/harbour-fileman-zh_CN.ts \
     translations/harbour-fileman-pt_BR.ts \ 
+    translations/harbour-fileman-cs.ts \
     translations/harbour-fileman-fi.ts
 
 RESOURCES += \
