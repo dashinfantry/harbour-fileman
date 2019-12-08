@@ -855,7 +855,7 @@
     </message>
     <message>
         <source>All of the files were cut and pasted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>所有的文件已被成功复制及粘贴。</translation>
     </message>
 </context>
 </TS>
