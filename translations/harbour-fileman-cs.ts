@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>Donate with Paypal</source>
-        <translation>Příspěvkyt přes Paypal</translation>
+        <translation>Příspěvky přes Paypal</translation>
     </message>
     <message>
         <source>Fileman translations</source>
@@ -855,7 +855,7 @@
     </message>
     <message>
         <source>All of the files were cut and pasted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechny soubory úspěšně přesunuty.</translation>
     </message>
 </context>
 </TS>

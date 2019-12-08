@@ -131,5 +131,3 @@ TRANSLATIONS += \
 
 RESOURCES += \
     resources.qrc
-
-
