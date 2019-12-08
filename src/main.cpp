@@ -1,9 +1,5 @@
-#ifdef QT_QML_DEBUG
 #include <QtQuick>
-#endif
-
-#include <QtQuick>
-
+#include <QQmlComponent>
 #include <sailfishapp.h>
 #include "thumbnailprovider.h"
 #include "settings.h"

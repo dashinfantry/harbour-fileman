@@ -16,6 +16,7 @@ PkgConfigBR:
 - Qt5Core
 - Qt5Qml
 - Qt5Quick
+- qt5-qtmultimedia
 Requires:
 - qt5-qtsvg-plugin-imageformat-svg >= 0-1.2.2
 - sailfishsilica-qt5 >= 0.10.9
