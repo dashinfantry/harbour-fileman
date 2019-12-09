@@ -371,7 +371,7 @@
     </message>
     <message>
         <source>Open external</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít externě</translation>
     </message>
 </context>
 <context>
