@@ -230,10 +230,6 @@
         <translation>Upravit jako text</translation>
     </message>
     <message>
-        <source>Open</source>
-        <translation>Otevřít</translation>
-    </message>
-    <message>
         <source>Execute</source>
         <translation>Spustit</translation>
     </message>
@@ -372,6 +368,10 @@
     <message>
         <source>PDF document</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Open external</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

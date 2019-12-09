@@ -230,10 +230,6 @@
         <translation>Bewerken als tekst</translation>
     </message>
     <message>
-        <source>Open</source>
-        <translation>Openen</translation>
-    </message>
-    <message>
         <source>Execute</source>
         <translation>Uitvoeren</translation>
     </message>
@@ -372,6 +368,10 @@
     <message>
         <source>PDF document</source>
         <translation>PDF document</translation>
+    </message>
+    <message>
+        <source>Open external</source>
+        <translation>Open extern</translation>
     </message>
 </context>
 <context>

@@ -246,7 +246,7 @@ QVariantMap FileInfo::getFileActions(QString fullPath)
         actionMap.insert("Edit as text", editAsTextAction);
 
         QVariantMap openSystemAction;
-        openSystemAction.insert("label", tr("Open"));
+        openSystemAction.insert("label", tr("Open external"));
         openSystemAction.insert("action", "openSystem");
         openSystemAction.insert("process", true);
         actionMap.insert("Open", openSystemAction);

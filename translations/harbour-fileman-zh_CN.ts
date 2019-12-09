@@ -230,10 +230,6 @@
         <translation>作为文本编辑</translation>
     </message>
     <message>
-        <source>Open</source>
-        <translation>打开</translation>
-    </message>
-    <message>
         <source>Execute</source>
         <translation>可执行</translation>
     </message>
@@ -372,6 +368,10 @@
     <message>
         <source>PDF document</source>
         <translation>PDF 文件</translation>
+    </message>
+    <message>
+        <source>Open external</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

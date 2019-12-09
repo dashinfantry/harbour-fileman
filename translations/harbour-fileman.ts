@@ -230,10 +230,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Execute</source>
         <translation type="unfinished">Execute</translation>
     </message>
@@ -371,6 +367,10 @@
     </message>
     <message>
         <source>PDF document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open external</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -230,10 +230,6 @@
         <translation>Edytuj jak tekst</translation>
     </message>
     <message>
-        <source>Open</source>
-        <translation>Otwórz</translation>
-    </message>
-    <message>
         <source>Execute</source>
         <translation>Wykonaj</translation>
     </message>
@@ -372,6 +368,10 @@
     <message>
         <source>PDF document</source>
         <translation>Dokument PDF</translation>
+    </message>
+    <message>
+        <source>Open external</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
