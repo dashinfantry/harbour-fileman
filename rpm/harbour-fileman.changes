@@ -8,8 +8,26 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
-* Thu Sep 24 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-6
-- [MINOR BUGFIX] Add new directory or file
+* Mon Dec 9 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-10
+- [MINOR FIX] Internal videoplayer fixed
+- [UPDATE] Languages update
+
+* Sun Dec 8 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-9
+- [TEMPORARY FIX] Removed internal video player becoss there is something broke, i need more time to fix this.
+- [UPDATE] Languages update
+
+* Sun Dec 8 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-8
+- [MINOR BUGFIX] Rework settings code
+- [UPDATE] Languages update
+- [MINOR BUGFIX] Small bugs fixed
+
+* Sun Dec 1 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-7
+- [MINOR BUGFIX] Rework settings code
+- [MINOR BUGFIX] Rework directory search code
+- [MINOR BUGFIX] Small bugs fixed
+
+* Thu Sep 24 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-5
+- [UPDATE] Languages update
 
 * Thu Sep 24 2019 Rudi Timmermans <rudi.timmer@mail.ch> 1.1-5
 - [UPDATE] Languages update
