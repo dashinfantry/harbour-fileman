@@ -73,6 +73,7 @@ DISTFILES += \
     qml/pages/components/MyHighlightImage3.qml \
     qml/pages/components/PlainButton.qml \
     qml/pages/components/LabelSpacer.qml \
+    qml/pages/components/ScreenBlank.qml \
     qml/pages/fileView/Image.qml \
     qml/pages/fileView/Video.qml \
     qml/pages/fileView/Text.qml \

@@ -4,6 +4,8 @@ import Sailfish.Media 1.0
 import org.nemomobile.mpris 1.0
 import QtMultimedia 5.0
 import Nemo.Thumbnailer 1.0
+import Nemo.KeepAlive 1.2
+import "../components"
 
 Flickable {
     id: fileView
@@ -64,7 +66,7 @@ Flickable {
     }
 
     ScreenBlank {
-        suspend: video.playbackState == MediaPlayer.PlayingState
+        enabled: video.playbackState == MediaPlayer.PlayingState
     }
 
     MouseArea {
@@ -120,7 +122,7 @@ Flickable {
             valueText: "0:00"
 
             minimumValue: 0
-            maximumValue: -1 // If both minimumValue and maximumValue are 0 the Slider goes haywire
+            maximumValue: -1
 
             onReleased: video.seek(value)
         }
