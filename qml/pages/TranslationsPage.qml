@@ -66,6 +66,16 @@ Page
             }
 
             CollaboratorsLabel {
+                title: "Polish"
+                labelData: [ "Atlochowski" ]
+            }
+
+            CollaboratorsLabel {
+                title: "Russian"
+                labelData: [ "Laphilis" ]
+            }
+
+            CollaboratorsLabel {
                 title: "Spanish"
                 labelData: [ "Carmenfdezb" ]
             }
@@ -73,11 +83,6 @@ Page
             CollaboratorsLabel {
                 title: "Swedish"
                 labelData: [ "Eson" ]
-            }
-
-            CollaboratorsLabel {
-                title: "Polish"
-                labelData: [ "Atlochowski" ]
             }
         }
     }

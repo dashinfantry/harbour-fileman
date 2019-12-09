@@ -1,861 +1,861 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="cs">
+<TS version="2.1" language="ru">
 <context>
     <name>AboutPage</name>
     <message>
         <source>What&apos;s</source>
-        <translation>Co je</translation>
+        <translation>Какое&apos;s</translation>
     </message>
     <message>
         <source>Licensing</source>
-        <translation>Licence</translation>
+        <translation>Лицензия</translation>
     </message>
     <message>
         <source>is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation>je svobodný software vydaný pod licencí GNU GPL verze 3 a novější.</translation>
+        <translation>это бесплатное программное обеспечение, выпущенное на условиях GNU General Public License (GPL) версии 3 или более поздней.</translation>
     </message>
     <message>
         <source>Rudi Timmermans</source>
-        <translation>Rudi Timmermans</translation>
+        <translation>Руди Тиммерманс</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation>Verze</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation>Fileman je správce souborů pro Sailfish OS.</translation>
+        <translation>Fileman - это файловый менеджер для Sailfish OS.</translation>
     </message>
     <message>
         <source>Fileman developer</source>
-        <translation>Vývojář</translation>
+        <translation>Разработчик Fileman</translation>
     </message>
     <message>
         <source>About Fileman</source>
-        <translation>O Fileman</translation>
+        <translation>О Fileman</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Ikony</translation>
+        <translation>Иконки</translation>
     </message>
     <message>
         <source>Fileman icons made by Gregguh.</source>
-        <translation>Ikony vytvořil Gregguh.</translation>
+        <translation>Создатель иконок для Fileman Gregguh.</translation>
     </message>
     <message>
         <source>Thanking</source>
-        <translation>Poděkování</translation>
+        <translation>Благодарность</translation>
     </message>
     <message>
         <source>Report an Issue</source>
-        <translation>Nahlásit chybu</translation>
+        <translation>Сообщить о проблеме</translation>
     </message>
     <message>
         <source>Thanks to Velox and Sargo-devel for the help on the Search function.</source>
-        <translation>Díky za pomoc s funkcí hledání patří Velox a Sargo-devel.</translation>
+        <translation>Спасибо Velox и Sargo-devel за помощь в функции поиска.</translation>
     </message>
     <message>
         <source>Donate with Paypal</source>
-        <translation>Příspěvky přes Paypal</translation>
+        <translation>Пожертвовать через Paypal</translation>
     </message>
     <message>
         <source>Fileman translations</source>
-        <translation>Překlady aplikace</translation>
+        <translation>Переводчики Fileman</translation>
     </message>
     <message>
         <source>Donations</source>
-        <translation>Příspěvky</translation>
+        <translation>Пожертвования</translation>
     </message>
     <message>
         <source>If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation>Pokud se vám má práce líbí a chcete mi koupit pivko, klidně přispějte!</translation>
+        <translation>Если вам нравится моя работа и вы хотите купить мне пиво, не стесняйтесь делать это!</translation>
     </message>
     <message>
         <source>GitHub repository</source>
-        <translation>GitHub repozitář</translation>
+        <translation>GitHub репозиторий</translation>
     </message>
 </context>
 <context>
     <name>DirectoryFileOperations</name>
     <message>
         <source>Rename</source>
-        <translation>Přejmenovat</translation>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Vyjmout</translation>
+        <translation>Вырезать</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Kopírovat</translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Vložit</translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Smazat</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Compress</source>
-        <translation>Zabalit</translation>
+        <translation>Сжать</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation>Sdílet</translation>
+        <translation>Поделиться</translation>
     </message>
     <message>
         <source>1 entry selected</source>
-        <translation>Vybrán 1 soubor</translation>
+        <translation>выбрана 1 запись</translation>
     </message>
     <message>
         <source> entries selected</source>
-        <translation> vybraných souborů</translation>
+        <translation>выбранные записи</translation>
     </message>
     <message>
         <source>1 entry in clipboard</source>
-        <translation>1 soubor ve schránce</translation>
+        <translation>1 запись в буфере обмена</translation>
     </message>
     <message>
         <source> entries in clipboard</source>
-        <translation> souborů ve schránce</translation>
+        <translation>записей в буфере обмена</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPage</name>
     <message>
         <source>Deleting </source>
-        <translation>Odstraňování </translation>
+        <translation>Удаление</translation>
     </message>
     <message>
         <source>Copying </source>
-        <translation>Kopírování </translation>
+        <translation>Копирование</translation>
     </message>
     <message>
         <source> entry</source>
-        <translation> souboru</translation>
+        <translation>запись</translation>
     </message>
     <message>
         <source> entries</source>
-        <translation> souborů</translation>
+        <translation>записи</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPullDownMenu</name>
     <message>
         <source>Global search</source>
-        <translation>Globální hledání</translation>
+        <translation>Глобальный поиск</translation>
     </message>
     <message>
         <source>Show page header</source>
-        <translation>Zobrazit cestu</translation>
+        <translation>Показать заголовок страницы</translation>
     </message>
     <message>
         <source>Don&apos;t show page header</source>
-        <translation>Skrýt cestu</translation>
+        <translation>Don&apos; показать заголовок страницы</translation>
     </message>
     <message>
         <source>Show hidden files</source>
-        <translation>Zobrazit skryté soubory</translation>
+        <translation>Показать скрытые файлы</translation>
     </message>
     <message>
         <source>Don&apos;t show hidden files</source>
-        <translation>Nezobrazovat skryté soubory</translation>
+        <translation>Don&apos;t показать скрытые файлы</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation>Nový...</translation>
+        <translation>Новый...</translation>
     </message>
     <message>
         <source>Places</source>
-        <translation>Místa</translation>
+        <translation>Места</translation>
     </message>
     <message>
         <source>Search in directory</source>
-        <translation>Hledat ve složce</translation>
+        <translation>Поиск в каталоге</translation>
     </message>
     <message>
         <source>About Fileman</source>
-        <translation>O aplikaci</translation>
+        <translation>О Fileman</translation>
     </message>
     <message>
         <source>Fileman settings</source>
-        <translation>Nastavení</translation>
+        <translation>Настройки Fileman</translation>
     </message>
 </context>
 <context>
     <name>DirectoryPushUpMenu</name>
     <message>
         <source>Add to bookmarks</source>
-        <translation>Přidat zkratku</translation>
+        <translation>Добавить в закладки</translation>
     </message>
     <message>
         <source>Remove from bookmarks</source>
-        <translation>Odstranit zkratku</translation>
+        <translation>Удалить из закладок</translation>
     </message>
     <message>
         <source>Directory properties</source>
-        <translation>Vlastnosti složky</translation>
+        <translation>Свойства каталога</translation>
     </message>
 </context>
 <context>
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
-        <translation>&lt;b&gt;Fileman je správce souborů pro Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman je svobodný software vydaný pod licencí GNU GPL verze 3 a novější.&lt;br&gt;&lt;br&gt;Pokud chcete podpořit Fileman a jeho vývojáře, zvažte prosím příspěvek.&lt;br&gt;&lt;br&gt;Velice vám děkuji za příspěvek na vývoj Filemanu!</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show again</source>
-        <translation>Již nezobrazovat</translation>
+        <translation type="unfinished">&lt;b&gt;Fileman - файловый менеджер для Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman - это бесплатное программное обеспечение, выпущенное под лицензией GNU General Public License (GPL) версии 3 или более поздней.&lt;br&gt;&lt;br&gt;Если вы хотите поддержать Fileman и его разработку, рассмотрите возможность пожертвования.&lt;br&gt;&lt;br&gt;Большое спасибо за ваш вклад в развитие Fileman!</translation>
     </message>
     <message>
         <source>Donate!</source>
-        <translation>Přispět!</translation>
+        <translation type="unfinished">Пожертвовать!</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again</source>
+        <translation type="unfinished">Don&apos; показать снова</translation>
     </message>
 </context>
 <context>
     <name>FileInfo</name>
     <message>
         <source>File information</source>
-        <translation>Informace o souboru</translation>
+        <translation>Информация о файле</translation>
     </message>
     <message>
         <source>Show as text</source>
-        <translation>Zobrazit jako text</translation>
+        <translation>Показать как текст</translation>
     </message>
     <message>
         <source>Edit as text</source>
-        <translation>Upravit jako text</translation>
+        <translation>Изменить как текст</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation>Spustit</translation>
+        <translation>ВыполнитьExecute</translation>
     </message>
     <message>
         <source>MPG video</source>
-        <translation></translation>
+        <translation>MPG видео</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Šířka</translation>
+        <translation>Ширина</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation>Výška</translation>
+        <translation>Высота</translation>
     </message>
     <message>
         <source>Image details</source>
-        <translation>Detaily obrázku</translation>
+        <translation>Детали изображения</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Size</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>Last modified</source>
-        <translation>Naposled upraven</translation>
+        <translation>Последнее изменение</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation>Vytvořen</translation>
+        <translation>Создано</translation>
     </message>
     <message>
         <source>File details</source>
-        <translation>Detaily souboru</translation>
+        <translation>Сведения о файле</translation>
     </message>
     <message>
         <source>Directory details</source>
-        <translation>Detaily složky</translation>
+        <translation>Подробности каталога</translation>
     </message>
     <message>
         <source>PNG image</source>
-        <translation></translation>
+        <translation>PNG изображение</translation>
     </message>
     <message>
         <source>JPEG image</source>
-        <translation></translation>
+        <translation>JPEG изображение</translation>
     </message>
     <message>
         <source>GIF image</source>
-        <translation></translation>
+        <translation>GIF-изображение</translation>
     </message>
     <message>
         <source>SVG vector image</source>
-        <translation></translation>
+        <translation>SVG векторное изображение</translation>
     </message>
     <message>
         <source>AVI video</source>
-        <translation></translation>
+        <translation>AVI видео</translation>
     </message>
     <message>
         <source>MOV video</source>
-        <translation></translation>
+        <translation>MOV видео</translation>
     </message>
     <message>
         <source>3GP video</source>
-        <translation></translation>
+        <translation>3GP видео</translation>
     </message>
     <message>
         <source>MKV video</source>
-        <translation></translation>
+        <translation>MKV видео</translation>
     </message>
     <message>
         <source>WMV video</source>
-        <translation></translation>
+        <translation>WMV видео</translation>
     </message>
     <message>
         <source>MP3 audio</source>
-        <translation></translation>
+        <translation>MP3 аудио</translation>
     </message>
     <message>
         <source>OGG audio</source>
-        <translation></translation>
+        <translation>OGG аудио</translation>
     </message>
     <message>
         <source>FLAC audio</source>
-        <translation></translation>
+        <translation>FLAC аудио</translation>
     </message>
     <message>
         <source>Android application package</source>
-        <translation>Android balíček</translation>
+        <translation>Пакет приложений Android</translation>
     </message>
     <message>
         <source>RPM package</source>
-        <translation>RPM balíček</translation>
+        <translation>RPM пакет</translation>
     </message>
     <message>
         <source>Text file</source>
-        <translation>Textový soubor</translation>
+        <translation>текстовый файл</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation>Instalovat</translation>
+        <translation>Установить</translation>
     </message>
     <message>
         <source>ZIP archive</source>
-        <translation></translation>
+        <translation>ZIP архив</translation>
     </message>
     <message>
         <source>TAR.GZ archive</source>
-        <translation></translation>
+        <translation>архив TAR.GZ</translation>
     </message>
     <message>
         <source>MP4 video</source>
-        <translation></translation>
+        <translation>MP4 видео</translation>
     </message>
     <message>
         <source>Word 2007 document</source>
-        <translation></translation>
+        <translation>Документ Word 2007</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation>neznámý</translation>
+        <translation>неизвестный</translation>
     </message>
     <message>
         <source>Word document</source>
-        <translation></translation>
+        <translation>Документ Word</translation>
     </message>
     <message>
         <source>Excel spreadsheet</source>
-        <translation></translation>
+        <translation>Электронная таблица Excel</translation>
     </message>
     <message>
         <source>Excel 2007 spreadsheet</source>
-        <translation></translation>
+        <translation>Электронная таблица Excel 2007</translation>
     </message>
     <message>
         <source>PDF document</source>
-        <translation></translation>
+        <translation>PDF документ</translation>
     </message>
     <message>
         <source>Open external</source>
-        <translation>Otevřít externě</translation>
+        <translation>Открыть внешний</translation>
     </message>
 </context>
 <context>
     <name>FileOperationPage</name>
     <message>
         <source>Copying files</source>
-        <translation>Kopíruji soubory</translation>
+        <translation>Копирование файлов</translation>
     </message>
     <message>
         <source>Deleting files</source>
-        <translation>Odstraňuji soubory</translation>
+        <translation>Удаление файлов</translation>
     </message>
 </context>
 <context>
     <name>FileProcess</name>
     <message>
         <source>Opening file...</source>
-        <translation>Otvírám soubor...</translation>
+        <translation>Открытие файла ...</translation>
     </message>
     <message>
         <source>Installing...</source>
-        <translation>Instaluji...</translation>
+        <translation>Установка...</translation>
     </message>
     <message>
         <source>Installing packages</source>
-        <translation>Instaluji balíčky</translation>
+        <translation>Установка пакетов</translation>
     </message>
     <message>
         <source>Downloading packages</source>
-        <translation>Stahuji balíčky</translation>
+        <translation>Загрузка пакетов</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation>Instalováno</translation>
+        <translation>Установлен</translation>
     </message>
     <message>
         <source>Nothing was done</source>
-        <translation>Nic nebylo provedeno</translation>
+        <translation>Ничего не было сделано</translation>
     </message>
     <message>
         <source>Installation failed</source>
-        <translation>Instalace selhala</translation>
+        <translation>Установка не удалась</translation>
     </message>
     <message>
         <source>Installation was started</source>
-        <translation>Instalace začala</translation>
+        <translation>Установка была начата</translation>
     </message>
     <message>
         <source>Installation couldn&apos;t be started</source>
-        <translation>Instalace nemohla začít</translation>
+        <translation>Установка не может&apos;t не может быть начата</translation>
     </message>
     <message>
         <source>File opened</source>
-        <translation>Soubor otevřen</translation>
+        <translation>Файл открыт</translation>
     </message>
     <message>
         <source>Suitable application was not found</source>
-        <translation>Nebyla nalezena potřebná aplikace</translation>
+        <translation>Подходящее приложение не найдено</translation>
     </message>
     <message>
         <source>File couldn&apos;t be opened</source>
-        <translation>Soubor nelze otevřít</translation>
+        <translation>Файл не может&apos;t не быть открытым</translation>
     </message>
 </context>
 <context>
     <name>FileRenameDialog</name>
     <message>
         <source>Rename</source>
-        <translation>Přejmenovat</translation>
+        <translation>Переименовать</translation>
     </message>
 </context>
 <context>
     <name>NewFilesDialog</name>
     <message>
         <source>directory</source>
-        <translation>složku</translation>
+        <translation>каталог</translation>
     </message>
     <message>
         <source>file</source>
-        <translation>soubor</translation>
+        <translation>файл</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Vytvořit</translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>Add </source>
-        <translation>Vytvořit </translation>
+        <translation>Добавить </translation>
     </message>
 </context>
 <context>
     <name>PermissionEdit</name>
     <message>
         <source>Read</source>
-        <translation>Číst</translation>
+        <translation>Чтение</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Zapisovat</translation>
+        <translation>Запись</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation>Spouštět</translation>
+        <translation>Выполнение</translation>
     </message>
     <message>
         <source>User permissions</source>
-        <translation>Uživatelská oprávnění</translation>
+        <translation>Права пользователя</translation>
     </message>
     <message>
         <source>Group permissions</source>
-        <translation>Skupinová oprávnění</translation>
+        <translation>Групповые разрешения</translation>
     </message>
     <message>
         <source>Owner permissions</source>
-        <translation>Vlastnická oprávnění</translation>
+        <translation>Права владельца</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>%1 bytes</source>
-        <translation>%1 bajtů</translation>
+        <translation>%1 Байт</translation>
     </message>
     <message>
         <source>%1 kB</source>
-        <translation></translation>
+        <translation>%1 кБайт</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation></translation>
+        <translation>%1 Мегабайт</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation></translation>
+        <translation>%1 Гигабайт</translation>
     </message>
 </context>
 <context>
     <name>SearchPage</name>
     <message>
         <source>Searching</source>
-        <translation>Hledám</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Hledat</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>%1 hits</source>
-        <translation>%1 shod</translation>
+        <translation>% 1 просмотров</translation>
     </message>
     <message>
         <source>Go to containing folder</source>
-        <translation>Jít do složky</translation>
+        <translation>Перейти в папку с содержимым</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation>Odstraňování</translation>
+        <translation>Удаление</translation>
     </message>
 </context>
 <context>
     <name>SearchWorker</name>
     <message>
         <source>Search already in progress</source>
-        <translation>Hledání již probíhá</translation>
+        <translation>Поиск уже выполняется</translation>
     </message>
     <message>
         <source>Bad search parameters</source>
-        <translation>Špatné parametry hledání</translation>
+        <translation>Неверные параметры поиска</translation>
     </message>
 </context>
 <context>
     <name>SelectionPanel</name>
     <message>
         <source>%1 selected</source>
-        <translation>%1 vybráno</translation>
+        <translation>выбран %1</translation>
     </message>
     <message>
         <source>%1 cut</source>
-        <translation>%1 vyjmuto</translation>
+        <translation>вырезан %1</translation>
     </message>
     <message>
         <source>%1 copied</source>
-        <translation>%1 zkopírováno</translation>
+        <translation>скопирован %1</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Cache thumbnails</source>
-        <translation>Generovat náhledy</translation>
+        <translation>Кэшированные эскизы</translation>
     </message>
     <message>
         <source>Fileman settings</source>
-        <translation>Nastavení Filemanu</translation>
+        <translation>Настройки Fileman</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation>Náhledy</translation>
+        <translation>Миниатюры</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation>Uložit vygenerované náhledy pro rychlejší načtení</translation>
+        <translation>Сохранение созданных миниатюр для быстрой загрузки</translation>
     </message>
     <message>
         <source>File display look</source>
-        <translation>Vzhled zobrazení souboru</translation>
+        <translation>Внешний вид файла</translation>
     </message>
     <message>
         <source>Overlay visibility (seconds)</source>
-        <translation>Viditelnost překryvu (sekund)</translation>
+        <translation>Видимость наложения (секунды)</translation>
     </message>
     <message>
         <source>Browse through all files</source>
-        <translation>Procházet všechny soubory</translation>
+        <translation>Просмотр всех файлов</translation>
     </message>
     <message>
         <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation>Při zobrazení souboru zobrazit všechny zobrazitelné typy místo těch se stejnou příponou</translation>
+        <translation>При просмотре файла просмотрите все просматриваемые файлы вместо файлов с одинаковым типом файла</translation>
     </message>
     <message>
         <source>Display black background</source>
-        <translation>Zobrazit černé pozadí</translation>
+        <translation>Показать черный фон</translation>
     </message>
     <message>
         <source>Display a black background when viewing image and video files</source>
-        <translation>Zobrazí černé pozadí při prohlížení obrázků a videí</translation>
+        <translation>Отображать черный фон при просмотре файлов изображений и видео</translation>
     </message>
     <message>
         <source>File arrangement order</source>
-        <translation>Pořadí zobrazení souborů</translation>
+        <translation>Порядок расположения файлов</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>Řadit dle</translation>
+        <translation>Сортировать по</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Jména</translation>
+        <translation>Имени</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Času</translation>
+        <translation>Времени</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Velikosti</translation>
+        <translation>Размеру</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Typu</translation>
+        <translation>Типу</translation>
     </message>
     <message>
         <source>Sort order</source>
-        <translation>Pořadí</translation>
+        <translation>Порядок сортировки</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation>Vzestupně</translation>
+        <translation>По возрастанию</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation>Sestupně</translation>
+        <translation>По убыванию</translation>
     </message>
     <message>
         <source>Directory order</source>
-        <translation>Pořadí složek</translation>
+        <translation>Порядок каталогов</translation>
     </message>
     <message>
         <source>Display directories first</source>
-        <translation>Zobrazit složky první</translation>
+        <translation>Сначала отображать каталоги</translation>
     </message>
     <message>
         <source>Display directories last</source>
-        <translation>Zobrazit složky poslední</translation>
+        <translation>Отображать последние каталоги</translation>
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-        <translation>Neřadit složky</translation>
+        <translation>Don&apos;t каталоги заказов</translation>
     </message>
 </context>
 <context>
     <name>ShareFilesPage</name>
     <message>
         <source>No sharing accounts available!</source>
-        <translation>Nejsou dostupné účty pro sdílení!</translation>
+        <translation>Нет доступных учетных записей!</translation>
     </message>
     <message>
         <source>Note: You can only share one file at a time. Not multiple ones.</source>
-        <translation>Pozn: Nelze sdílet více souborů najednou.</translation>
+        <translation>Примечание. За один раз вы можете поделиться только одним файлом. Не несколькими.</translation>
     </message>
 </context>
 <context>
     <name>ShortcutsView</name>
     <message>
         <source>Places</source>
-        <translation>Místa</translation>
+        <translation>Места</translation>
     </message>
     <message>
         <source>Locations</source>
-        <translation>SFOS Složky</translation>
+        <translation>Местоположения</translation>
     </message>
     <message>
         <source>Last location</source>
-        <translation>Poslední umístění</translation>
+        <translation>Последнее местоположение</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>Domovská složka</translation>
+        <translation>Home</translation>
     </message>
     <message>
         <source>Root</source>
-        <translation></translation>
+        <translation>Root</translation>
     </message>
     <message>
         <source>Documents</source>
-        <translation>Dokumenty</translation>
+        <translation>Документы</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation>Stažené</translation>
+        <translation>Загрузки</translation>
     </message>
     <message>
         <source>Music</source>
-        <translation>Hudba</translation>
+        <translation>Музыка</translation>
     </message>
     <message>
         <source>Pictures</source>
-        <translation>Obrázky</translation>
+        <translation>Изображения</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation>Videa</translation>
+        <translation>Видео</translation>
     </message>
     <message>
         <source>Android locations</source>
-        <translation>Android složky</translation>
+        <translation>местоположения Android&gt;</translation>
     </message>
     <message>
         <source>Android storage</source>
-        <translation>Úložiště Android</translation>
+        <translation>хранилище Android</translation>
     </message>
     <message>
         <source>Storage devices</source>
-        <translation>Úložiště</translation>
+        <translation>Устройства хранения данных</translation>
     </message>
     <message>
         <source>SD card</source>
-        <translation>SD karta</translation>
+        <translation>SD-карта</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation></translation>
+        <translation>Закладки</translation>
     </message>
 </context>
 <context>
     <name>TextEdit</name>
     <message>
         <source>Go back</source>
-        <translation>Zpět</translation>
+        <translation>Вернуться</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Vyčistit</translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Uložit</translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Clearing text area</source>
-        <translation>Maže se text</translation>
+        <translation>Очистка текстовой области</translation>
     </message>
     <message>
         <source>Saving file</source>
-        <translation>Ukládám soubor</translation>
+        <translation>Сохранение файла</translation>
     </message>
 </context>
 <context>
     <name>TranslationsPage</name>
     <message>
         <source>Fileman translators</source>
-        <translation>Fileman přeložili</translation>
+        <translation>Fileman переводчики</translation>
     </message>
     <message>
         <source>GitHub Fileman project</source>
-        <translation>GitHub stránka Filemanu</translation>
+        <translation>Проект GitHub Fileman</translation>
     </message>
 </context>
 <context>
     <name>WelcomePage</name>
     <message>
         <source>Welcome to Fileman.</source>
-        <translation>Vítejte ve Filemanu.</translation>
+        <translation>Добро пожаловать в Fileman.</translation>
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-        <translation>Fileman je správce souborů pro Sailfish OS.</translation>
+        <translation>Fileman - файловый менеджер для операционной системы Sailfish.</translation>
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation>Fileman je svobodný software vydaný pod licencí GNU GPL verze 3 a novější.</translation>
+        <translation>Fileman - это бесплатное программное обеспечение, выпущенное под лицензией GNU General Public License (GPL) версии 3 или более поздней.</translation>
     </message>
     <message>
         <source>If you want to support Fileman and its development please consider donating.</source>
-        <translation>Pokud chcete podpořit Fileman a jeho vývojáře, zvažte prosím příspěvek.</translation>
+        <translation>Если вы хотите поддержать Fileman и его разработку, рассмотрите возможность пожертвования.</translation>
     </message>
     <message>
         <source>Thank you very much for your donation to the development of Fileman!</source>
-        <translation>Velice děkujeme za váš příspěvek na Fileman!</translation>
+        <translation>Большое спасибо за ваш вклад в развитие Fileman!</translation>
     </message>
     <message>
         <source>Donate!</source>
-        <translation>Přispět!</translation>
+        <translation>Пожертвовать!</translation>
     </message>
 </context>
 <context>
     <name>Worker</name>
     <message>
         <source>Deleting files...</source>
-        <translation>Odstraňuji soubory...</translation>
+        <translation>Удаление файлов ...</translation>
     </message>
     <message>
         <source>Copying files...</source>
-        <translation>Kopíruji soubory...</translation>
+        <translation>Копирование файлов ...</translation>
     </message>
     <message>
         <source>Creating directories...</source>
-        <translation>Vytvářím složky...</translation>
+        <translation>Создание каталогов ...</translation>
     </message>
     <message>
         <source>Directories couldn&apos;t be created.</source>
-        <translation>Složky nemohly být vytvořeny.</translation>
+        <translation>Каталоги не могут&apos; не будет создано.</translation>
     </message>
     <message>
         <source>Copying files (%1 of %2)...</source>
-        <translation>Kopíruji soubory (%1 z %2)...</translation>
+        <translation>Копирование файлов (% 1 из% 2)</translation>
     </message>
     <message>
         <source>All files were copied successfully.</source>
-        <translation>Všechny soubory byly zkopírovány.</translation>
+        <translation>Все файлы были успешно скопированы.</translation>
     </message>
     <message>
         <source>All files couldn&apos;t be copied successfully.</source>
-        <translation>Nepodařilo se zkopírovat všechny soubory.</translation>
+        <translation>Все файлы не могут&apos; не будет успешно скопировано.</translation>
     </message>
     <message>
         <source>Deleting old files (%1 of %2)...</source>
-        <translation>Odstraňuji staré soubory (%1 z %2)...</translation>
+        <translation>Удаление старых файлов (% 1 из% 2) ...</translation>
     </message>
     <message>
         <source>Deleting old directories...</source>
-        <translation>Odstraňuji staré složky...</translation>
+        <translation>Удаление старых каталогов ...</translation>
     </message>
     <message>
         <source>All of the files couldn&apos;t be cut and pasted successfully.</source>
-        <translation>Nepodařilo se vyjmout a vložit všechny soubory.</translation>
+        <translation>Все файлы не могут&apos; быть вырезанным и вставленным успешно.</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting copied files (%1 of %2)...</source>
-        <translation>Nepodařilo se zkopírovat všechny soubory, mažou se kopie (%1 z %2)...</translation>
+        <translation>Не удалось скопировать все файлы, удалив скопированные файлы (% 1 из% 2) ...</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting created directories...</source>
-        <translation>Nepodařilo se zkopírovat všechny soubory, mažou se vytvořené složky...</translation>
+        <translation>Не удалось скопировать все файлы, удалив созданные каталоги ...</translation>
     </message>
     <message>
         <source>Deleting files (%1 of %2)...</source>
-        <translation>Odstraňují se soubory (%1 z %2)...</translation>
+        <translation>Удаление файлов (% 1 из% 2) ...</translation>
     </message>
     <message>
         <source>Deleting directories...</source>
-        <translation>Odstraňují se složky...</translation>
+        <translation>Удаление каталогов ...</translation>
     </message>
     <message>
         <source>All files were deleted successfully.</source>
-        <translation>Všechny soubory úspěšně odstraněny.</translation>
+        <translation>Все файлы были успешно удалены.</translation>
     </message>
     <message>
         <source>All files couldn&apos;t be deleted successfully.</source>
-        <translation>Nepodařilo se odstranit všechny soubory.</translation>
+        <translation>Все файлы не могут&apos; не может быть успешно удален.</translation>
     </message>
     <message>
         <source>All of the files were cut and pasted successfully.</source>
-        <translation>Všechny soubory úspěšně přesunuty.</translation>
+        <translation>Все файлы были успешно вырезаны и вставлены.</translation>
     </message>
 </context>
 </TS>
