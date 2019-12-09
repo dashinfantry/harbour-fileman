@@ -371,7 +371,7 @@
     </message>
     <message>
         <source>Open external</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz w zenętrznym programie</translation>
     </message>
 </context>
 <context>
@@ -855,7 +855,7 @@
     </message>
     <message>
         <source>All of the files were cut and pasted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki zostały wycięte i wklejone poprawnie.</translation>
     </message>
 </context>
 </TS>
