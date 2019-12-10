@@ -53,27 +53,27 @@
     </message>
     <message>
         <source>Thanks to Velox and Sargo-devel for the help on the Search function.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tack till Velox och Sargo-devel för hjälp med sökfunktionen.</translation>
     </message>
     <message>
         <source>Donate with Paypal</source>
-        <translation type="unfinished"></translation>
+        <translation>Donera via Paypal</translation>
     </message>
     <message>
         <source>Fileman translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Fileman-översättningar</translation>
     </message>
     <message>
         <source>Donations</source>
-        <translation type="unfinished"></translation>
+        <translation>Donationer</translation>
     </message>
     <message>
         <source>If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bjud mig gärna på en öl, om du gillar mitt arbete!</translation>
     </message>
     <message>
         <source>GitHub repository</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub</translation>
     </message>
 </context>
 <context>
@@ -178,11 +178,11 @@
     </message>
     <message>
         <source>About Fileman</source>
-        <translation type="unfinished">Om Fileman</translation>
+        <translation>Om Fileman</translation>
     </message>
     <message>
         <source>Fileman settings</source>
-        <translation type="unfinished">Fileman-inställningar</translation>
+        <translation>Fileman-inställningar</translation>
     </message>
 </context>
 <context>
@@ -371,7 +371,7 @@
     </message>
     <message>
         <source>Open external</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna externt</translation>
     </message>
 </context>
 <context>
@@ -569,87 +569,87 @@
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniatyrer</translation>
+        <translation>Miniatyrer</translation>
     </message>
     <message>
         <source>Save generated thumbnails for faster loading</source>
-        <translation type="unfinished">Spara skapade miniatyrer för snabbare inläsning</translation>
+        <translation>Spara skapade miniatyrer för snabbare inläsning</translation>
     </message>
     <message>
         <source>File display look</source>
-        <translation type="unfinished">Filvisningsutseende</translation>
+        <translation>Filvisningsutseende</translation>
     </message>
     <message>
         <source>Overlay visibility (seconds)</source>
-        <translation type="unfinished">Överläggssynlighet (sekunder)</translation>
+        <translation>Överläggssynlighet (sekunder)</translation>
     </message>
     <message>
         <source>Browse through all files</source>
-        <translation type="unfinished">Bläddra genom alla filer</translation>
+        <translation>Bläddra genom alla filer</translation>
     </message>
     <message>
         <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-        <translation type="unfinished">Bläddra bland alla visningsbara filer istället för enbart filer av samma filtyp</translation>
+        <translation>Bläddra bland alla visningsbara filer istället för enbart filer av samma filtyp</translation>
     </message>
     <message>
         <source>Display black background</source>
-        <translation type="unfinished">Visa svart bakgrund</translation>
+        <translation>Visa svart bakgrund</translation>
     </message>
     <message>
         <source>Display a black background when viewing image and video files</source>
-        <translation type="unfinished">Använd svart bakgrund vid visning av bild- och videofiler</translation>
+        <translation>Använd svart bakgrund vid visning av bild- och videofiler</translation>
     </message>
     <message>
         <source>File arrangement order</source>
-        <translation type="unfinished"></translation>
+        <translation>Filordning</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation type="unfinished">Sortera efter</translation>
+        <translation>Sortera efter</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished">Tidsstämpel</translation>
+        <translation>Tidsstämpel</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Storlek</translation>
+        <translation>Storlek</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Sort order</source>
-        <translation type="unfinished">Sorteringsordning</translation>
+        <translation>Sorteringsordning</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation type="unfinished">Stigande</translation>
+        <translation>Stigande</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation type="unfinished">Fallande</translation>
+        <translation>Fallande</translation>
     </message>
     <message>
         <source>Directory order</source>
-        <translation type="unfinished">Mappordning</translation>
+        <translation>Mappordning</translation>
     </message>
     <message>
         <source>Display directories first</source>
-        <translation type="unfinished">Visa mappar överst</translation>
+        <translation>Visa mappar överst</translation>
     </message>
     <message>
         <source>Display directories last</source>
-        <translation type="unfinished">Visa mappar sist</translation>
+        <translation>Visa mappar sist</translation>
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-        <translation type="unfinished">Ordna inte mappar</translation>
+        <translation>Ordna inte mappar</translation>
     </message>
 </context>
 <context>
@@ -757,7 +757,7 @@
     </message>
     <message>
         <source>GitHub Fileman project</source>
-        <translation type="unfinished"></translation>
+        <translation>GitHub Fileman-projekt</translation>
     </message>
 </context>
 <context>
@@ -855,7 +855,7 @@
     </message>
     <message>
         <source>All of the files were cut and pasted successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer klipptes ut och klistrades in korrekt.</translation>
     </message>
 </context>
 </TS>
