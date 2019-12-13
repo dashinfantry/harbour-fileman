@@ -371,7 +371,7 @@
     </message>
     <message>
         <source>Open external</source>
-        <translation type="unfinished"></translation>
+        <translation>用外部软件打开</translation>
     </message>
 </context>
 <context>
@@ -482,11 +482,11 @@
     </message>
     <message>
         <source>Group permissions</source>
-        <translation>组权限</translation>
+        <translation>用户组权限</translation>
     </message>
     <message>
         <source>Owner permissions</source>
-        <translation>所属者权限</translation>
+        <translation>所有者权限</translation>
     </message>
 </context>
 <context>
