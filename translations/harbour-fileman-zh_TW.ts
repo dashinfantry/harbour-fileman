@@ -657,11 +657,11 @@
     <name>ShareFilesPage</name>
     <message>
         <source>No sharing accounts available!</source>
-        <translation>木可用分享賬戶！</translation>
+        <translation>沒有可用分享賬戶！</translation>
     </message>
     <message>
         <source>Note: You can only share one file at a time. Not multiple ones.</source>
-        <translation>主義：你勁客每次分享一個文件。不能同時分享多個。</translation>
+        <translation>注意：你僅可每次分享一個文件。不能同時分享多個。</translation>
     </message>
 </context>
 <context>
@@ -758,7 +758,7 @@
     </message>
     <message>
         <source>GitHub Fileman project</source>
-        <translation>GitHub Fileman 項目</translation>
+        <translation>GitHub 上的Fileman 項目</translation>
     </message>
 </context>
 <context>
