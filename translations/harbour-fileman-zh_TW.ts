@@ -38,11 +38,11 @@
     </message>
     <message>
         <source>Icons</source>
-        <translation>標識</translation>
+        <translation>圖示</translation>
     </message>
     <message>
         <source>Fileman icons made by Gregguh.</source>
-        <translation>Fileman 標識繪製者爲 Gregguh 。</translation>
+        <translation>Fileman 圖示繪製者爲 Gregguh 。</translation>
     </message>
     <message>
         <source>Thanking</source>
@@ -754,7 +754,7 @@
     <name>TranslationsPage</name>
     <message>
         <source>Fileman translators</source>
-        <translation>Fileman翻譯</translation>
+        <translation>Fileman 譯者</translation>
     </message>
     <message>
         <source>GitHub Fileman project</source>
