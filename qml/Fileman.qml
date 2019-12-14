@@ -43,7 +43,7 @@ ApplicationWindow
     allowedOrientations: Orientation.All
 
     property string appName: "Fileman"
-    property string version: "1.1-12"
+    property string version: "1.1-13"
 
     initialPage: settings.showdisclaimer() ? Qt.resolvedUrl("pages/Disclaimer.qml") :
                                        Qt.resolvedUrl("pages/BackPage.qml")

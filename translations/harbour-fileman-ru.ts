@@ -5,7 +5,7 @@
     <name>AboutPage</name>
     <message>
         <source>What&apos;s</source>
-        <translation>Какое&apos;s</translation>
+        <translation>Что такое&apos;s</translation>
     </message>
     <message>
         <source>Licensing</source>
@@ -170,7 +170,7 @@
     </message>
     <message>
         <source>Places</source>
-        <translation>Места</translation>
+        <translation>Панель папок</translation>
     </message>
     <message>
         <source>Search in directory</source>
@@ -208,7 +208,7 @@
     </message>
     <message>
         <source>Donate!</source>
-        <translation type="unfinished">Пожертвовать!</translation>
+        <translation>Пожертвовать!</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
@@ -667,7 +667,7 @@
     <name>ShortcutsView</name>
     <message>
         <source>Places</source>
-        <translation>Места</translation>
+        <translation>Панель папок</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -707,7 +707,7 @@
     </message>
     <message>
         <source>Android locations</source>
-        <translation>местоположения Android&gt;</translation>
+        <translation>местоположение Android&gt;</translation>
     </message>
     <message>
         <source>Android storage</source>
