@@ -179,7 +179,7 @@
     </message>
     <message>
         <source>About Fileman</source>
-       <translation>關於 Fileman</translation>
+        <translation>關於 Fileman</translation>
     </message>
     <message>
         <source>Fileman settings</source>
@@ -232,7 +232,7 @@
     </message>
     <message>
         <source>Execute</source>
-       <translation>執行</translation>
+        <translation>執行</translation>
     </message>
     <message>
         <source>MPG video</source>
@@ -252,7 +252,7 @@
     </message>
     <message>
         <source>Size</source>
-       <translation>大小</translation>
+        <translation>大小</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -355,10 +355,6 @@
         <translation>未知</translation>
     </message>
     <message>
-        <source>Word 2007  document</source>
-        <translation>Word 文檔</translation>
-    </message>
-    <message>
         <source>Excel spreadsheet</source>
         <translation>Excel 表格</translation>
     </message>
@@ -373,6 +369,10 @@
     <message>
         <source>Open external</source>
         <translation>用外部軟體開啓</translation>
+    </message>
+    <message>
+        <source>Word document</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -441,7 +441,7 @@
     <name>FileRenameDialog</name>
     <message>
         <source>Rename</source>
-       <translation>重命名</translation>
+        <translation>重命名</translation>
     </message>
 </context>
 <context>
@@ -516,10 +516,6 @@
         <translation>檢索中</translation>
     </message>
     <message>
-        <source>Sea檢索rch</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>%1 hits</source>
         <translation>%1 個結果</translation>
     </message>
@@ -530,6 +526,10 @@
     <message>
         <source>Deleting</source>
         <translation>刪除中</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -578,7 +578,7 @@
     </message>
     <message>
         <source>File display look</source>
-       <translation>文件顯示外觀</translation>
+        <translation>文件顯示外觀</translation>
     </message>
     <message>
         <source>Overlay visibility (seconds)</source>
@@ -586,11 +586,11 @@
     </message>
     <message>
         <source>Browse through all files</source>
-       <translation>瀏覽全部文件</translation>
+        <translation>瀏覽全部文件</translation>
     </message>
     <message>
         <source>When viewing a file, browse through all viewable files instead of files with the same file type</source>
-       <translation>瀏覽文件時，瀏覽全部可見文件而不是特定類型文件</translation>
+        <translation>瀏覽文件時，瀏覽全部可見文件而不是特定類型文件</translation>
     </message>
     <message>
         <source>Display black background</source>
@@ -606,51 +606,51 @@
     </message>
     <message>
         <source>Sort by</source>
-       <translation>分類方式</translation>
+        <translation>分類方式</translation>
     </message>
     <message>
         <source>Name</source>
-       <translation>名稱</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Time</source>
-       <translation>時間</translation>
+        <translation>時間</translation>
     </message>
     <message>
         <source>Size</source>
-       <translation>大小</translation>
+        <translation>大小</translation>
     </message>
     <message>
         <source>Type</source>
-       <translation>類型</translation>
+        <translation>類型</translation>
     </message>
     <message>
         <source>Sort order</source>
-       <translation>分類順序</translation>
+        <translation>分類順序</translation>
     </message>
     <message>
         <source>Ascending</source>
-       <translation>升序</translation>
+        <translation>升序</translation>
     </message>
     <message>
         <source>Descending</source>
-       <translation>降序</translation>
+        <translation>降序</translation>
     </message>
     <message>
         <source>Directory order</source>
-       <translation>目錄順序</translation>
+        <translation>目錄順序</translation>
     </message>
     <message>
         <source>Display directories first</source>
-       <translation>先顯示目錄</translation>
+        <translation>先顯示目錄</translation>
     </message>
     <message>
         <source>Display directories last</source>
-       <translation>後顯示目錄</translation>
+        <translation>後顯示目錄</translation>
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-       <translation>請勿排列目錄</translation>
+        <translation>請勿排列目錄</translation>
     </message>
 </context>
 <context>
@@ -668,7 +668,7 @@
     <name>ShortcutsView</name>
     <message>
         <source>Places</source>
-       <translation>分類</translation>
+        <translation>分類</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -676,7 +676,7 @@
     </message>
     <message>
         <source>Last location</source>
-        <translation>上次位置/translation>
+        <translation>上次位置</translation>
     </message>
     <message>
         <source>Home</source>
@@ -769,7 +769,7 @@
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
-       <translation>Fileman 是一個旗魚系統文件管理器。</translation>
+        <translation>Fileman 是一個旗魚系統文件管理器。</translation>
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
