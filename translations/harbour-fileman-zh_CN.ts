@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation>是GNU通用公共许可证（GPL），版本3或更高版本下发布的免费软件。</translation>
+        <translation>是 GNU 通用公共许可证（GPL），版本3或更高版本下发布的免费软件。</translation>
     </message>
     <message>
         <source>Rudi Timmermans</source>
