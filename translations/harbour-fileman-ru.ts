@@ -5,7 +5,7 @@
     <name>AboutPage</name>
     <message>
         <source>What&apos;s</source>
-        <translation>Что такое&apos;s</translation>
+        <translation>Что такое</translation>
     </message>
     <message>
         <source>Licensing</source>
@@ -154,7 +154,7 @@
     </message>
     <message>
         <source>Don&apos;t show page header</source>
-        <translation>Don&apos; показать заголовок страницы</translation>
+        <translation>Не показывать заголовок страницы</translation>
     </message>
     <message>
         <source>Show hidden files</source>
@@ -162,7 +162,7 @@
     </message>
     <message>
         <source>Don&apos;t show hidden files</source>
-        <translation>Don&apos;t показать скрытые файлы</translation>
+        <translation>Не показывать скрытые файлы</translation>
     </message>
     <message>
         <source>New...</source>
@@ -212,7 +212,7 @@
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished">Don&apos; показать снова</translation>
+        <translation>Не показывать снова</translation>
     </message>
 </context>
 <context>
@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>Execute</source>
-        <translation>ВыполнитьExecute</translation>
+        <translation>Выполнить</translation>
     </message>
     <message>
         <source>MPG video</source>
@@ -433,7 +433,7 @@
     </message>
     <message>
         <source>File couldn&apos;t be opened</source>
-        <translation>Файл не может&apos;t не быть открытым</translation>
+        <translation>Файл не может быть открыт</translation>
     </message>
 </context>
 <context>
@@ -707,7 +707,7 @@
     </message>
     <message>
         <source>Android locations</source>
-        <translation>местоположение Android&gt;</translation>
+        <translation>местоположение Android</translation>
     </message>
     <message>
         <source>Android storage</source>
@@ -803,7 +803,7 @@
     </message>
     <message>
         <source>Directories couldn&apos;t be created.</source>
-        <translation>Каталоги не могут&apos; не будет создано.</translation>
+        <translation>Каталоги не могут быть созданы.</translation>
     </message>
     <message>
         <source>Copying files (%1 of %2)...</source>
@@ -815,7 +815,7 @@
     </message>
     <message>
         <source>All files couldn&apos;t be copied successfully.</source>
-        <translation>Все файлы не могут&apos; не будет успешно скопировано.</translation>
+        <translation>Все файлы не могут быть успешно скопированы.</translation>
     </message>
     <message>
         <source>Deleting old files (%1 of %2)...</source>
@@ -827,7 +827,7 @@
     </message>
     <message>
         <source>All of the files couldn&apos;t be cut and pasted successfully.</source>
-        <translation>Все файлы не могут&apos; быть вырезанным и вставленным успешно.</translation>
+        <translation>Все файлы не могут быть успешно вырезаны и вставлены.</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting copied files (%1 of %2)...</source>
@@ -851,7 +851,7 @@
     </message>
     <message>
         <source>All files couldn&apos;t be deleted successfully.</source>
-        <translation>Все файлы не могут&apos; не может быть успешно удален.</translation>
+        <translation>Все файлы не могут быть успешно удалены.</translation>
     </message>
     <message>
         <source>All of the files were cut and pasted successfully.</source>
