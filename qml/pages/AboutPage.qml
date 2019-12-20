@@ -72,6 +72,12 @@ Page {
 
             SectionHeader { text: qsTr("Donations") }
 
+            AboutLabel {
+                font.pixelSize: Theme.fontSizeSmall
+                color: Theme.primaryColor
+                text: qsTr("If you like my work and want to buy me a beer, feel free to do it!")
+            }
+
             Button {
                 text: qsTr("Donate with Paypal")
                 anchors.horizontalCenter: parent.horizontalCenter

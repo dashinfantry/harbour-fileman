@@ -64,6 +64,10 @@
         <source>Icons made by Gregguh.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>If you like my work and want to buy me a beer, feel free to do it!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryFileOperations</name>

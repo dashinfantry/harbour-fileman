@@ -63,6 +63,10 @@
         <source>Icons made by Gregguh.</source>
         <translation>Pictogrammen gemaakt door Gregguh.</translation>
     </message>
+    <message>
+        <source>If you like my work and want to buy me a beer, feel free to do it!</source>
+        <translation>Als je van mijn werk houdt en me een biertje wilt kopen, doe dat dan gerust!</translation>
+    </message>
 </context>
 <context>
     <name>DirectoryFileOperations</name>
