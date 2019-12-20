@@ -152,7 +152,7 @@ void FileEngine::tarFiles(const QString &tarFile, const QString &baseDir, const 
  */
 void FileEngine::createEntries(const QString &jsonString)
 {
-    QVariantList entryList = QJsonDocument::fromJson(QByteArray(jsonString.toLatin1())).array().toVariantList();
+    QVariantList entryList = QJsonDocument::fromJson(QByteArray(jsonString.toUtf8())).array().toVariantList();
 
     for (int i=0; i < entryList.length(); i++)
     {
