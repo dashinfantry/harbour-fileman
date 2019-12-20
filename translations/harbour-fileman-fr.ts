@@ -4,44 +4,16 @@
 <context>
     <name>AboutPage</name>
     <message>
-        <source>What&apos;s</source>
-        <translation>Qu’est-ce ?</translation>
-    </message>
-    <message>
         <source>Licensing</source>
         <translation>Licence</translation>
-    </message>
-    <message>
-        <source>is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation>est un logiciel libre publié sous licence GNU General Public License (GPL), version 3 ou ultérieure.</translation>
-    </message>
-    <message>
-        <source>Rudi Timmermans</source>
-        <translation>Rudi Timmermans</translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation>Version</translation>
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
         <translation>Fileman est un gestionnaire de fichiers pour Sailfish OS.</translation>
     </message>
     <message>
-        <source>Fileman developer</source>
-        <translation>Développeur de Fileman</translation>
-    </message>
-    <message>
-        <source>About Fileman</source>
-        <translation>À propos de Fileman</translation>
-    </message>
-    <message>
         <source>Icons</source>
         <translation>Icônes</translation>
-    </message>
-    <message>
-        <source>Fileman icons made by Gregguh.</source>
-        <translation>Icônes de Fileman est de Gregguh</translation>
     </message>
     <message>
         <source>Thanking</source>
@@ -68,11 +40,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If you like my work and want to buy me a beer, feel free to do it!</source>
+        <source>About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>GitHub repository</source>
+        <source>Write a mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Source code is available at GitHub. Translations, bug reports and other contributions are welcome!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GitHub</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icons made by Gregguh.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

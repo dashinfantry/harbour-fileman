@@ -4,52 +4,20 @@
 <context>
     <name>AboutPage</name>
     <message>
-        <source>What&apos;s</source>
-        <translation>Wat is</translation>
-    </message>
-    <message>
         <source>Licensing</source>
         <translation>Licentie</translation>
-    </message>
-    <message>
-        <source>is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation>is gratis software vrijgegeven onder de GNU General Public License (GPL), versie 3 of nieuwer.</translation>
-    </message>
-    <message>
-        <source>Rudi Timmermans</source>
-        <translation>Rudi Timmermans</translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation>Versie</translation>
     </message>
     <message>
         <source>Fileman is a File Manager for Sailfish OS.</source>
         <translation>Fileman is een bestandsbeheerder voor Sailfish OS.</translation>
     </message>
     <message>
-        <source>Fileman developer</source>
-        <translation>Fileman ontwikkelaar</translation>
-    </message>
-    <message>
-        <source>About Fileman</source>
-        <translation>Over Fileman</translation>
-    </message>
-    <message>
         <source>Icons</source>
         <translation>Pictogrammen</translation>
     </message>
     <message>
-        <source>Fileman icons made by Gregguh.</source>
-        <translation>Fileman pictogrammen gemaakt door Gregguh.</translation>
-    </message>
-    <message>
         <source>Thanking</source>
         <translation>Bedankt</translation>
-    </message>
-    <message>
-        <source>GitHub repository</source>
-        <translation>GitHub repository</translation>
     </message>
     <message>
         <source>Report an Issue</source>
@@ -72,8 +40,28 @@
         <translation>Doneren</translation>
     </message>
     <message>
-        <source>If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation>Als je fan bent van mijn werk en me wil trakteren op een drankje, ga je gang!</translation>
+        <source>About</source>
+        <translation>Over</translation>
+    </message>
+    <message>
+        <source>Write a mail</source>
+        <translation>Schrijf een mail</translation>
+    </message>
+    <message>
+        <source>Source code is available at GitHub. Translations, bug reports and other contributions are welcome!</source>
+        <translation>Broncode is beschikbaar op GitHub. Vertalingen, bugrapporten en andere bijdragen zijn welkom!</translation>
+    </message>
+    <message>
+        <source>GitHub</source>
+        <translation>GitHub</translation>
+    </message>
+    <message>
+        <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
+        <translation>Fileman is gratis software uitgegeven onder de GNU General Public License (GPL), versie 3 of hoger.</translation>
+    </message>
+    <message>
+        <source>Icons made by Gregguh.</source>
+        <translation>Pictogrammen gemaakt door Gregguh.</translation>
     </message>
 </context>
 <context>

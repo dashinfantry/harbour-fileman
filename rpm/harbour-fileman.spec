@@ -13,8 +13,8 @@ Name:       harbour-fileman
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    harbour-fileman
-Version:    1.1
-Release:    14
+Version:    1.2
+Release:    1
 Group:      Qt/Qt
 License:    GPLv3
 URL:        https://github.com/Xray1870/harbour-fileman

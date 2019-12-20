@@ -1,8 +1,4 @@
 <RCC>
-    <qresource prefix="/images">
-        <file alias="developer">data/images/icon-developer.png</file>
-        <file alias="paypal">data/images/icon-paypal.png</file>
-    </qresource>
     <qresource prefix="/icons">
         <file alias="audio">data/icons/audio-x-generic.svg</file>
         <file alias="image">data/icons/image-x-generic.svg</file>

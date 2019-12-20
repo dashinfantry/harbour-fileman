@@ -3,31 +3,17 @@ import Sailfish.Silica 1.0
 import "./components"
 
 Page {
-        allowedOrientations: Orientation.All
+    id: aboutPage
+
+    allowedOrientations: Orientation.All
 
     SilicaFlickable {
+        id: aboutFlickable
         anchors.fill: parent
-        contentHeight: aboutColumn.height
-
-        VerticalScrollDecorator {}
+        contentHeight: column.height
 
         PullDownMenu
         {
-            MenuItem
-            {
-                text: qsTr("GitHub repository")
-                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman")
-            }
-
-            MenuItem
-            {
-                text: qsTr("Report an Issue")
-                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/issues")
-            }
-        }
-
-        PushUpMenu {
-
             MenuItem
             {
                 text: qsTr("Fileman translations")
@@ -36,58 +22,100 @@ Page {
         }
 
         Column {
-            id: aboutColumn
-            width: parent.width
+            id: column
+            anchors {
+                top: parent.top
+                horizontalCenter: parent.horizontalCenter
+            }
+            width: Math.min(Screen.width, aboutFlickable.width)
             spacing: Theme.paddingLarge
 
-            PageHeader { title: qsTr("About Fileman") }
-
-            SectionHeader { text: qsTr("What's") + " Fileman?" }
-
-            Image {
-                source: "/usr/share/icons/hicolor/172x172/apps/harbour-fileman.png"
-                width: 2/3 * parent.width
-                fillMode: Image.PreserveAspectFit
-                anchors.horizontalCenter: parent.horizontalCenter
+            Item {
+                width: parent.width
+                height: Theme.paddingLarge
             }
 
-            TextLabel { labelText: qsTr("Fileman is a File Manager for Sailfish OS.") }
+            SectionHeader { text: qsTr("About") + " Fileman" }
 
-            SectionHeader { text: qsTr("Licensing") }
-            TextLabel { labelText: "Fileman " + qsTr("is free software released under the GNU General Public License (GPL), version 3 or later.") }
-
-            SectionHeader { text: qsTr("Fileman developer") }
-
-            IconTextButton {
+            Image {
                 anchors.horizontalCenter: parent.horizontalCenter
-                text: qsTr("Rudi Timmermans")
-                iconSource: "qrc:/images/developer"
-                onClicked: { Qt.openUrlExternally("https://twitter.com/RudiTimmermans");
-                }
+                source: Qt.resolvedUrl("/usr/share/icons/hicolor/172x172/apps/harbour-fileman.png")
+                width: Theme.iconSizeExtraLarge
+                height: Theme.iconSizeExtraLarge
+                smooth: true
+                asynchronous: true
+            }
+
+            AboutLabel {
+                font.pixelSize: Theme.fontSizeLarge
+                color: Theme.highlightColor
+                text: "Fileman v" + Qt.application.version
+            }
+
+            AboutLabel {
+                font.pixelSize: Theme.fontSizeSmall
+                color: Theme.primaryColor
+                text: "Copyright © 2019-2020 By Rudi Timmermans."
+            }
+
+            Button {
+                text: qsTr("Write a mail")
+                anchors.horizontalCenter: parent.horizontalCenter
+                onClicked: Qt.openUrlExternally("mailto:rudi.timmer@mail.ch")
+            }
+
+            AboutLabel {
+                font.pixelSize: Theme.fontSizeSmall
+                color: Theme.primaryColor
+                text: qsTr("Fileman is a File Manager for Sailfish OS.")
             }
 
             SectionHeader { text: qsTr("Donations") }
 
-            TextLabel { labelText: qsTr("If you like my work and want to buy me a beer, feel free to do it!") }
-
-            IconTextButton {
-                anchors.horizontalCenter: parent.horizontalCenter
+            Button {
                 text: qsTr("Donate with Paypal")
-                iconSource: "qrc:/images/paypal"
-                onClicked: { Qt.openUrlExternally("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=29THE9VFMZ4PS");
-                }
+                anchors.horizontalCenter: parent.horizontalCenter
+                onClicked: Qt.openUrlExternally("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=29THE9VFMZ4PS");
             }
 
             SectionHeader { text: qsTr("Icons") }
-            TextLabel { labelText: qsTr("Fileman icons made by Gregguh.") }
+
+            AboutLabel {
+                font.pixelSize: Theme.fontSizeSmall
+                text: qsTr("Icons made by Gregguh.")
+            }
 
             SectionHeader { text: qsTr("Thanking") }
-            TextLabel { labelText: qsTr("Thanks to Velox and Sargo-devel for the help on the Search function.") }
 
-            SectionHeader { text: qsTr("Version") }
-            TextLabel { labelText: "Fileman v" + Qt.application.version }
+            AboutLabel {
+                font.pixelSize: Theme.fontSizeSmall
+                text: qsTr("Thanks to Velox and Sargo-devel for the help on the Search function.")
+            }
 
-            Item { width: parent.width; height: Theme.itemSizeMedium } //Spacer
+            SectionHeader { text: qsTr("Licensing") }
+
+            AboutLabel {
+                font.pixelSize: Theme.fontSizeSmall
+                text: qsTr("Source code is available at GitHub. Translations, bug reports and other contributions are welcome!")
+            }
+
+            Button {
+                text: qsTr("GitHub")
+                anchors.horizontalCenter: parent.horizontalCenter
+                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman")
+            }
+
+            Button {
+                text: qsTr("Report an Issue")
+                anchors.horizontalCenter: parent.horizontalCenter
+                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/issues")
+            }
+
+            AboutLabel {
+                font.pixelSize: Theme.fontSizeSmall
+                color: Theme.primaryColor
+                text: qsTr("Fileman is free software released under the GNU General Public License (GPL), version 3 or later.")
+            }
+          }
         }
-    }
-}
+      }

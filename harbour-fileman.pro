@@ -72,7 +72,7 @@ DISTFILES += \
     qml/js/functions.js \
     qml/pages/components/ClickableLabel.qml \
     qml/pages/components/IconTextButton.qml \
-    qml/pages/components/TextLabel.qml \
+    qml/pages/components/AboutLabel.qml \
     qml/pages/components/CollaboratorsLabel.qml \
     qml/pages/components/NotificationPanel.qml \
     qml/pages/components/ProgressPanel.qml \
