@@ -85,7 +85,7 @@ Page {
             TextLabel { labelText: qsTr("Thanks to Velox and Sargo-devel for the help on the Search function.") }
 
             SectionHeader { text: qsTr("Version") }
-            TextLabel { labelText: mainWindow.appName + " v" + mainWindow.version }
+            TextLabel { labelText: "Fileman v" + Qt.application.version }
 
             Item { width: parent.width; height: Theme.itemSizeMedium } //Spacer
         }

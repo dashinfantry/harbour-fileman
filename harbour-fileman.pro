@@ -24,6 +24,13 @@ CONFIG += sailfishapp
 
 QT += multimedia
 
+# Write version file
+VERSION_H = \
+"$${LITERAL_HASH}ifndef FILEMAN_VERSION" \
+"$${LITERAL_HASH}   define FILEMAN_VERSION \"$$VERSION\"" \
+"$${LITERAL_HASH}endif"
+write_file($$$$OUT_PWD/fileman_version.h, VERSION_H)
+
 SOURCES += \
     src/thumbnailprovider.cpp \
     src/settings.cpp \

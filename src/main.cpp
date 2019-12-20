@@ -1,6 +1,7 @@
 #include <QtQuick>
 #include <QQmlComponent>
 #include <sailfishapp.h>
+#include <fileman_version.h>
 #include "thumbnailprovider.h"
 #include "settings.h"
 #include "filelist.h"
@@ -16,6 +17,8 @@ int main(int argc, char *argv[])
 
     QGuiApplication *app = SailfishApp::application(argc, argv);
     QQuickView *view = SailfishApp::createView();
+
+    app->setApplicationVersion(QStringLiteral(FILEMAN_VERSION));
 
     qmlRegisterType<Settings>("harbour.fileman.settings",1,0,"SettingsObject");
 

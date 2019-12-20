@@ -14,7 +14,7 @@ Name:       harbour-fileman
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    harbour-fileman
 Version:    1.1
-Release:    13
+Release:    14
 Group:      Qt/Qt
 License:    GPLv3
 URL:        https://github.com/Xray1870/harbour-fileman
@@ -42,9 +42,8 @@ A feature filled file manager application for SailfishOS
 # >> build pre
 # << build pre
 
-%qtc_qmake5 
-
-%qtc_make %{?_smp_mflags}
+%qmake5  \
+    VERSION=%{version}
 
 # >> build post
 # << build post

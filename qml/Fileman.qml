@@ -38,12 +38,7 @@ ApplicationWindow
     }
 
     property bool selectingItems: false
-
-    id: mainWindow
     allowedOrientations: Orientation.All
-
-    property string appName: "Fileman"
-    property string version: "1.1-13"
 
     initialPage: settings.showdisclaimer() ? Qt.resolvedUrl("pages/Disclaimer.qml") :
                                        Qt.resolvedUrl("pages/BackPage.qml")
