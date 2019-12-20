@@ -67,6 +67,10 @@
         <source>If you like my work and want to buy me a beer, feel free to do it!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Copyright © 2019-2020 by Rudi Timmermans.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DirectoryFileOperations</name>

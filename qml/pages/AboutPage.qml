@@ -55,7 +55,7 @@ Page {
             AboutLabel {
                 font.pixelSize: Theme.fontSizeSmall
                 color: Theme.primaryColor
-                text: "Copyright © 2019-2020 By Rudi Timmermans."
+                text: qsTr("Copyright © 2019-2020 by Rudi Timmermans.")
             }
 
             Button {

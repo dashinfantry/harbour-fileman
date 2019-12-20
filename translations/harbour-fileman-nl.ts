@@ -67,6 +67,10 @@
         <source>If you like my work and want to buy me a beer, feel free to do it!</source>
         <translation>Als je van mijn werk houdt en me een biertje wilt kopen, doe dat dan gerust!</translation>
     </message>
+    <message>
+        <source>Copyright © 2019-2020 by Rudi Timmermans.</source>
+        <translation>Copyright © 2019-2020 door Rudi Timmermans.</translation>
+    </message>
 </context>
 <context>
     <name>DirectoryFileOperations</name>
