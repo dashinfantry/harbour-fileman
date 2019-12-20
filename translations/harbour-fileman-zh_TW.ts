@@ -53,10 +53,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>GitHub</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
         <translation type="unfinished">Fileman 是 GNU 通用許可證（GPL）第三版及以上條款下發布的自由軟體。</translation>
     </message>
@@ -70,6 +66,14 @@
     </message>
     <message>
         <source>Copyright © 2019-2020 by Rudi Timmermans.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find me on Twitter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sources on GitHub</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

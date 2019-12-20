@@ -58,10 +58,26 @@ Page {
                 text: qsTr("Copyright © 2019-2020 by Rudi Timmermans.")
             }
 
-            Button {
-                text: qsTr("Write a mail")
-                anchors.horizontalCenter: parent.horizontalCenter
-                onClicked: Qt.openUrlExternally("mailto:rudi.timmer@mail.ch")
+            Text {
+                text: "<a href=\"profile://ruditimmermans\">" + qsTr("Find me on Twitter") + "</a>"
+                anchors {
+                    horizontalCenter: parent.horizontalCenter
+                }
+                font.pixelSize: Theme.fontSizeSmall
+                linkColor: Theme.highlightColor
+
+                onLinkActivated: Qt.openUrlExternally("https://twitter.com/RudiTimmermans")
+            }
+
+            Text {
+                text: "<a href=\"mailto:rudi.timmer@mail.ch\">" + qsTr("Write a mail") + "</a>"
+                anchors {
+                    horizontalCenter: parent.horizontalCenter
+                }
+                font.pixelSize: Theme.fontSizeSmall
+                linkColor: Theme.highlightColor
+
+                onLinkActivated: Qt.openUrlExternally("mailto:rudi.timmer@mail.ch")
             }
 
             AboutLabel {
@@ -78,10 +94,15 @@ Page {
                 text: qsTr("If you like my work and want to buy me a beer, feel free to do it!")
             }
 
-            Button {
-                text: qsTr("Donate with Paypal")
-                anchors.horizontalCenter: parent.horizontalCenter
-                onClicked: Qt.openUrlExternally("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=29THE9VFMZ4PS");
+            Text {
+                text: "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=29THE9VFMZ4PS\">" + qsTr("Donate with Paypal") + "</a>"
+                anchors {
+                    horizontalCenter: parent.horizontalCenter
+                }
+                font.pixelSize: Theme.fontSizeSmall
+                linkColor: Theme.highlightColor
+
+                onLinkActivated: Qt.openUrlExternally("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=29THE9VFMZ4PS")
             }
 
             SectionHeader { text: qsTr("Icons") }
@@ -105,16 +126,26 @@ Page {
                 text: qsTr("Source code is available at GitHub. Translations, bug reports and other contributions are welcome!")
             }
 
-            Button {
-                text: qsTr("GitHub")
-                anchors.horizontalCenter: parent.horizontalCenter
-                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman")
+            Text {
+                text: "<a href=\"https://github.com/Xray1870/harbour-fileman\">" + qsTr("Sources on GitHub") + "</a>"
+                anchors {
+                    horizontalCenter: parent.horizontalCenter
+                }
+                font.pixelSize: Theme.fontSizeSmall
+                linkColor: Theme.highlightColor
+
+                onLinkActivated: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman")
             }
 
-            Button {
-                text: qsTr("Report an Issue")
-                anchors.horizontalCenter: parent.horizontalCenter
-                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/issues")
+            Text {
+                text: "<a href=\"https://github.com/Xray1870/harbour-fileman/issues\">" + qsTr("Report an Issue") + "</a>"
+                anchors {
+                    horizontalCenter: parent.horizontalCenter
+                }
+                font.pixelSize: Theme.fontSizeSmall
+                linkColor: Theme.highlightColor
+
+                onLinkActivated: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/issues")
             }
 
             AboutLabel {

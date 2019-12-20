@@ -52,10 +52,6 @@
         <translation>Broncode is beschikbaar op GitHub. Vertalingen, bugrapporten en andere bijdragen zijn welkom!</translation>
     </message>
     <message>
-        <source>GitHub</source>
-        <translation>GitHub</translation>
-    </message>
-    <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
         <translation>Fileman is gratis software uitgegeven onder de GNU General Public License (GPL), versie 3 of hoger.</translation>
     </message>
@@ -70,6 +66,14 @@
     <message>
         <source>Copyright © 2019-2020 by Rudi Timmermans.</source>
         <translation>Copyright © 2019-2020 door Rudi Timmermans.</translation>
+    </message>
+    <message>
+        <source>Find me on Twitter</source>
+        <translation>Vind me op Twitter</translation>
+    </message>
+    <message>
+        <source>Sources on GitHub</source>
+        <translation>Bronnen op GitHub</translation>
     </message>
 </context>
 <context>
