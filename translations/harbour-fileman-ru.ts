@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="ru">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ru" version="2.1">
 <context>
     <name>AboutPage</name>
     <message>
@@ -41,39 +39,39 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>О приложении</translation>
     </message>
     <message>
         <source>Write a mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Написать письмо</translation>
     </message>
     <message>
         <source>Source code is available at GitHub. Translations, bug reports and other contributions are welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходный код доступен на GitHub. Переводы, сообщения об ошибках и другие материалы приветствуются!</translation>
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished">Fileman - это бесплатное программное обеспечение, выпущенное под лицензией GNU General Public License (GPL) версии 3 или более поздней.</translation>
+        <translation>Fileman - это бесплатное программное обеспечение, выпущенное под лицензией GNU General Public License (GPL) версии 3 или более поздней.</translation>
     </message>
     <message>
         <source>Icons made by Gregguh.</source>
-        <translation type="unfinished"></translation>
+        <translation>Разработчик иконок Gregguh.</translation>
     </message>
     <message>
         <source>If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вам нравится моя работа и вы хотите купить мне пиво, не стесняйтесь делать это!</translation>
     </message>
     <message>
         <source>Copyright © 2019-2020 by Rudi Timmermans.</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторское право © 2019-2020 Руди Тиммерманс.</translation>
     </message>
     <message>
         <source>Find me on Twitter</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти меня в Twitter</translation>
     </message>
     <message>
         <source>Sources on GitHub</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходники на GitHub</translation>
     </message>
 </context>
 <context>
@@ -204,15 +202,15 @@
     <name>Disclaimer</name>
     <message>
         <source>&lt;b&gt;Fileman is a File Manager for Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman is free software released under the GNU General Public License (GPL), version 3 or later.&lt;br&gt;&lt;br&gt;If you want to support Fileman and its development please consider donating.&lt;br&gt;&lt;br&gt;Thank you very much for your donation to the development of Fileman!</source>
-        <translation type="unfinished">&lt;b&gt;Fileman - файловый менеджер для Sailfish OS.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman - это бесплатное программное обеспечение, выпущенное под лицензией GNU General Public License (GPL) версии 3 или более поздней.&lt;br&gt;&lt;br&gt;Если вы хотите поддержать Fileman и его разработку, рассмотрите возможность пожертвования.&lt;br&gt;&lt;br&gt;Большое спасибо за ваш вклад в развитие Fileman!</translation>
-    </message>
-    <message>
-        <source>Donate!</source>
-        <translation>Пожертвовать!</translation>
+        <translation>&lt;b&gt;Fileman - это файловый менеджер для Sailfish OS. &lt;/b&gt;&lt;br&gt;&lt;br&gt;Fileman - это бесплатное программное обеспечение, выпущенное под лицензией GNU General Public License (GPL) версии 3 или более поздней. &lt;br&gt;&lt;br&gt;Если вы хотите поддержать Fileman и его разработку, рассмотрите возможность пожертвования. &lt;br&gt;&lt;br&gt;Большое спасибо за ваше пожертвование разработка Fileman!</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
         <translation>Не показывать снова</translation>
+    </message>
+    <message>
+        <source>Donate!</source>
+        <translation>Пожертвовать!</translation>
     </message>
 </context>
 <context>
@@ -421,7 +419,7 @@
     </message>
     <message>
         <source>Installation couldn&apos;t be started</source>
-        <translation>Установка не может&apos;t не может быть начата</translation>
+        <translation>Установка не может быть начата</translation>
     </message>
     <message>
         <source>File opened</source>
@@ -649,7 +647,7 @@
     </message>
     <message>
         <source>Don&apos;t order directories</source>
-        <translation>Don&apos;t каталоги заказов</translation>
+        <translation>Скрыть каталоги</translation>
     </message>
 </context>
 <context>
@@ -757,7 +755,7 @@
     </message>
     <message>
         <source>Transifex Fileman project</source>
-        <translation type="unfinished"></translation>
+        <translation>Проект Transifex Fileman</translation>
     </message>
 </context>
 <context>
