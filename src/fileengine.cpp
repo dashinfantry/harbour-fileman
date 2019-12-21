@@ -105,7 +105,7 @@ void FileEngine::resetCurrentFileIndex()
  */
 void FileEngine::renameFiles(const QString &jsonString)
 {
-    QVariantList fileList = QJsonDocument::fromJson(QByteArray(jsonString.toLatin1())).array().toVariantList();
+    QVariantList fileList = QJsonDocument::fromJson(QByteArray(jsonString.toUtf8())).array().toVariantList();
 
     for (int i=0; i < fileList.length(); i++)
     {
