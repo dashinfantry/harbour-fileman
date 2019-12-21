@@ -41,39 +41,39 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>关于</translation>
     </message>
     <message>
         <source>Write a mail</source>
-        <translation type="unfinished"></translation>
+        <translation>发送邮件</translation>
     </message>
     <message>
         <source>Source code is available at GitHub. Translations, bug reports and other contributions are welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>源代码位于 Github 。欢迎提供翻译、包括缺陷及提供其它贡献！</translation>
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished">Fileman 是采用 GNU 通用许可协议版本3及以上（GPL）的自由软件。</translation>
+        <translation>Fileman 是采用 GNU 通用许可协议版本3及以上（GPL）的自由软件。</translation>
     </message>
     <message>
         <source>Icons made by Gregguh.</source>
-        <translation type="unfinished"></translation>
+        <translation>图标制作者为 Gregguh 。</translation>
     </message>
     <message>
         <source>If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你喜欢我的作品并且想给我买瓶啤酒，请别客气！</translation>
     </message>
     <message>
         <source>Copyright © 2019-2020 by Rudi Timmermans.</source>
-        <translation type="unfinished"></translation>
+        <translation>版权所有 © 2019-2020 作者:Rudi Timmermans 。</translation>
     </message>
     <message>
         <source>Find me on Twitter</source>
-        <translation type="unfinished"></translation>
+        <translation>在 Twitter 上找到我</translation>
     </message>
     <message>
         <source>Sources on GitHub</source>
-        <translation type="unfinished"></translation>
+        <translation>源代码位于 Github</translation>
     </message>
 </context>
 <context>
@@ -719,7 +719,7 @@
     </message>
     <message>
         <source>SD card</source>
-        <translation>SD 卡</translation>
+        <translation>SD卡</translation>
     </message>
     <message>
         <source>Bookmarks</source>
@@ -757,7 +757,7 @@
     </message>
     <message>
         <source>GitHub Fileman project</source>
-        <translation>Github Fileman 项目</translation>
+        <translation>Github 上的 Fileman 项目</translation>
     </message>
 </context>
 <context>
@@ -831,15 +831,15 @@
     </message>
     <message>
         <source>Failed to copy all files, deleting copied files (%1 of %2)...</source>
-        <translation>无法复制全部文件，正在删除复制的文件(%1 of %2)</translation>
+        <translation>无法复制全部文件，正在删除已复制的文件(%1 of %2)</translation>
     </message>
     <message>
         <source>Failed to copy all files, deleting created directories...</source>
-        <translation>无法复制全部文件，正在删除创建的目录……</translation>
+        <translation>无法复制全部文件，正在删除已创建的目录……</translation>
     </message>
     <message>
         <source>Deleting files (%1 of %2)...</source>
-        <translation>正在删除所有文件(%1 of %2) ……</translation>
+        <translation>正在删除文件(%1 of %2) ……</translation>
     </message>
     <message>
         <source>Deleting directories...</source>
