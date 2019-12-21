@@ -756,7 +756,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>GitHub Fileman project</source>
+        <source>Transifex Fileman project</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -756,8 +756,8 @@
         <translation>Fileman 翻译者</translation>
     </message>
     <message>
-        <source>GitHub Fileman project</source>
-        <translation>Github 上的 Fileman 项目</translation>
+        <source>Transifex Fileman project</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

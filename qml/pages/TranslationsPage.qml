@@ -18,8 +18,8 @@ Page
         {
             MenuItem
             {
-                text: qsTr("GitHub Fileman project")
-                onClicked: Qt.openUrlExternally("https://github.com/Xray1870/harbour-fileman/tree/master/translations")
+                text: qsTr("Transifex Fileman project")
+                onClicked: Qt.openUrlExternally("https://www.transifex.com/fileman/fileman-1")
             }
         }
 
