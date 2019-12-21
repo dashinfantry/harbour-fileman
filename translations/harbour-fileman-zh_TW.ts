@@ -42,39 +42,39 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>關於</translation>
     </message>
     <message>
         <source>Write a mail</source>
-        <translation type="unfinished"></translation>
+        <translation>撰寫電郵</translation>
     </message>
     <message>
         <source>Source code is available at GitHub. Translations, bug reports and other contributions are welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>源代碼位於 Github 。歡迎提供翻譯、報告缺陷及作出其它貢獻！</translation>
     </message>
     <message>
         <source>Fileman is free software released under the GNU General Public License (GPL), version 3 or later.</source>
-        <translation type="unfinished">Fileman 是 GNU 通用許可證（GPL）第三版及以上條款下發布的自由軟體。</translation>
+        <translation>Fileman 是 GNU 通用許可證（GPL）第三版及以上條款下發布的自由軟體。</translation>
     </message>
     <message>
         <source>Icons made by Gregguh.</source>
-        <translation type="unfinished"></translation>
+        <translation>圖示製作者為 Gregguh 。</translation>
     </message>
     <message>
         <source>If you like my work and want to buy me a beer, feel free to do it!</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你喜歡我的作品並想給我買瓶啤酒，請別客氣！</translation>
     </message>
     <message>
         <source>Copyright © 2019-2020 by Rudi Timmermans.</source>
-        <translation type="unfinished"></translation>
+        <translation>版權所有 © 2019-2020 作者:Rudi Timmermans 。</translation>
     </message>
     <message>
         <source>Find me on Twitter</source>
-        <translation type="unfinished"></translation>
+        <translation>在推特找到我</translation>
     </message>
     <message>
         <source>Sources on GitHub</source>
-        <translation type="unfinished"></translation>
+        <translation>源代碼位於 Github</translation>
     </message>
 </context>
 <context>
@@ -109,19 +109,19 @@
     </message>
     <message>
         <source>1 entry selected</source>
-        <translation>已選中1個入口</translation>
+        <translation>已選中1個項目</translation>
     </message>
     <message>
         <source> entries selected</source>
-        <translation> 個入口已選中</translation>
+        <translation> 個項目已選中</translation>
     </message>
     <message>
         <source>1 entry in clipboard</source>
-        <translation>1個入口已置於剪切板</translation>
+        <translation>1個項目已置於剪切板</translation>
     </message>
     <message>
         <source> entries in clipboard</source>
-        <translation> 個入口已置於剪切板</translation>
+        <translation> 個項目已置於剪切板</translation>
     </message>
 </context>
 <context>
@@ -136,11 +136,11 @@
     </message>
     <message>
         <source> entry</source>
-        <translation> 入口</translation>
+        <translation> 項目</translation>
     </message>
     <message>
         <source> entries</source>
-        <translation> 入口</translation>
+        <translation> 項目</translation>
     </message>
 </context>
 <context>
@@ -163,7 +163,7 @@
     </message>
     <message>
         <source>Don&apos;t show hidden files</source>
-        <translation>不顯示隱藏文件</translation>
+        <translation>請勿顯示隱藏文件</translation>
     </message>
     <message>
         <source>New...</source>
@@ -372,7 +372,7 @@
     </message>
     <message>
         <source>Word document</source>
-        <translation type="unfinished"></translation>
+        <translation>Word 文檔</translation>
     </message>
 </context>
 <context>
@@ -529,7 +529,7 @@
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>檢索</translation>
     </message>
 </context>
 <context>
